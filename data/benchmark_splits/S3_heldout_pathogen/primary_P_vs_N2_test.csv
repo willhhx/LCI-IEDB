@@ -1,0 +1,1332 @@
+row_id,peptide,allele,label,tier,category,taxon_group,species,parent_name,evidence_tier,n2_confidence,reference_ids,group_id,S3_maxsim,S3_bin
+LCI000007,AAAGDKLSL,HLA-A*02:01,1,P,parasite,Trypanosoma,Trypanosoma cruzi,"Surface antigen 2 (CA-2), putative",A,,1028871,9,0.6666666666666666,60-79%
+LCI000011,AAATDTIRK,HLA-A*11:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,,C,,1048240,17,0.5555555555555556,40-59%
+LCI000013,AACIVGCENV,HLA-A*02:01,0,N2,parasite,Trypanosoma,Trypanosoma cruzi,"Cysteine peptidase, putative",A,high,1003942,19,0.5,40-59%
+LCI000014,AAERKHRHL,HLA-A*02:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,C,,1038969,21,0.5555555555555556,40-59%
+LCI000030,AALFFFDID,HLA-A*02:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,C,,1038969,21,0.5,40-59%
+LCI000040,AANCRRSAL,HLA-B*08:01,0,N2,virus,Hepeviridae (HEV),Paslahepevirus balayani,Non-structural polyprotein pORF1,C,medium,1042621,50,0.4444444444444444,40-59%
+LCI000041,AANDIVLNR,HLA-A*11:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,,C,,1048240,51,0.5555555555555556,40-59%
+LCI000043,AANPHATFGV,HLA-A*02:01,0,N2,parasite,Trypanosoma,Trypanosoma cruzi,"Cysteine peptidase, putative",A,high,1003942,19,0.5,40-59%
+LCI000049,AAQPKRRRH,HLA-A*02:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,C,,1038969,21,0.4444444444444444,40-59%
+LCI000058,AASTLLYATV,HLA-A*02:01,1,P,parasite,Trypanosoma,Trypanosoma cruzi,"Trans-sialidase, putative",A,,1003942,65,0.5,40-59%
+LCI000106,AEISRNDLI,HLA-A*02:01,1,P,parasite,Plasmodium,Plasmodium falciparum,"GTP-binding protein, putative",A,,1038983,121,0.6666666666666666,60-79%
+LCI000107,AEISRNDLI,HLA-A*24:02,1,P,parasite,Plasmodium,Plasmodium falciparum,"GTP-binding protein, putative",A,,1038983,121,0.6666666666666666,60-79%
+LCI000108,AEISRNDLI,HLA-B*44:03,1,P,parasite,Plasmodium,Plasmodium falciparum,"GTP-binding protein, putative",A,,1038983,121,0.6666666666666666,60-79%
+LCI000124,AEPNFPKNVW,HLA-B*44:02,1,P,virus,Herpesviridae,Human betaherpesvirus 5,Membrane protein US21,C,,1036355,140,0.5,40-59%
+LCI000207,AIGGGKLPAL,HLA-A*02:01,0,N2,parasite,Trypanosoma,Trypanosoma cruzi,"Surface antigen 2 (CA-2), putative",A,high,1028871,9,0.5,40-59%
+LCI000228,AILSVSSFLF,HLA-A*24:03,1,P,parasite,Plasmodium,Plasmodium falciparum,Circumsporozoite protein,C,,1026345,222,0.5,40-59%
+LCI000246,AIRETVELR,HLA-A*02:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,C,,1038969,21,0.5555555555555556,40-59%
+LCI000256,AIVFDHYDV,HLA-A*02:01,0,N2,parasite,Trypanosoma,Trypanosoma cruzi,"Trans-sialidase, putative",A,high,1003942,65,0.5555555555555556,40-59%
+LCI000260,AIVTCGAETL,HLA-A*02:01,0,N2,parasite,Trypanosoma,Trypanosoma cruzi,"Cysteine peptidase, putative",A,high,1003942,19,0.5,40-59%
+LCI000337,ALFFFDIDL,HLA-A*32:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,C,,1019108,21,0.5555555555555556,40-59%
+LCI000338,ALFFFDIDL,HLA-B*35:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,B,,1019108;1043931,21,0.5555555555555556,40-59%
+LCI000344,ALFNQLVFTA,HLA-A*02:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,Transcriptional regulator UL34,C,,1036355,308,0.5,40-59%
+LCI000372,ALIIIRSLL,HLA-A*02:01,0,N2,parasite,Plasmodium,Plasmodium falciparum,Thrombospondin-related anonymous protein,A,high,315582,222,0.5555555555555556,40-59%
+LCI000401,ALKNNGKVV,HLA-A*02:01,0,N2,parasite,Trypanosoma,Trypanosoma cruzi,"Trans-sialidase, putative",A,high,1003942,65,0.5555555555555556,40-59%
+LCI000427,ALLGRLYFI,HLA-A*02:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,Protein UL84,C,,1036355,372,0.5555555555555556,40-59%
+LCI000438,ALLQFLLAV,HLA-A*02:01,0,N2,parasite,Trypanosoma,Trypanosoma cruzi,Uncharacterized protein (Fragment),C,medium,1046886,377,0.6666666666666666,60-79%
+LCI000453,ALMLRLLRI,HLA-A*02:01,1,P,virus,Herpesviridae,Human alphaherpesvirus 1,Replication origin-binding protein,A,,1031894;1033529;1043931,394,0.6666666666666666,60-79%
+LCI000461,ALNESLSSL,HLA-A*02:01,0,N2,parasite,Trypanosoma,Trypanosoma cruzi,Protein kinase domain-containing protein,C,medium,1046886,404,0.5555555555555556,40-59%
+LCI000478,ALPLKMLNI,HLA-A*02:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,C,,1038969,21,0.5555555555555556,40-59%
+LCI000491,ALQVTNHRYL,HLA-A*02:01,1,P,parasite,Trypanosoma,Trypanosoma cruzi,"Surface antigen 2 (CA-2), putative",A,,1028871,9,0.5,40-59%
+LCI000498,ALRNLRVFL,HLA-A*02:01,1,P,parasite,Trypanosoma,Trypanosoma cruzi,"Surface antigen 2 (CA-2), putative",A,,1028871;1036167,9,0.6666666666666666,60-79%
+LCI000503,ALSALLTKL,HLA-A*02:01,1,P,virus,Herpesviridae,Human alphaherpesvirus 1,Tegument protein UL46,A,,1030466;1043931,445,0.6666666666666666,60-79%
+LCI000511,ALSLAAVLV,HLA-A*02:01,1,P,parasite,Trypanosoma,Trypanosoma cruzi,"Cysteine peptidase, putative",A,,1003942,19,0.6666666666666666,60-79%
+LCI000512,ALSLAAVLVV,HLA-A*02:01,1,P,parasite,Trypanosoma,Trypanosoma cruzi,"Cysteine peptidase, putative",A,,1003942,19,0.6,60-79%
+LCI000516,ALSPSTSKV,HLA-A*02:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,Uncharacterized protein US29,C,,1036355,454,0.6666666666666666,60-79%
+LCI000548,ALWDVALLEV,HLA-A*02:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,Uncharacterized protein UL150A,A,,1036355;1043931,481,0.6,60-79%
+LCI000555,ALWSGFTSI,HLA-A*02:01,0,N2,parasite,Trypanosoma,Trypanosoma cruzi,Uncharacterized protein,C,medium,1046886,484,0.5555555555555556,40-59%
+LCI000557,ALYAANNTRV,HLA-A*02:01,0,N2,virus,Herpesviridae,Rhadinovirus humangamma8,E3 ubiquitin-protein ligase MIR2,A,high,1022035,486,0.6,60-79%
+LCI000569,ALYPEYIYTV,HLA-A*02:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,Large tegument protein deneddylase,C,,1036355,494,0.6,60-79%
+LCI000575,AMAGASTSA,HLA-A*02:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,A,,1013323;1043931,21,0.5555555555555556,40-59%
+LCI000579,AMALIGDSTV,HLA-A*02:01,0,N2,parasite,Trypanosoma,Trypanosoma cruzi,"Trans-sialidase, putative",A,high,1003942,65,0.5,40-59%
+LCI000586,AMASASTSA,HLA-A*02:01,0,N2,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,B,high,1038969,21,0.6666666666666666,60-79%
+LCI000662,APFGRVSV,HLA-B*07:02,1,P,virus,Herpesviridae,Human betaherpesvirus 5,Protein UL31,C,,1036355,560,0.5555555555555556,40-59%
+LCI000671,APHSALAAL,HLA-B*07:02,0,N2,virus,Hepeviridae (HEV),Paslahepevirus balayani,Pro-secreted protein ORF2,C,medium,1042621,50,0.6666666666666666,60-79%
+LCI000676,APIQGTNLL,HLA-B*07:02,1,P,virus,Paramyxoviridae,Mumps orthorubulavirus,Phosphoprotein,C,,1039027,572,0.5555555555555556,40-59%
+LCI000689,APNYRQVEL,HLA-B*07:02,1,P,virus,Herpesviridae,Human betaherpesvirus 5,Alkaline nuclease,C,,1036355,587,0.5555555555555556,40-59%
+LCI000700,APQPAPENAY,HLA-B*35:01,1,P,virus,Herpesviridae,human gammaherpesvirus 4,Lytic switch protein BZLF1,B,,1043931,594,0.6,60-79%
+LCI000703,APRIGGRRA,HLA-B*07:02,1,P,virus,Herpesviridae,Human alphaherpesvirus 1,Transcriptional regulator ICP22,B,,1043931,602,0.5555555555555556,40-59%
+LCI000705,APRRRSTPA,HLA-B*08:01,0,N2,virus,Hepeviridae (HEV),Paslahepevirus balayani,Pro-secreted protein ORF2,C,medium,1042621,50,0.6666666666666666,60-79%
+LCI000713,APSQRKAVL,HLA-B*07:02,0,N2,virus,Hepeviridae (HEV),Paslahepevirus balayani,Non-structural polyprotein pORF1,C,medium,1042621,50,0.5555555555555556,40-59%
+LCI000728,APYLRDTL,HLA-B*07:02,1,P,virus,Herpesviridae,Human betaherpesvirus 5,Uncharacterized protein US12,C,,1036355,620,0.5,40-59%
+LCI000732,AQADSAVLL,HLA-A*02:01,0,N2,virus,Herpesviridae,Human alphaherpesvirus 2,Tegument protein VP22,A,high,1027471,621,0.5555555555555556,40-59%
+LCI000752,AQGDDDVWT,HLA-A*02:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,C,,1038969,21,0.4444444444444444,40-59%
+LCI000770,AQPKRRRHR,HLA-A*02:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,C,,1038969,21,0.4444444444444444,40-59%
+LCI000803,ARYAYYLQF,HLA-A*29:02,1,P,virus,Herpesviridae,human gammaherpesvirus 4,Major DNA-binding protein,C,,1044947,666,0.5555555555555556,40-59%
+LCI000804,ARYAYYLQF,HLA-B*27:05,1,P,virus,Herpesviridae,human gammaherpesvirus 4,Major DNA-binding protein,B,,1043931,666,0.5555555555555556,40-59%
+LCI000825,ASDIKAFSK,HLA-A*11:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,Tegument protein US22,C,,1048240,676,0.4444444444444444,40-59%
+LCI000826,ASDKEQILF,HLA-A*01:01,0,N2,virus,Paramyxoviridae,Mumps orthorubulavirus,Matrix protein,C,medium,1039027,677,0.5,40-59%
+LCI000836,ASGKQMWQA,HLA-A*02:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,C,,1038969,21,0.5555555555555556,40-59%
+LCI000882,ATAAPVVVR,HLA-A*11:01,0,N2,virus,Herpesviridae,Human betaherpesvirus 5,,C,medium,1048240,707,0.5555555555555556,40-59%
+LCI000896,ATDSLNNEY,HLA-A*01:01,1,P,virus,Herpesviridae,Human alphaherpesvirus 1,Tegument protein UL46,B,,1031048;1043931,445,0.5555555555555556,40-59%
+LCI000899,ATEASNYAQY,HLA-A*01:01,1,P,virus,Hepeviridae (HEV),Paslahepevirus balayani,Pro-secreted protein ORF2,A,,1042621,50,0.5,40-59%
+LCI000900,ATEASNYAQY,HLA-B*44:02,0,N2,virus,Hepeviridae (HEV),Paslahepevirus balayani,Pro-secreted protein ORF2,A,high,1042621,50,0.5,40-59%
+LCI000927,ATLNICNFW,HLA-B*58:01,0,N2,virus,Herpesviridae,human gammaherpesvirus 4,Replication and transcription activator,A,high,1004570,735,0.5555555555555556,40-59%
+LCI000929,ATMKDFLRH,HLA-A*11:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,Viral inhibitor of caspase-8-induced apoptosis,A,,1048240,737,0.5555555555555556,40-59%
+LCI000947,ATTFLQTMLR,HLA-A*11:01,0,N2,virus,Herpesviridae,Human betaherpesvirus 5,Immediate early protein IE1,C,medium,1028977,754,0.5,40-59%
+LCI000953,ATVQGQNLK,HLA-A*02:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,B,,1043694,21,0.5555555555555556,40-59%
+LCI000973,AVASETWHR,HLA-A*11:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,DNA primase,A,,1048240,770,0.5555555555555556,40-59%
+LCI000979,AVDAQHAAK,HLA-A*11:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,DNA helicase/primase complex-associated protein,C,,1048240,774,0.5555555555555556,40-59%
+LCI000988,AVFDRKSDAK,HLA-A*11:01,1,P,virus,Herpesviridae,human gammaherpesvirus 4,Epstein-Barr nuclear antigen 4,B,,1025490;1035029;1043931,527,0.5,40-59%
+LCI000992,AVFQETGTAR,HLA-A*11:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,Serine/threonine protein kinase UL97,A,,1048240,781,0.5,40-59%
+LCI001009,AVKCLYLLY,HLA-A*29:02,1,P,virus,Herpesviridae,Human alphaherpesvirus 1,Capsid vertex component 2,C,,1029958,675,0.5555555555555556,40-59%
+LCI001010,AVKCLYLMY,HLA-A*29:02,1,P,virus,Herpesviridae,Human alphaherpesvirus 3,Capsid vertex component 2,C,,1029958,675,0.4444444444444444,40-59%
+LCI001017,AVLLHEESM,HLA-B*35:01,1,P,virus,Herpesviridae,human gammaherpesvirus 4,Epstein-Barr nuclear antigen 4,B,,1043931,527,0.5555555555555556,40-59%
+LCI001021,AVLVVMACL,HLA-A*02:01,0,N2,parasite,Trypanosoma,Trypanosoma cruzi,"Cysteine peptidase, putative",A,high,1003942,19,0.5555555555555556,40-59%
+LCI001033,AVPEVTDVTL,HLA-A*02:01,1,P,parasite,Trypanosoma,Trypanosoma cruzi,"69 kDa paraflagellar rod protein, putative",A,,1024552,347,0.5,40-59%
+LCI001052,AVYDDKDKK,HLA-A*68:01,0,N2,parasite,Plasmodium,Plasmodium falciparum,Apical membrane antigen 1,C,medium,1039475,601,0.5555555555555556,40-59%
+LCI001053,AVYDYNDKK,HLA-A*68:01,1,P,parasite,Plasmodium,Plasmodium falciparum,Apical membrane antigen 1,C,,1039475,601,0.5,40-59%
+LCI001054,AVYENPLSVEK,HLA-A*11:01,1,P,virus,Herpesviridae,Human alphaherpesvirus 3,Tegument protein VP22,A,,1042625,621,0.5454545454545454,40-59%
+LCI001056,AVYGTDLAWVL,HLA-C*03:03,1,P,virus,Herpesviridae,human gammaherpesvirus 4,Capsid scaffolding protein,A,,1027077,824,0.5454545454545454,40-59%
+LCI001060,AYAEATSSL,HLA-A*24:02,0,N2,virus,Herpesviridae,human gammaherpesvirus 4,Major DNA-binding protein,A,high,1005857,666,0.6666666666666666,60-79%
+LCI001062,AYAQKIFKI,HLA-A*24:02,1,P,virus,Herpesviridae,Human betaherpesvirus 5,Immediate early protein IE1,A,,1027578,754,0.4444444444444444,40-59%
+LCI001064,AYCPFDEQSL,HLA-A*24:02,0,N2,virus,Herpesviridae,Human betaherpesvirus 5,mRNA export factor ICP27 homolog,A,high,1005858,583,0.4,40-59%
+LCI001066,AYEYVDYLF,HLA-A*24:02,0,N2,virus,Herpesviridae,Human betaherpesvirus 5,Envelope glycoprotein B,A,high,1005858,186,0.5555555555555556,40-59%
+LCI001078,AYIYTTYLL,HLA-A*24:02,0,N2,virus,Herpesviridae,Human betaherpesvirus 5,Envelope glycoprotein B,A,high,1005858,186,0.5555555555555556,40-59%
+LCI001079,AYLGAFLSVL,HLA-A*24:02,1,P,virus,Herpesviridae,Human alphaherpesvirus 1,Tegument protein UL21,B,,1043931,833,0.6,60-79%
+LCI001080,AYLGLSKKL,HLA-A*24:02,0,N2,virus,Herpesviridae,Human betaherpesvirus 5,Large tegument protein deneddylase,A,high,1005858,494,0.5555555555555556,40-59%
+LCI001082,AYLPRPVEF,HLA-A*24:02,1,P,virus,Herpesviridae,Human alphaherpesvirus 1,Inner tegument protein,B,,1043931,340,0.5,40-59%
+LCI001087,AYQAYAAPQL,HLA-A*24:02,0,N2,virus,Herpesviridae,human gammaherpesvirus 4,Lytic switch protein BZLF1,A,high,1005857,594,0.5,40-59%
+LCI001097,AYRRRWRRL,HLA-A*24:02,1,P,virus,Herpesviridae,human gammaherpesvirus 4,Latent membrane protein 2,A,,1005857,840,0.6666666666666666,60-79%
+LCI001104,AYSSWMYSY,HLA-A*29:02,1,P,virus,Herpesviridae,human gammaherpesvirus 4,Epstein-Barr nuclear antigen 3,C,,1044947,528,0.4444444444444444,40-59%
+LCI001105,AYVCCQEYL,HLA-A*24:02,0,N2,virus,Herpesviridae,Human betaherpesvirus 5,Viral inhibitor of caspase-8-induced apoptosis,A,high,1005858,737,0.4444444444444444,40-59%
+LCI001110,CAFAAETGVAL,HLA-C*03:03,1,P,virus,Hepeviridae (HEV),Paslahepevirus balayani,Non-structural polyprotein pORF1,C,,1031168,50,0.5454545454545454,40-59%
+LCI001115,CEDVPSGKL,HLA-B*40:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,B,,1043931,21,0.4444444444444444,40-59%
+LCI001144,CLGGLITMV,HLA-A*02:01,1,P,virus,Herpesviridae,human gammaherpesvirus 4,Latent membrane protein 2,A,,315076,840,0.5555555555555556,40-59%
+LCI001145,CLGGLLTMN,HLA-A*02:01,1,P,virus,Herpesviridae,human gammaherpesvirus 4,Latent membrane protein 2,B,,1014811,840,0.5555555555555556,40-59%
+LCI001147,CLGGLLTMV,HLA-A*02:06,1,P,virus,Herpesviridae,human gammaherpesvirus 4,Latent membrane protein 2,A,,1014511,840,0.6666666666666666,60-79%
+LCI001148,CLGGLLTMV,HLA-A*02:07,1,P,virus,Herpesviridae,human gammaherpesvirus 4,Latent membrane protein 2,A,,1014511,840,0.6666666666666666,60-79%
+LCI001149,CLGGLLTMV,HLA-A*02:09,1,P,virus,Herpesviridae,human gammaherpesvirus 4,Latent membrane protein 2,A,,1014511,840,0.6666666666666666,60-79%
+LCI001158,CLLESVYTA,HLA-A*02:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,Triplex capsid protein 1,B,,1043931,861,0.6666666666666666,60-79%
+LCI001161,CLLTTSGVSA,HLA-A*02:01,0,N2,parasite,Trypanosoma,Trypanosoma cruzi,"Cysteine peptidase, putative",A,high,1003942,19,0.5,40-59%
+LCI001181,CLVPAATASL,HLA-A*02:01,0,N2,parasite,Trypanosoma,Trypanosoma cruzi,"Cysteine peptidase, putative",A,high,1003942,19,0.6,60-79%
+LCI001209,CPKSIPGLS,HLA-A*02:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,C,,1038969,21,0.5555555555555556,40-59%
+LCI001214,CPSQEPMSI,HLA-A*02:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,C,,1038969,21,0.4444444444444444,40-59%
+LCI001227,CRVLCCYVL,HLA-C*07:02,1,P,virus,Herpesviridae,Human betaherpesvirus 5,Immediate early protein IE1,A,,1026280;1027578;1032683;1032955;1034399;1035715;1043931,754,0.4444444444444444,40-59%
+LCI001233,CSMENTRATK,HLA-A*11:01,0,N2,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,C,medium,1028977,21,0.5,40-59%
+LCI001236,CSRHAGNMI,HLA-A*30:01,1,P,parasite,Plasmodium,Plasmodium falciparum,Apical membrane antigen 1,C,,1039475,601,0.4444444444444444,40-59%
+LCI001237,CSRHAGNMN,HLA-A*30:01,1,P,parasite,Plasmodium,Plasmodium falciparum,Apical membrane antigen 1,C,,1039475,601,0.4444444444444444,40-59%
+LCI001240,CSSCPLSK,HLA-A*11:01,1,P,virus,Herpesviridae,human gammaherpesvirus 4,Latent membrane protein 2,A,,1031919,840,0.5555555555555556,40-59%
+LCI001283,CYDHAQTHL,HLA-C*05:01,1,P,virus,Herpesviridae,human gammaherpesvirus 4,DNA polymerase processivity factor BMRF1,C,,1044947,398,0.5555555555555556,40-59%
+LCI001284,CYENDNPGL,HLA-A*24:02,0,N2,virus,Herpesviridae,human gammaherpesvirus 4,Major DNA-binding protein,A,high,1005857,666,0.5555555555555556,40-59%
+LCI001288,CYHQLLGAL,HLA-A*24:02,0,N2,virus,Herpesviridae,Human betaherpesvirus 5,Viral inhibitor of caspase-8-induced apoptosis,A,high,1005858,737,0.5555555555555556,40-59%
+LCI001309,DANDIYRIF,HLA-B*08:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,B,,1020831;1043931,21,0.5555555555555556,40-59%
+LCI001311,DARSRIHNV,HLA-B*51:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,Tripartite terminase subunit 1,A,,1036355,55,0.5555555555555556,40-59%
+LCI001333,DELRRKMMY,HLA-B*44:02,1,P,virus,Herpesviridae,Human betaherpesvirus 5,Immediate early protein IE1,A,,1005811,754,0.5555555555555556,40-59%
+LCI001334,DELRRKMMYM,HLA-B*08:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,Immediate early protein IE1,B,,1025924;1043931,754,0.5,40-59%
+LCI001337,DENLKAIQI,HLA-A*02:01,1,P,parasite,Plasmodium,Plasmodium falciparum,"GTP-binding protein, putative",A,,1038983,121,0.5555555555555556,40-59%
+LCI001338,DENLKAIQI,HLA-A*24:02,1,P,parasite,Plasmodium,Plasmodium falciparum,"GTP-binding protein, putative",A,,1038983,121,0.5555555555555556,40-59%
+LCI001339,DENLKAIQI,HLA-B*44:03,1,P,parasite,Plasmodium,Plasmodium falciparum,"GTP-binding protein, putative",A,,1038983,121,0.5555555555555556,40-59%
+LCI001342,DEQVSKRSW,HLA-B*44:02,1,P,virus,Herpesviridae,Human betaherpesvirus 5,Protein UL17,A,,1036355,947,0.5555555555555556,40-59%
+LCI001354,DFKSKYLTL,HLA-B*08:01,1,P,virus,Herpesviridae,Human betaherpesvirus 6B,Immediate-early protein 2,B,,1043931,957,0.4444444444444444,40-59%
+LCI001370,DIDLLLQRG,HLA-A*01:01,0,N2,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,A,high,1004574,21,0.6,60-79%
+LCI001371,DIDLLLQRGP,HLA-A*01:01,0,N2,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,A,high,1004574,21,0.6,60-79%
+LCI001375,DIIEQMKGV,HLA-A*02:01,1,P,parasite,Trypanosoma,Trypanosoma cruzi,"Paraflagellar rod component, putative",A,,1024552,202,0.4444444444444444,40-59%
+LCI001387,DISFQNYTY,HLA-A*30:02,1,P,parasite,Plasmodium,Plasmodium falciparum,Apical membrane antigen 1,C,,1039475,601,0.5,40-59%
+LCI001388,DISFQNYTY,HLA-A*68:01,1,P,parasite,Plasmodium,Plasmodium falciparum,Apical membrane antigen 1,C,,1039475,601,0.5,40-59%
+LCI001392,DKLFENYTY,HLA-A*30:02,0,N2,parasite,Plasmodium,Plasmodium falciparum,Apical membrane antigen 1,C,medium,1039475,601,0.5555555555555556,40-59%
+LCI001393,DKLFENYTY,HLA-A*68:01,0,N2,parasite,Plasmodium,Plasmodium falciparum,Apical membrane antigen 1,C,medium,1039475,601,0.5555555555555556,40-59%
+LCI001394,DKSFQNYTY,HLA-A*30:02,0,N2,parasite,Plasmodium,Plasmodium falciparum,Apical membrane antigen 1,C,medium,1039475,601,0.5,40-59%
+LCI001395,DKSFQNYTY,HLA-A*68:01,1,P,parasite,Plasmodium,Plasmodium falciparum,Apical membrane antigen 1,C,,1039475,601,0.5,40-59%
+LCI001407,DLDEPEQFRL,HLA-A*02:01,1,P,parasite,Plasmodium,Plasmodium falciparum,Thrombospondin-related anonymous protein,A,,315582,222,0.5,40-59%
+LCI001408,DLDFGDLLKY,HLA-A*01:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,DNA replication helicase,C,,1036355,556,0.5,40-59%
+LCI001425,DLLLQRGPQY,HLA-A*01:01,0,N2,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,A,high,1004574,21,0.5,40-59%
+LCI001444,DLSRDLDSV,HLA-A*02:01,0,N2,virus,Herpesviridae,Human betaherpesvirus 6B,Large structural phosphoprotein,B,high,1025239,1001,0.5555555555555556,40-59%
+LCI001479,DPVAALFFF,HLA-A*24:02,0,N2,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,C,medium,1019108,21,0.5555555555555556,40-59%
+LCI001480,DPVAALFFF,HLA-A*68:01,0,N2,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,C,medium,1019108,21,0.5555555555555556,40-59%
+LCI001481,DPVAALFFF,HLA-B*44:02,0,N2,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,C,medium,1019108,21,0.5555555555555556,40-59%
+LCI001482,DPVAALFFF,HLA-B*51:01,0,N2,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,C,medium,1019108,21,0.5555555555555556,40-59%
+LCI001486,DQYVKVYLE,HLA-A*02:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,B,,1035029;1038969;1043931,21,0.5555555555555556,40-59%
+LCI001491,DRLDNRLQL,HLA-B*14:02,1,P,virus,Herpesviridae,Human alphaherpesvirus 2,Capsid vertex component 2,A,,1004920,675,0.5555555555555556,40-59%
+LCI001494,DSDDLKESY,HLA-A*01:01,1,P,parasite,Plasmodium,Plasmodium falciparum,Perforin-like protein 1,A,,1038983,1032,0.4444444444444444,40-59%
+LCI001495,DSDDLKESY,HLA-A*03:01,1,P,parasite,Plasmodium,Plasmodium falciparum,Perforin-like protein 1,A,,1038983,1032,0.4444444444444444,40-59%
+LCI001505,DSQPFALPY,HLA-A*01:01,1,P,virus,Hepeviridae (HEV),Paslahepevirus balayani,Pro-secreted protein ORF2,C,,1042621,50,0.4444444444444444,40-59%
+LCI001526,DVAFTSHEH,HLA-A*02:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,C,,1038969,21,0.4444444444444444,40-59%
+LCI001543,DVSRPTAVV,HLA-A*02:01,1,P,parasite,Trypanosoma,Trypanosoma cruzi,"Trans-sialidase, putative",A,,1003945;1013407,65,0.5555555555555556,40-59%
+LCI001549,DVVNGLANL,HLA-A*02:01,0,N2,virus,Herpesviridae,Human betaherpesvirus 6B,Large structural phosphoprotein,B,high,1025239,1001,0.5555555555555556,40-59%
+LCI001557,DYDASTESEL,HLA-A*24:02,0,N2,virus,Herpesviridae,human gammaherpesvirus 4,Epstein-Barr nuclear antigen 6,A,high,1005857,642,0.5,40-59%
+LCI001559,DYEPVPRKF,HLA-A*24:02,0,N2,virus,Herpesviridae,Human betaherpesvirus 5,mRNA export factor ICP27 homolog,A,high,1005858,583,0.5555555555555556,40-59%
+LCI001561,DYGNVAFKYL,HLA-A*24:02,0,N2,virus,Herpesviridae,Human betaherpesvirus 5,Large tegument protein deneddylase,A,high,1005858,494,0.5,40-59%
+LCI001564,DYLLHIRQQF,HLA-A*24:02,0,N2,virus,Herpesviridae,Human betaherpesvirus 5,mRNA export factor ICP27 homolog,A,high,1005858,583,0.5,40-59%
+LCI001566,DYLRFPTRL,HLA-A*24:02,0,N2,virus,Herpesviridae,Human betaherpesvirus 5,Large tegument protein deneddylase,A,high,1005858,494,0.4444444444444444,40-59%
+LCI001570,DYMAIHRSL,HLA-A*24:02,0,N2,virus,Herpesviridae,human gammaherpesvirus 4,Epstein-Barr nuclear antigen 3,A,high,1005857,528,0.5555555555555556,40-59%
+LCI001576,DYNFVKQLF,HLA-A*24:02,1,P,virus,Herpesviridae,human gammaherpesvirus 4,mRNA export factor ICP27 homolog,A,,1005857;1043931,583,0.4444444444444444,40-59%
+LCI001585,DYSQGAFTPL,HLA-A*24:02,0,N2,virus,Herpesviridae,human gammaherpesvirus 4,Epstein-Barr nuclear antigen 6,A,high,1005857,642,0.5,40-59%
+LCI001610,EARRRLAEM,HLA-B*08:01,1,P,virus,Herpesviridae,Human betaherpesvirus 6B,Protein U3,B,,1043931,1094,0.6666666666666666,60-79%
+LCI001622,EDTDEDSDN,HLA-A*02:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,C,,1038969,21,0.4444444444444444,40-59%
+LCI001625,EEAIVAYTL,HLA-B*40:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,Immediate early protein IE1,A,,1027578;1043931,754,0.5555555555555556,40-59%
+LCI001626,EEAIVAYTL,HLA-B*44:02,1,P,virus,Herpesviridae,Human betaherpesvirus 5,Immediate early protein IE1,A,,1005811,754,0.5555555555555556,40-59%
+LCI001628,EEATALGREL,HLA-B*44:02,1,P,virus,Herpesviridae,Human betaherpesvirus 5,Protein TRS1,C,,1036355,92,0.5,40-59%
+LCI001632,EEDLTMTRN,HLA-A*02:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,C,,1038969,21,0.5555555555555556,40-59%
+LCI001633,EEDTDEDSD,HLA-A*02:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,C,,1038969,21,0.4444444444444444,40-59%
+LCI001656,EENLLDFVRF,HLA-B*44:02,1,P,virus,Herpesviridae,human gammaherpesvirus 4,Epstein-Barr nuclear antigen 6,B,,1025924;1037571;1044947,642,0.5,40-59%
+LCI001660,EEQDYRALL,HLA-B*44:02,1,P,virus,Herpesviridae,Human betaherpesvirus 5,Uncharacterized protein UL147A,C,,1036355,1126,0.5555555555555556,40-59%
+LCI001687,EFFWDANDI,HLA-A*02:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,C,,1038969,21,0.4444444444444444,40-59%
+LCI001688,EFFWDANDIY,HLA-B*44:02,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,B,,1025924;1035029,21,0.4,40-59%
+LCI001697,EGAAQGDDD,HLA-A*02:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,C,,1038969,21,0.4444444444444444,40-59%
+LCI001699,EGGVGWRHW,HLA-B*44:03,1,P,virus,Herpesviridae,human gammaherpesvirus 4,Epstein-Barr nuclear antigen 6,C,,1044947,642,0.4444444444444444,40-59%
+LCI001702,EGRDRILTV,HLA-B*08:01,1,P,virus,Herpesviridae,Roseolovirus humanbeta6a,Protein U79/U80,B,,1043931,1151,0.5555555555555556,40-59%
+LCI001712,EHPTFTSQY,HLA-A*01:01,0,N2,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,A,high,1004574,21,0.4444444444444444,40-59%
+LCI001713,EHPTFTSQY,HLA-A*02:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,C,,1038969,21,0.4444444444444444,40-59%
+LCI001714,EHREHPKEY,HLA-B*15:03,1,P,parasite,Plasmodium,Plasmodium falciparum,Apical membrane antigen 1,C,,1039475,601,0.4444444444444444,40-59%
+LCI001715,EHREHSKEY,HLA-B*15:03,0,N2,parasite,Plasmodium,Plasmodium falciparum,Apical membrane antigen 1,C,medium,1039475,601,0.4444444444444444,40-59%
+LCI001761,ELEGVWQPA,HLA-A*02:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,C,,1038969,21,0.5555555555555556,40-59%
+LCI001778,ELKRKMIYM,HLA-B*08:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,Immediate early protein IE1,B,,1027245;1043931,754,0.6,60-79%
+LCI001780,ELKRKMMYM,HLA-B*08:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,Immediate early protein IE1,A,,1027245;1032231;1043931,754,0.6,60-79%
+LCI001785,ELLRPTTLV,HLA-A*02:01,1,P,parasite,Trypanosoma,Trypanosoma cruzi,"Trans-sialidase, putative",A,,1003945;1013407,65,0.6666666666666666,60-79%
+LCI001797,ELNRKMIYM,HLA-B*08:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,Immediate early protein IE1,A,,1027245,754,0.5555555555555556,40-59%
+LCI001802,ELRAREEAY,HLA-B*15:02,1,P,virus,Herpesviridae,Human alphaherpesvirus 3,Tegument protein VP16 homolog,C,,1029958,1209,0.5555555555555556,40-59%
+LCI001803,ELRAREESY,HLA-B*15:02,1,P,virus,Herpesviridae,Human alphaherpesvirus 1,Tegument protein VP16,C,,1029958,1209,0.5555555555555556,40-59%
+LCI001807,ELRRKMMYM,HLA-B*08:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,Immediate early protein IE1,B,,1020831;1025443;1027245;1027578;1030695;1031641;1031916;1043931,754,0.5555555555555556,40-59%
+LCI001824,EMISVLGPI,HLA-A*26:01,0,N2,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,C,medium,1042604,21,0.5555555555555556,40-59%
+LCI001839,ENTRATKMQ,HLA-A*02:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,C,,1038969,21,0.4444444444444444,40-59%
+LCI001866,EPLPQGQLTAY,HLA-A*03:01,1,P,virus,Herpesviridae,human gammaherpesvirus 4,Lytic switch protein BZLF1,B,,1040585,594,0.45454545454545453,40-59%
+LCI001867,EPLPQGQLTAY,HLA-B*35:01,1,P,virus,Herpesviridae,human gammaherpesvirus 4,Lytic switch protein BZLF1,A,,1005914;1014108;1027077;1043931,594,0.45454545454545453,40-59%
+LCI001873,EPMSIYVYA,HLA-A*02:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,C,,1038969,21,0.5555555555555556,40-59%
+LCI001875,EPSDKHIKEY,HLA-A*01:01,1,P,parasite,Plasmodium,Plasmodium falciparum,Circumsporozoite protein,B,,1014775,222,0.6,60-79%
+LCI001912,ESVPCRCRTFL,HLA-C*07:01,1,P,virus,Hepeviridae (HEV),Paslahepevirus balayani,Non-structural polyprotein pORF1,C,,1031168,50,0.36363636363636365,<40%
+LCI001925,ETFTETWNR,HLA-A*68:01,1,P,virus,Herpesviridae,human gammaherpesvirus 4,Apoptosis regulator BHRF1,A,,1030137;1043931,1276,0.5555555555555556,40-59%
+LCI001942,ETQKCEIFNV,HLA-A*68:02,1,P,parasite,Plasmodium,Plasmodium falciparum,Apical membrane antigen 1,C,,1039475,601,0.5,40-59%
+LCI001947,ETVELRQYD,HLA-A*02:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,C,,1038969,21,0.5555555555555556,40-59%
+LCI001998,EYAKHHPKL,HLA-A*24:02,0,N2,virus,Herpesviridae,Human betaherpesvirus 5,Envelope glycoprotein US27,A,high,1005858,906,0.5555555555555556,40-59%
+LCI002009,EYHGVYEHL,HLA-A*24:02,0,N2,virus,Herpesviridae,Human betaherpesvirus 5,Large tegument protein deneddylase,A,high,1005858,494,0.5555555555555556,40-59%
+LCI002025,EYRHTWDRH,HLA-A*02:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,C,,1038969,21,0.4444444444444444,40-59%
+LCI002032,EYTRLGVWL,HLA-A*24:02,0,N2,virus,Herpesviridae,Human betaherpesvirus 5,Envelope glycoprotein US27,A,high,1005858,906,0.5555555555555556,40-59%
+LCI002046,FAAETGIAL,HLA-B*35:01,0,N2,virus,Hepeviridae (HEV),Paslahepevirus balayani,Non-structural polyprotein pORF1,C,medium,1042621,50,0.6666666666666666,60-79%
+LCI002050,FAELEGVWQ,HLA-A*02:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,C,,1038969,21,0.5555555555555556,40-59%
+LCI002078,FANAPGVAQV,HLA-A*02:01,0,N2,parasite,Trypanosoma,Trypanosoma cruzi,"Surface antigen 2 (CA-2), putative",A,high,1028871,9,0.5,40-59%
+LCI002079,FANCNFTLV,HLA-A*02:01,1,P,parasite,Trypanosoma,Trypanosoma cruzi,"Trans-sialidase, putative",A,,1003945;1013407,65,0.4444444444444444,40-59%
+LCI002080,FANHDFTLV,HLA-A*02:01,1,P,parasite,Trypanosoma,Trypanosoma cruzi,,A,,1003945;1013407,65,0.4444444444444444,40-59%
+LCI002081,FANHKFTLV,HLA-A*02:01,1,P,parasite,Trypanosoma,Trypanosoma cruzi,"Trans-sialidase, putative",A,,1003945;1013407,65,0.5555555555555556,40-59%
+LCI002082,FANHNFTLV,HLA-A*02:01,1,P,parasite,Trypanosoma,Trypanosoma cruzi,"Trans-sialidase, putative",A,,1003945;1013407,65,0.4444444444444444,40-59%
+LCI002083,FANNEFTLV,HLA-A*02:01,1,P,parasite,Trypanosoma,Trypanosoma cruzi,"Trans-sialidase, putative",A,,1003945;1013407,65,0.5555555555555556,40-59%
+LCI002084,FANNKFTLV,HLA-A*02:01,1,P,parasite,Trypanosoma,Trypanosoma cruzi,"Trans-sialidase, putative",A,,1003945;1013407,65,0.5555555555555556,40-59%
+LCI002085,FANSKFTLV,HLA-A*02:01,0,N2,parasite,Trypanosoma,Trypanosoma cruzi,"Trans-sialidase, putative",A,high,1003942,65,0.5555555555555556,40-59%
+LCI002086,FANSKFTLVA,HLA-A*02:01,0,N2,parasite,Trypanosoma,Trypanosoma cruzi,"Trans-sialidase, putative",A,high,1003942,65,0.5,40-59%
+LCI002087,FANYKFTLV,HLA-A*02:01,1,P,parasite,Trypanosoma,Trypanosoma cruzi,"Trans-sialidase, putative",A,,1003945;1013407,65,0.5555555555555556,40-59%
+LCI002088,FANYNFTLL,HLA-A*02:01,0,N2,parasite,Trypanosoma,Trypanosoma cruzi,"Trans-sialidase, putative",A,high,1003945;1013407,65,0.5555555555555556,40-59%
+LCI002089,FANYNFTLV,HLA-A*02:01,1,P,parasite,Trypanosoma,Trypanosoma cruzi,"Trans-sialidase, putative",A,,1003945;1013407,65,0.4444444444444444,40-59%
+LCI002169,FDIDLLLQR,HLA-A*02:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,C,,1038969,21,0.6,60-79%
+LCI002180,FEFTYMINF,HLA-B*18:01,1,P,parasite,Plasmodium,Plasmodium falciparum,Apical membrane antigen 1,C,,1020909,601,0.4444444444444444,40-59%
+LCI002204,FFDIDLLLQR,HLA-A*01:01,0,N2,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,A,high,1004574,21,0.6,60-79%
+LCI002206,FFFDIDLLL,HLA-A*02:01,0,N2,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,C,medium,1038969,21,0.5555555555555556,40-59%
+LCI002207,FFFDIDLLLQ,HLA-A*01:01,0,N2,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,A,high,1004574,21,0.6,60-79%
+LCI002218,FFPKLQGNY,HLA-A*29:02,1,P,virus,Herpesviridae,Human betaherpesvirus 5,Envelope glycoprotein UL4,C,,1036355,1375,0.4444444444444444,40-59%
+LCI002225,FFWDANDIY,HLA-A*02:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,C,,1038969,21,0.4444444444444444,40-59%
+LCI002261,FIDPQTEMFK,HLA-A*01:01,1,P,parasite,Plasmodium,Plasmodium falciparum,Uncharacterized protein,A,,1038983,1312,0.4,40-59%
+LCI002262,FIDPQTEMFK,HLA-A*03:01,1,P,parasite,Plasmodium,Plasmodium falciparum,Uncharacterized protein,A,,1038983,1312,0.4,40-59%
+LCI002263,FIDPQTEMFK,HLA-B*07:02,1,P,parasite,Plasmodium,Plasmodium falciparum,Uncharacterized protein,A,,1038983,1312,0.4,40-59%
+LCI002282,FILDAPVAV,HLA-A*02:01,0,N2,parasite,Trypanosoma,Trypanosoma cruzi,Uncharacterized protein,C,medium,1046886,1412,0.6666666666666666,60-79%
+LCI002298,FISSKHTL,HLA-B*08:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,Protein UL84,C,,1036355,372,0.5,40-59%
+LCI002309,FLAAAPLFV,HLA-A*02:01,0,N2,parasite,Trypanosoma,Trypanosoma cruzi,Protein kinase domain-containing protein,C,medium,1046886,404,0.6666666666666666,60-79%
+LCI002310,FLAARLWRA,HLA-A*02:01,0,N2,virus,Herpesviridae,Rhadinovirus humangamma8,Protein ORF28,A,high,1022035,743,0.5555555555555556,40-59%
+LCI002325,FLAGHPLTNL,HLA-A*02:01,0,N2,parasite,Trypanosoma,Trypanosoma cruzi,"Cysteine peptidase, putative",A,high,1003942,19,0.6,60-79%
+LCI002326,FLAGYNATV,HLA-A*02:01,0,N2,parasite,Trypanosoma,Trypanosoma cruzi,Kinesin-like protein,C,medium,1046886,1442,0.6666666666666666,60-79%
+LCI002342,FLARLHAAA,HLA-A*02:01,0,N2,parasite,Trypanosoma,Trypanosoma cruzi,"Cysteine peptidase, putative",A,high,1003942,19,0.6666666666666666,60-79%
+LCI002377,FLENFNFPL,HLA-A*01:01,1,P,parasite,Plasmodium,Plasmodium falciparum,"GTP-binding protein, putative",A,,1038983,121,0.5555555555555556,40-59%
+LCI002378,FLENFNFPL,HLA-A*02:01,1,P,parasite,Plasmodium,Plasmodium falciparum,"GTP-binding protein, putative",A,,1038983,121,0.5555555555555556,40-59%
+LCI002379,FLENFNFPL,HLA-A*24:02,1,P,parasite,Plasmodium,Plasmodium falciparum,"GTP-binding protein, putative",A,,1038983,121,0.5555555555555556,40-59%
+LCI002380,FLENFNFPL,HLA-B*07:02,1,P,parasite,Plasmodium,Plasmodium falciparum,"GTP-binding protein, putative",A,,1038983,121,0.5555555555555556,40-59%
+LCI002381,FLENFNFPL,HLA-B*44:03,1,P,parasite,Plasmodium,Plasmodium falciparum,"GTP-binding protein, putative",A,,1038983,121,0.5555555555555556,40-59%
+LCI002395,FLFVEALF,HLA-A*29:02,1,P,parasite,Plasmodium,Plasmodium falciparum,Circumsporozoite protein,C,,1026345,222,0.5555555555555556,40-59%
+LCI002396,FLFVEALFQ,HLA-A*29:02,1,P,parasite,Plasmodium,Plasmodium falciparum,Circumsporozoite protein,C,,1026345,222,0.5555555555555556,40-59%
+LCI002397,FLFVEALFQE,HLA-A*02:01,1,P,parasite,Plasmodium,Plasmodium falciparum,Circumsporozoite protein,C,,1026345;1036317,222,0.5,40-59%
+LCI002406,FLGGGGAGI,HLA-A*02:01,0,N2,parasite,Trypanosoma,Trypanosoma cruzi,"Trans-sialidase, putative",A,high,1003942,65,0.5555555555555556,40-59%
+LCI002413,FLGKYIKVKK,HLA-A*03:01,1,P,virus,Herpesviridae,human gammaherpesvirus 4,Uncharacterized protein BTRF1,A,,1032908;1043931,1513,0.5,40-59%
+LCI002448,FLKKKNITL,HLA-A*01:01,1,P,parasite,Plasmodium,Plasmodium falciparum,"GTP-binding protein, putative",A,,1038983,121,0.5555555555555556,40-59%
+LCI002449,FLKKKNITL,HLA-A*02:01,1,P,parasite,Plasmodium,Plasmodium falciparum,"GTP-binding protein, putative",A,,1038983,121,0.5555555555555556,40-59%
+LCI002450,FLKKKNITL,HLA-A*03:01,1,P,parasite,Plasmodium,Plasmodium falciparum,"GTP-binding protein, putative",A,,1038983,121,0.5555555555555556,40-59%
+LCI002451,FLKKKNITL,HLA-A*24:02,1,P,parasite,Plasmodium,Plasmodium falciparum,"GTP-binding protein, putative",A,,1038983,121,0.5555555555555556,40-59%
+LCI002452,FLKKKNITL,HLA-B*07:02,1,P,parasite,Plasmodium,Plasmodium falciparum,"GTP-binding protein, putative",A,,1038983,121,0.5555555555555556,40-59%
+LCI002453,FLKKKNITL,HLA-B*44:03,1,P,parasite,Plasmodium,Plasmodium falciparum,"GTP-binding protein, putative",A,,1038983,121,0.5555555555555556,40-59%
+LCI002475,FLLHLSLNV,HLA-A*02:01,1,P,parasite,Trypanosoma,Trypanosoma cruzi,"AMP deaminase, putative (Fragment)",C,,1046886,1548,0.6666666666666666,60-79%
+LCI002482,FLLNLLNEHV,HLA-A*02:01,1,P,parasite,Plasmodium,Plasmodium falciparum,"GTP-binding protein, putative",A,,1038983,121,0.5,40-59%
+LCI002483,FLLNLLNEHV,HLA-A*24:02,1,P,parasite,Plasmodium,Plasmodium falciparum,"GTP-binding protein, putative",A,,1038983,121,0.5,40-59%
+LCI002484,FLLNLLNEHV,HLA-B*44:03,1,P,parasite,Plasmodium,Plasmodium falciparum,"GTP-binding protein, putative",A,,1038983,121,0.5,40-59%
+LCI002504,FLLVIGACV,HLA-A*02:01,0,N2,virus,Herpesviridae,Rhadinovirus humangamma8,Protein ORF28,A,high,1022035,743,0.5555555555555556,40-59%
+LCI002505,FLLVLESIL,HLA-A*02:01,1,P,virus,Hantaviridae,Orthohantavirus hantanense,Envelopment polyprotein,B,,1032698;1048808,1290,0.5555555555555556,40-59%
+LCI002514,FLMEDQTLL,HLA-A*02:01,1,P,virus,Herpesviridae,Human alphaherpesvirus 3,Capsid vertex component 2,C,,1029958,675,0.5555555555555556,40-59%
+LCI002527,FLNWQNLLNV,HLA-A*02:01,0,N2,virus,Herpesviridae,Rhadinovirus humangamma8,Envelope glycoprotein H,A,high,1022035,125,0.5,40-59%
+LCI002572,FLRGRAYGL,HLA-A*02:01,1,P,virus,Herpesviridae,human gammaherpesvirus 4,Epstein-Barr nuclear antigen 3,B,,1043931,528,0.6666666666666666,60-79%
+LCI002573,FLRGRAYGL,HLA-A*80:01,1,P,virus,Herpesviridae,human gammaherpesvirus 4,Epstein-Barr nuclear antigen 3,B,,1036889,528,0.6666666666666666,60-79%
+LCI002574,FLRGRAYGL,HLA-B*08:01,1,P,virus,Herpesviridae,human gammaherpesvirus 4,Epstein-Barr nuclear antigen 3,B,,1007749;1025490;1027765;1030312;1030695;1043931,528,0.6666666666666666,60-79%
+LCI002590,FLSESLEQL,HLA-A*02:01,0,N2,parasite,Trypanosoma,Trypanosoma cruzi,Uncharacterized protein,C,medium,1046886,1412,0.6666666666666666,60-79%
+LCI002591,FLSHDFTLV,HLA-A*02:01,1,P,parasite,Trypanosoma,Trypanosoma cruzi,"Trans-sialidase, putative",A,,1003945;1013407,65,0.5555555555555556,40-59%
+LCI002592,FLSHNFTLV,HLA-A*02:01,1,P,parasite,Trypanosoma,Trypanosoma cruzi,"Trans-sialidase, putative",A,,1003945,65,0.4444444444444444,40-59%
+LCI002593,FLSHNFTLVF,HLA-A*02:01,1,P,parasite,Trypanosoma,Trypanosoma cruzi,,A,,1013407,65,0.5,40-59%
+LCI002606,FLSRVQTEI,HLA-A*02:01,1,P,virus,Hepeviridae (HEV),Paslahepevirus balayani,Non-structural polyprotein pORF1,C,,1042621,50,0.5555555555555556,40-59%
+LCI002628,FLVDAIVRVA,HLA-A*02:01,1,P,virus,Herpesviridae,Human alphaherpesvirus 2,Tegument protein UL47,A,,1004920;1043931,1617,0.5,40-59%
+LCI002659,FLYALALL,HLA-A*02:01,1,P,virus,Herpesviridae,human gammaherpesvirus 4,Latent membrane protein 2,B,,1004702,840,0.5555555555555556,40-59%
+LCI002660,FLYALALLL,HLA-A*02:01,1,P,virus,Herpesviridae,human gammaherpesvirus 4,Latent membrane protein 2,A,,1004509;1004645;1014511;1014907;1017745;1022505;1025656;1028281;1030459;1041837;1042329;1043931,840,0.6666666666666666,60-79%
+LCI002661,FLYALALLL,HLA-A*29:02,1,P,virus,Herpesviridae,human gammaherpesvirus 4,Latent membrane protein 2,C,,1044947,840,0.6666666666666666,60-79%
+LCI002672,FLYNRPLSV,HLA-A*02:01,0,N2,parasite,Trypanosoma,Trypanosoma cruzi,"Trans-sialidase, putative",A,high,1046886;200088,65,0.6666666666666666,60-79%
+LCI002689,FMGAGSKAV,HLA-A*02:01,0,N2,parasite,Trypanosoma,Trypanosoma cruzi,"Trans-sialidase, putative",A,high,200088,65,0.5555555555555556,40-59%
+LCI002706,FMKAVCVEV,HLA-A*02:01,0,N2,parasite,Plasmodium,Plasmodium falciparum,Thrombospondin-related anonymous protein,A,high,315582,222,0.5555555555555556,40-59%
+LCI002725,FMVFLQTHI,HLA-A*02:01,1,P,virus,Herpesviridae,human gammaherpesvirus 4,Epstein-Barr nuclear antigen 1,B,,1005919;1026988;1043931,940,0.4444444444444444,40-59%
+LCI002744,FPAHDWPEV,HLA-B*51:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,Uncharacterized protein UL14,C,,1036355,1676,0.5555555555555556,40-59%
+LCI002747,FPDATVPATV,HLA-B*51:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,Envelope glycoprotein H,C,,1036355,125,0.5,40-59%
+LCI002768,FPKTTNGCSQA,HLA-B*55:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,Immediate early protein IE1,A,,1005811;1027578,754,0.45454545454545453,40-59%
+LCI002775,FPPNTFDAL,HLA-A*01:01,1,P,parasite,Plasmodium,Plasmodium falciparum,Uncharacterized protein,A,,1038983,1312,0.5555555555555556,40-59%
+LCI002776,FPPNTFDAL,HLA-A*02:01,1,P,parasite,Plasmodium,Plasmodium falciparum,Uncharacterized protein,A,,1038983,1312,0.5555555555555556,40-59%
+LCI002777,FPPNTFDAL,HLA-A*03:01,1,P,parasite,Plasmodium,Plasmodium falciparum,Uncharacterized protein,A,,1038983,1312,0.5555555555555556,40-59%
+LCI002778,FPPNTFDAL,HLA-A*24:02,1,P,parasite,Plasmodium,Plasmodium falciparum,Uncharacterized protein,A,,1038983,1312,0.5555555555555556,40-59%
+LCI002779,FPPNTFDAL,HLA-B*07:02,1,P,parasite,Plasmodium,Plasmodium falciparum,Uncharacterized protein,A,,1038983,1312,0.5555555555555556,40-59%
+LCI002813,FPTKDVAL,HLA-B*35:02,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,B,,1004612,21,0.4444444444444444,40-59%
+LCI002814,FPTKDVAL,HLA-B*35:08,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,A,,1004972;1012397,21,0.4444444444444444,40-59%
+LCI002815,FPTKDVALR,HLA-A*02:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,C,,1038969,21,0.4444444444444444,40-59%
+LCI002816,FPTKDVALR,HLA-A*68:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,B,,1004491,21,0.4444444444444444,40-59%
+LCI002818,FPVEVRSHV,HLA-B*51:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,Apoptosis inhibitor UL38,A,,1036355,321,0.5555555555555556,40-59%
+LCI002881,FRCPRRFCF,HLA-C*07:02,1,P,virus,Herpesviridae,Human betaherpesvirus 5,Protein UL29/28,B,,1032683;1034399;1043931,709,0.5555555555555556,40-59%
+LCI002887,FRKAQIQGL,HLA-B*27:05,1,P,virus,Herpesviridae,human gammaherpesvirus 4,Epstein-Barr nuclear antigen 6,B,,1043931,642,0.5,40-59%
+LCI002894,FRRDLLCPLGA,HLA-B*27:02,1,P,virus,Herpesviridae,human gammaherpesvirus 4,Latent membrane protein 1,C,,1004716,483,0.45454545454545453,40-59%
+LCI002922,FSIGHPLNM,HLA-A*02:01,0,N2,virus,Paramyxoviridae,Mumps orthorubulavirus,Hemagglutinin-neuraminidase,A,high,1036297,461,0.4444444444444444,40-59%
+LCI002969,FTDALGIDEY,HLA-A*01:01,1,P,virus,Herpesviridae,Human alphaherpesvirus 1,Tegument protein VP16,A,,1031048;1043931;1048084,1209,0.5,40-59%
+LCI002973,FTDNKSCVSL,HLA-A*02:01,0,N2,parasite,Trypanosoma,Trypanosoma cruzi,"Trans-sialidase, putative",A,high,1003942,65,0.5,40-59%
+LCI002974,FTDNVRFSV,HLA-A*02:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,Tripartite terminase subunit 1,C,,1036355,55,0.5555555555555556,40-59%
+LCI002980,FTGSEVENV,HLA-A*02:01,0,N2,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,C,medium,1038969,21,0.5555555555555556,40-59%
+LCI002992,FTISDSATF,HLA-A*01:01,0,N2,virus,Paramyxoviridae,Mumps orthorubulavirus,Hemagglutinin-neuraminidase,C,medium,1039027,461,0.5555555555555556,40-59%
+LCI002998,FTLVAPVSI,HLA-A*02:01,1,P,parasite,Trypanosoma,Trypanosoma cruzi,"Trans-sialidase, putative",A,,1003942,65,0.5555555555555556,40-59%
+LCI003011,FTNNKFTLS,HLA-A*02:01,0,N2,parasite,Trypanosoma,Trypanosoma cruzi,"Trans-sialidase, putative",A,high,1003945,65,0.5555555555555556,40-59%
+LCI003014,FTNVNQFFK,HLA-A*01:01,1,P,parasite,Plasmodium,Plasmodium falciparum,"GTP-binding protein, putative",A,,1038983,121,0.4444444444444444,40-59%
+LCI003015,FTNVNQFFK,HLA-A*03:01,1,P,parasite,Plasmodium,Plasmodium falciparum,"GTP-binding protein, putative",A,,1038983,121,0.4444444444444444,40-59%
+LCI003016,FTNVNQFFK,HLA-A*24:02,1,P,parasite,Plasmodium,Plasmodium falciparum,"GTP-binding protein, putative",A,,1038983,121,0.4444444444444444,40-59%
+LCI003017,FTNVNQFFK,HLA-B*07:02,1,P,parasite,Plasmodium,Plasmodium falciparum,"GTP-binding protein, putative",A,,1038983,121,0.4444444444444444,40-59%
+LCI003018,FTNVNQFFK,HLA-B*44:03,1,P,parasite,Plasmodium,Plasmodium falciparum,"GTP-binding protein, putative",A,,1038983,121,0.4444444444444444,40-59%
+LCI003020,FTSAVLLLV,HLA-A*02:01,1,P,parasite,Trypanosoma,Trypanosoma cruzi,"Trans-sialidase, putative",A,,1003942,65,0.7,60-79%
+LCI003021,FTSAVLLLVV,HLA-A*02:01,0,N2,parasite,Trypanosoma,Trypanosoma cruzi,"Trans-sialidase, putative",A,high,1003942,65,0.7,60-79%
+LCI003023,FTSHEHFGL,HLA-A*02:01,0,N2,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,C,medium,1038969,21,0.4444444444444444,40-59%
+LCI003024,FTSQYRIQGKL,HLA-A*24:02,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,B,,1043931,21,0.45454545454545453,40-59%
+LCI003035,FTWPPWQAG,HLA-A*02:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,C,,1038969,21,0.4444444444444444,40-59%
+LCI003039,FTYPVLEEM,HLA-B*46:01,0,N2,virus,Herpesviridae,human gammaherpesvirus 4,Replication and transcription activator,A,high,1004570,735,0.5555555555555556,40-59%
+LCI003048,FVAVHPVDV,HLA-A*02:01,0,N2,virus,Herpesviridae,Rhadinovirus humangamma8,Protein K12,A,high,200132,1799,0.5555555555555556,40-59%
+LCI003049,FVCKCVEKR,HLA-A*68:01,1,P,parasite,Plasmodium,Plasmodium falciparum,Apical membrane antigen 1,C,,1039475,601,0.4444444444444444,40-59%
+LCI003050,FVCKCVERR,HLA-A*68:01,0,N2,parasite,Plasmodium,Plasmodium falciparum,Apical membrane antigen 1,C,medium,1039475,601,0.4444444444444444,40-59%
+LCI003051,FVDDEALGF,HLA-C*05:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,Major DNA-binding protein,C,,1036355,666,0.6,60-79%
+LCI003062,FVDYNFSLV,HLA-A*02:01,1,P,parasite,Trypanosoma,Trypanosoma cruzi,"Trans-sialidase, putative",A,,1003945;1013407,65,0.5555555555555556,40-59%
+LCI003063,FVDYNFTIV,HLA-A*02:01,1,P,parasite,Trypanosoma,Trypanosoma cruzi,"Trans-sialidase, putative",A,,1003937;200088,65,0.5555555555555556,40-59%
+LCI003064,FVEALFQEY,HLA-A*01:01,1,P,parasite,Plasmodium,Plasmodium falciparum,Circumsporozoite protein,C,,1026345,222,0.5555555555555556,40-59%
+LCI003065,FVEALFQEY,HLA-B*35:01,1,P,parasite,Plasmodium,Plasmodium falciparum,Circumsporozoite protein,C,,1026345,222,0.5555555555555556,40-59%
+LCI003066,FVEGPGFMRY,HLA-A*01:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,Viral inhibitor of caspase-8-induced apoptosis,C,,1036355,737,0.4,40-59%
+LCI003089,FVFPTKDV,HLA-A*02:05,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,B,,1032669,21,0.5,40-59%
+LCI003090,FVFPTKDVA,HLA-A*02:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,C,,1038969,21,0.4444444444444444,40-59%
+LCI003091,FVFPTKDVALR,HLA-A*68:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,B,,1004612;1043931,21,0.36363636363636365,<40%
+LCI003129,FVNHDFTVV,HLA-A*02:01,1,P,parasite,Trypanosoma,Trypanosoma cruzi,"Trans-sialidase, putative",A,,200088,65,0.5555555555555556,40-59%
+LCI003130,FVNHRFTLV,HLA-A*02:01,1,P,parasite,Trypanosoma,Trypanosoma cruzi,"Trans-sialidase, putative",A,,1003945;1013407;200088,65,0.5555555555555556,40-59%
+LCI003131,FVNYDFALV,HLA-A*02:01,1,P,parasite,Trypanosoma,Trypanosoma cruzi,,A,,1003945;1013407,1823,0.4444444444444444,40-59%
+LCI003132,FVNYDFTIV,HLA-A*02:01,1,P,parasite,Trypanosoma,Trypanosoma cruzi,"Trans-sialidase, putative",A,,1003945;1013407,65,0.5555555555555556,40-59%
+LCI003133,FVNYNFTLV,HLA-A*02:01,1,P,parasite,Trypanosoma,Trypanosoma cruzi,"Trans-sialidase, putative",A,,1003945;1013407,65,0.5555555555555556,40-59%
+LCI003137,FVSCCGELTV,HLA-A*02:01,1,P,parasite,Trypanosoma,Trypanosoma cruzi,"Paraflagellar rod component, putative",A,,1024552;1036167,202,0.5,40-59%
+LCI003138,FVSCDFTIV,HLA-A*02:01,1,P,parasite,Trypanosoma,Trypanosoma cruzi,,A,,1003945;1013407,1826,0.5555555555555556,40-59%
+LCI003161,FVVPILLKA,HLA-A*02:01,1,P,virus,Hantaviridae,Orthohantavirus hantanense,Nucleoprotein,A,,1025613,91,0.5555555555555556,40-59%
+LCI003175,FVYGGSKTSL,HLA-C*03:04,1,P,virus,Herpesviridae,human gammaherpesvirus 4,Epstein-Barr nuclear antigen 1,B,,1043931,940,0.5,40-59%
+LCI003176,FVYGGSKTSLY,HLA-A*29:02,1,P,virus,Herpesviridae,human gammaherpesvirus 4,Epstein-Barr nuclear antigen 1,C,,1044947,940,0.45454545454545453,40-59%
+LCI003179,FVYTPSPYVF,HLA-A*24:02,1,P,virus,Herpesviridae,Human alphaherpesvirus 1,Tegument protein UL21,B,,1043931,833,0.5,40-59%
+LCI003180,FVYVNGKKI,HLA-A*02:01,0,N2,parasite,Trypanosoma,Trypanosoma cruzi,"Trans-sialidase, putative",A,high,1003942,65,0.4444444444444444,40-59%
+LCI003181,FWDANDIYR,HLA-A*02:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,C,,1038969,21,0.5555555555555556,40-59%
+LCI003195,FYDLRDLKL,HLA-A*24:02,0,N2,virus,Herpesviridae,Human betaherpesvirus 5,Large tegument protein deneddylase,A,high,1005858,494,0.5555555555555556,40-59%
+LCI003208,FYISLIQGL,HLA-A*24:02,0,N2,virus,Herpesviridae,human gammaherpesvirus 4,Major DNA-binding protein,A,high,1005857,666,0.6666666666666666,60-79%
+LCI003212,FYMTHGLGTL,HLA-A*24:02,0,N2,virus,Herpesviridae,human gammaherpesvirus 4,Major DNA-binding protein,A,high,1005857,666,0.5,40-59%
+LCI003214,FYNIPPMPL,HLA-A*24:02,0,N2,virus,Herpesviridae,human gammaherpesvirus 4,Epstein-Barr nuclear antigen 2,A,high,1005857,1848,0.4444444444444444,40-59%
+LCI003217,FYPLATYPL,HLA-A*24:02,0,N2,virus,Herpesviridae,human gammaherpesvirus 4,Major DNA-binding protein,A,high,1005857,666,0.5555555555555556,40-59%
+LCI003219,FYQIRKPPWL,HLA-A*24:02,0,N2,virus,Herpesviridae,Human betaherpesvirus 5,Protein IRS1,A,high,1005858,92,0.5,40-59%
+LCI003223,FYRSLLTIL,HLA-A*24:02,0,N2,virus,Herpesviridae,human gammaherpesvirus 4,Major DNA-binding protein,A,high,1005857,666,0.5555555555555556,40-59%
+LCI003228,FYVAMFASL,HLA-A*24:02,0,N2,virus,Herpesviridae,Human betaherpesvirus 5,Envelope protein US28,A,high,1005858,700,0.5,40-59%
+LCI003263,GDDDVWTSG,HLA-A*02:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,C,,1038969,21,0.4444444444444444,40-59%
+LCI003266,GDTPVLPHE,HLA-A*02:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,C,,1038969,21,0.5555555555555556,40-59%
+LCI003285,GEQGYKVSLDL,HLA-B*41:01,1,P,virus,Herpesviridae,human gammaherpesvirus 4,Major tegument protein,A,,1027077,1879,0.45454545454545453,40-59%
+LCI003330,GIANDLSTL,HLA-A*01:01,1,P,parasite,Plasmodium,Plasmodium falciparum,Perforin-like protein 1,A,,1038983,1032,0.5555555555555556,40-59%
+LCI003331,GIANDLSTL,HLA-A*02:01,1,P,parasite,Plasmodium,Plasmodium falciparum,Perforin-like protein 1,A,,1038983,1032,0.5555555555555556,40-59%
+LCI003332,GIANDLSTL,HLA-A*03:01,1,P,parasite,Plasmodium,Plasmodium falciparum,Perforin-like protein 1,A,,1038983,1032,0.5555555555555556,40-59%
+LCI003333,GIANDLSTL,HLA-A*24:02,1,P,parasite,Plasmodium,Plasmodium falciparum,Perforin-like protein 1,A,,1038983,1032,0.5555555555555556,40-59%
+LCI003351,GILDFGVKL,HLA-A*02:01,1,P,virus,Herpesviridae,Human betaherpesvirus 6B,Large structural phosphoprotein,B,,1043931,1001,0.5555555555555556,40-59%
+LCI003378,GIRPYEILA,HLA-A*02:01,0,N2,parasite,Trypanosoma,Trypanosoma cruzi,"Trans-sialidase, putative",A,high,200088,65,0.5555555555555556,40-59%
+LCI003387,GKISHIMLD,HLA-A*02:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,C,,1038969,21,0.5555555555555556,40-59%
+LCI003404,GLADVFAEL,HLA-A*02:01,0,N2,virus,Herpesviridae,Rhadinovirus humangamma8,Ribonucleoside-diphosphate reductase large subunit,A,high,1022035,286,0.5555555555555556,40-59%
+LCI003409,GLALLACAGL,HLA-A*02:01,0,N2,parasite,Plasmodium,Plasmodium falciparum,Thrombospondin-related anonymous protein,A,high,315582,222,0.6,60-79%
+LCI003424,GLDCARLEI,HLA-A*02:01,1,P,virus,Hantaviridae,Orthohantavirus hantanense,RNA-directed RNA polymerase L,A,,315648,811,0.5555555555555556,40-59%
+LCI003435,GLDQYLESV,HLA-A*02:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,Envelope glycoprotein B,C,,1036355,186,0.5555555555555556,40-59%
+LCI003468,GLIMVLSFL,HLA-A*02:01,1,P,parasite,Plasmodium,Plasmodium falciparum,Circumsporozoite protein,C,,1036317,222,0.5555555555555556,40-59%
+LCI003470,GLITVLFLL,HLA-A*02:01,0,N2,virus,Herpesviridae,Rhadinovirus humangamma8,Protein ORF28,A,high,1022035,743,0.6666666666666666,60-79%
+LCI003480,GLLAHIPAL,HLA-A*02:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,Protein US16,C,,1036355,1244,0.6666666666666666,60-79%
+LCI003481,GLLAHIPALGV,HLA-A*02:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,Protein US16,C,,1036355,1244,0.6363636363636364,60-79%
+LCI003485,GLLDFALEL,HLA-A*02:01,1,P,virus,Hepeviridae (HEV),Paslahepevirus balayani,Pro-secreted protein ORF2,A,,1042621,50,0.6666666666666666,60-79%
+LCI003495,GLLLLGLWGT,HLA-A*02:01,1,P,parasite,Trypanosoma,Trypanosoma cruzi,"Trans-sialidase, putative",A,,1003942,65,0.6,60-79%
+LCI003502,GLLPSLLLLL,HLA-A*02:01,1,P,parasite,Trypanosoma,Trypanosoma cruzi,"Trans-sialidase, putative",A,,1003945;1013407,65,0.7,60-79%
+LCI003521,GLMNNAFEWI,HLA-A*02:01,1,P,parasite,Trypanosoma,Trypanosoma cruzi,"Cysteine peptidase, putative",A,,1003942,19,0.5,40-59%
+LCI003522,GLMQGMFAL,HLA-A*02:01,0,N2,parasite,Trypanosoma,Trypanosoma cruzi,"Carrier protein, putative",C,medium,1046886,1973,0.5555555555555556,40-59%
+LCI003532,GLNERLLSV,HLA-A*02:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,Inner tegument protein,C,,1036355,340,0.6666666666666666,60-79%
+LCI003561,GLSPHDTMQK,HLA-A*01:01,1,P,parasite,Plasmodium,Plasmodium falciparum,Perforin-like protein 1,A,,1038983,1032,0.5,40-59%
+LCI003562,GLSPHDTMQK,HLA-A*03:01,1,P,parasite,Plasmodium,Plasmodium falciparum,Perforin-like protein 1,A,,1038983,1032,0.5,40-59%
+LCI003573,GLTFKGPGA,HLA-A*02:01,0,N2,parasite,Trypanosoma,Trypanosoma cruzi,"Trans-sialidase, putative",A,high,1003942,65,0.5555555555555556,40-59%
+LCI003595,GLYTQPRWK,HLA-A*03:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,Capsid vertex component 2,A,,1036355,675,0.5555555555555556,40-59%
+LCI003624,GMVDGSVLV,HLA-A*02:01,0,N2,virus,Herpesviridae,Rhadinovirus humangamma8,Protein ORF28,A,high,1022035,743,0.5555555555555556,40-59%
+LCI003651,GPISGHVL,HLA-B*39:10,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,B,,1032669,21,0.5,40-59%
+LCI003652,GPISGHVL,HLA-B*81:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,B,,1032669,21,0.5,40-59%
+LCI003690,GQGGSPTAM,HLA-B*15:01,1,P,virus,Herpesviridae,human gammaherpesvirus 4,Epstein-Barr nuclear antigen 4,B,,1043931,527,0.4444444444444444,40-59%
+LCI003695,GQNLKYQEF,HLA-B*15:01,0,N2,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,A,high,1005821,21,0.5555555555555556,40-59%
+LCI003728,GRYGRRTKL,HLA-B*27:05,1,P,virus,Hepeviridae (HEV),Paslahepevirus balayani,Non-structural polyprotein pORF1,C,,1042621,50,0.5555555555555556,40-59%
+LCI003729,GRYGRRTKLY,HLA-B*27:05,1,P,virus,Hepeviridae (HEV),Paslahepevirus balayani,Non-structural polyprotein pORF1,A,,1042621,50,0.5,40-59%
+LCI003732,GSDALPAGLY,HLA-A*01:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,Protein US34,C,,1036355,159,0.5,40-59%
+LCI003749,GSSSGTVMK,HLA-A*11:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,,C,,1048240,2080,0.5555555555555556,40-59%
+LCI003759,GTASQETLLK,HLA-A*11:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,Major DNA-binding protein,C,,1048240,666,0.5,40-59%
+LCI003840,GVLDAVWRV,HLA-A*02:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,Membrane glycoprotein US8,A,,1036355;1043931,2117,0.5555555555555556,40-59%
+LCI003854,GVQGGFVSA,HLA-A*02:01,0,N2,parasite,Trypanosoma,Trypanosoma cruzi,"Trans-sialidase, putative",A,high,1003942,65,0.6,60-79%
+LCI003858,GVSGVINAL,HLA-A*02:01,1,P,parasite,Trypanosoma,Trypanosoma cruzi,"Paraflagellar rod component, putative",A,,1024552,202,0.5555555555555556,40-59%
+LCI003861,GVSSVTLLK,HLA-A*03:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,Phosphoprotein 85,C,,1036355,2124,0.5555555555555556,40-59%
+LCI003884,GYDVGHGPL,HLA-A*24:02,0,N2,virus,Herpesviridae,human gammaherpesvirus 4,Epstein-Barr nuclear antigen 2,A,high,1005857,1848,0.5,40-59%
+LCI003885,GYFTSPGGYYA,HLA-A*29:01,1,P,virus,Herpesviridae,human gammaherpesvirus 4,Capsid scaffolding protein,A,,1027077,824,0.45454545454545453,40-59%
+LCI003886,GYHLGAFFGL,HLA-A*24:02,0,N2,virus,Herpesviridae,Human betaherpesvirus 5,Envelope glycoprotein M,A,high,1005858,1730,0.5,40-59%
+LCI003896,GYQEPPAHGL,HLA-A*24:02,0,N2,virus,Herpesviridae,human gammaherpesvirus 4,Epstein-Barr nuclear antigen 6,A,high,1005857,642,0.5,40-59%
+LCI003898,GYRTATLRTL,HLA-A*24:02,0,N2,virus,Herpesviridae,human gammaherpesvirus 4,Epstein-Barr nuclear antigen 6,A,high,1005857,642,0.5,40-59%
+LCI003916,HAMHISTGL,HLA-B*46:01,0,N2,virus,Herpesviridae,human gammaherpesvirus 4,Replication and transcription activator,A,high,1004570,735,0.5555555555555556,40-59%
+LCI003928,HCRDKTSAL,HLA-A*01:01,1,P,parasite,Plasmodium,Plasmodium falciparum,"GTP-binding protein, putative",A,,1038983,121,0.4444444444444444,40-59%
+LCI003929,HCRDKTSAL,HLA-A*03:01,1,P,parasite,Plasmodium,Plasmodium falciparum,"GTP-binding protein, putative",A,,1038983,121,0.4444444444444444,40-59%
+LCI003930,HCRDKTSAL,HLA-A*24:02,1,P,parasite,Plasmodium,Plasmodium falciparum,"GTP-binding protein, putative",A,,1038983,121,0.4444444444444444,40-59%
+LCI003931,HCRDKTSAL,HLA-B*07:02,1,P,parasite,Plasmodium,Plasmodium falciparum,"GTP-binding protein, putative",A,,1038983,121,0.4444444444444444,40-59%
+LCI003942,HELVCSMEN,HLA-A*02:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,C,,1038969,21,0.4444444444444444,40-59%
+LCI003946,HERNGFTVL,HLA-A*02:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,C,,1038969,21,0.5,40-59%
+LCI003947,HERNGFTVL,HLA-B*40:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,B,,1043931,21,0.5,40-59%
+LCI003948,HERNGFTVL,HLA-B*40:02,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,B,,1043931,21,0.5,40-59%
+LCI003949,HETGVYQMW,HLA-B*44:02,1,P,virus,Herpesviridae,Human betaherpesvirus 5,Protein UL117,A,,1036355,568,0.5555555555555556,40-59%
+LCI003950,HFGLLCPKS,HLA-A*02:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,C,,1038969,21,0.45454545454545453,40-59%
+LCI003954,HGMTRLYAA,HLA-B*08:01,0,N2,virus,Hepeviridae (HEV),Paslahepevirus balayani,Non-structural polyprotein pORF1,C,medium,1042621,50,0.5555555555555556,40-59%
+LCI003962,HIMLDVAFT,HLA-A*02:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,C,,1038969,21,0.4444444444444444,40-59%
+LCI003970,HISTGLSIF,HLA-B*46:01,0,N2,virus,Herpesviridae,human gammaherpesvirus 4,Replication and transcription activator,A,high,1004570,735,0.5555555555555556,40-59%
+LCI003975,HLAAQGMAY,HLA-B*46:01,1,P,virus,Herpesviridae,human gammaherpesvirus 4,Epstein-Barr nuclear antigen 3,A,,1004570,528,0.5555555555555556,40-59%
+LCI003983,HLDVSGTY,HLA-A*01:01,0,N2,virus,Hepeviridae (HEV),Paslahepevirus balayani,Non-structural polyprotein pORF1,C,medium,1042621,50,0.5,40-59%
+LCI003989,HLGNVKYLV,HLA-A*02:01,1,P,parasite,Plasmodium,Plasmodium falciparum,Thrombospondin-related anonymous protein,A,,315582,222,0.5555555555555556,40-59%
+LCI004002,HLKLRPATF,HLA-B*08:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,Protein UL40,C,,1036355,607,0.5555555555555556,40-59%
+LCI004018,HLPVADAVI,HLA-A*02:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,B,,1035029;1038969;1043931,21,0.5555555555555556,40-59%
+LCI004051,HNFPCSLYK,HLA-A*68:01,0,N2,parasite,Plasmodium,Plasmodium falciparum,Apical membrane antigen 1,C,medium,1039475,601,0.5555555555555556,40-59%
+LCI004054,HNPAVFTWP,HLA-A*02:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,C,,1038969,21,0.5,40-59%
+LCI004055,HNPTGRSIC,HLA-A*02:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,C,,1038969,21,0.5555555555555556,40-59%
+LCI004079,HPIHQSSPSL,HLA-B*07:02,0,N2,virus,Paramyxoviridae,Mumps orthorubulavirus,Matrix protein,C,medium,1039027,677,0.5,40-59%
+LCI004080,HPKEYEYPL,HLA-B*08:01,1,P,parasite,Plasmodium,Plasmodium falciparum,Apical membrane antigen 1,C,,1020909,601,0.5555555555555556,40-59%
+LCI004086,HPMPINIKL,HLA-A*01:01,1,P,parasite,Plasmodium,Plasmodium falciparum,Perforin-like protein 1,A,,1038983,1032,0.4444444444444444,40-59%
+LCI004087,HPMPINIKL,HLA-A*02:01,1,P,parasite,Plasmodium,Plasmodium falciparum,Perforin-like protein 1,A,,1038983,1032,0.4444444444444444,40-59%
+LCI004088,HPMPINIKL,HLA-A*03:01,1,P,parasite,Plasmodium,Plasmodium falciparum,Perforin-like protein 1,A,,1038983,1032,0.4444444444444444,40-59%
+LCI004089,HPMPINIKL,HLA-A*24:02,1,P,parasite,Plasmodium,Plasmodium falciparum,Perforin-like protein 1,A,,1038983,1032,0.4444444444444444,40-59%
+LCI004090,HPMPINIKL,HLA-B*07:02,1,P,parasite,Plasmodium,Plasmodium falciparum,Perforin-like protein 1,A,,1038983,1032,0.4444444444444444,40-59%
+LCI004091,HPMPINIKL,HLA-B*44:03,1,P,parasite,Plasmodium,Plasmodium falciparum,Perforin-like protein 1,A,,1038983,1032,0.4444444444444444,40-59%
+LCI004108,HPTFTSQY,HLA-B*35:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,B,,1004972;1043931,21,0.5,40-59%
+LCI004109,HPVAEADYFEY,HLA-B*35:01,1,P,virus,Herpesviridae,human gammaherpesvirus 4,Epstein-Barr nuclear antigen 1,B,,1043931,940,0.45454545454545453,40-59%
+LCI004110,HPVGDADYFEY,HLA-B*35:01,0,N2,virus,Herpesviridae,human gammaherpesvirus 4,Epstein-Barr nuclear antigen 1,B,high,1025656,940,0.36363636363636365,<40%
+LCI004111,HPVGEADYF,HLA-B*53:01,1,P,virus,Herpesviridae,human gammaherpesvirus 4,Epstein-Barr nuclear antigen 1,B,,1014108,940,0.5555555555555556,40-59%
+LCI004113,HPVGEADYFEY,HLA-A*03:01,1,P,virus,Herpesviridae,human gammaherpesvirus 4,Epstein-Barr nuclear antigen 1,B,,1040585,940,0.45454545454545453,40-59%
+LCI004115,HPVGEADYFEY,HLA-B*35:01,1,P,virus,Herpesviridae,human gammaherpesvirus 4,Epstein-Barr nuclear antigen 1,A,,1004304;1011880;1014108;1043931,940,0.45454545454545453,40-59%
+LCI004116,HPVGEADYFEY,HLA-B*35:08,1,P,virus,Herpesviridae,human gammaherpesvirus 4,Epstein-Barr nuclear antigen 1,A,,1011880,940,0.45454545454545453,40-59%
+LCI004118,HPVGQADYFEY,HLA-B*35:01,1,P,virus,Herpesviridae,human gammaherpesvirus 4,Epstein-Barr nuclear antigen 1,B,,1043931,940,0.36363636363636365,<40%
+LCI004138,HRHLPVADA,HLA-A*02:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,C,,1038969,21,0.4444444444444444,40-59%
+LCI004195,HTSVFPGLY,HLA-A*01:01,1,P,parasite,Plasmodium,Plasmodium falciparum,Perforin-like protein 1,A,,1038983,1032,0.4444444444444444,40-59%
+LCI004196,HTSVFPGLY,HLA-A*02:01,1,P,parasite,Plasmodium,Plasmodium falciparum,Perforin-like protein 1,A,,1038983,1032,0.4444444444444444,40-59%
+LCI004197,HTSVFPGLY,HLA-A*03:01,1,P,parasite,Plasmodium,Plasmodium falciparum,Perforin-like protein 1,A,,1038983,1032,0.4444444444444444,40-59%
+LCI004198,HTSVFPGLY,HLA-A*24:02,1,P,parasite,Plasmodium,Plasmodium falciparum,Perforin-like protein 1,A,,1038983,1032,0.4444444444444444,40-59%
+LCI004199,HTSVFPGLY,HLA-B*07:02,1,P,parasite,Plasmodium,Plasmodium falciparum,Perforin-like protein 1,A,,1038983,1032,0.4444444444444444,40-59%
+LCI004200,HTSVFPGLY,HLA-B*44:03,1,P,parasite,Plasmodium,Plasmodium falciparum,Perforin-like protein 1,A,,1038983,1032,0.4444444444444444,40-59%
+LCI004206,HTWDRHDEG,HLA-A*02:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,C,,1038969,21,0.4444444444444444,40-59%
+LCI004217,HVLKAVFSR,HLA-A*02:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,C,,1038969,21,0.5555555555555556,40-59%
+LCI004233,HYFTTLKQYL,HLA-A*24:02,0,N2,virus,Herpesviridae,Human betaherpesvirus 5,Membrane glycoprotein UL18,A,high,1005858,2274,0.5,40-59%
+LCI004234,HYGINPVQL,HLA-A*01:01,1,P,parasite,Plasmodium,Plasmodium falciparum,Uncharacterized protein,A,,1038983,1312,0.5555555555555556,40-59%
+LCI004235,HYGINPVQL,HLA-A*02:01,1,P,parasite,Plasmodium,Plasmodium falciparum,Uncharacterized protein,A,,1038983,1312,0.5555555555555556,40-59%
+LCI004236,HYGINPVQL,HLA-A*03:01,1,P,parasite,Plasmodium,Plasmodium falciparum,Uncharacterized protein,A,,1038983,1312,0.5555555555555556,40-59%
+LCI004237,HYGINPVQL,HLA-A*24:02,1,P,parasite,Plasmodium,Plasmodium falciparum,Uncharacterized protein,A,,1038983,1312,0.5555555555555556,40-59%
+LCI004238,HYGINPVQL,HLA-B*07:02,1,P,parasite,Plasmodium,Plasmodium falciparum,Uncharacterized protein,A,,1038983,1312,0.5555555555555556,40-59%
+LCI004239,HYGINPVQL,HLA-B*44:03,1,P,parasite,Plasmodium,Plasmodium falciparum,Uncharacterized protein,A,,1038983,1312,0.5555555555555556,40-59%
+LCI004243,HYKEIPRLF,HLA-A*24:02,1,P,virus,Herpesviridae,human gammaherpesvirus 4,DNA polymerase catalytic subunit,C,,1044947,2279,0.5555555555555556,40-59%
+LCI004247,HYQTLCTNF,HLA-A*24:02,0,N2,virus,Herpesviridae,human gammaherpesvirus 4,Major DNA-binding protein,A,high,1005857,666,0.4444444444444444,40-59%
+LCI004259,IAGGVMAVV,HLA-A*02:01,1,P,parasite,Trypanosoma,Trypanosoma cruzi,"Trans-sialidase, putative",A,,200088,65,0.6666666666666666,60-79%
+LCI004260,IAIPHFMVV,HLA-B*51:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,Envelope protein US28,C,,1036355,700,0.5,40-59%
+LCI004266,IALYLQQNW,HLA-B*57:01,1,P,virus,Herpesviridae,human gammaherpesvirus 4,Latent membrane protein 1,B,,1040220,483,0.5,40-59%
+LCI004295,IANYNFTLV,HLA-A*02:01,1,P,parasite,Trypanosoma,Trypanosoma cruzi,,A,,1003945;1013407,65,0.4444444444444444,40-59%
+LCI004301,IASTPKKHR,HLA-A*02:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,C,,1038969,21,0.4444444444444444,40-59%
+LCI004315,IEDPPFNSI,HLA-B*40:01,0,N2,virus,Herpesviridae,human gammaherpesvirus 4,Latent membrane protein 2,B,high,1025656,840,0.5555555555555556,40-59%
+LCI004316,IEDPPFNSL,HLA-B*40:01,1,P,virus,Herpesviridae,human gammaherpesvirus 4,Latent membrane protein 2,B,,1004702;1028281;1043931,840,0.5555555555555556,40-59%
+LCI004325,IENNLYERL,HLA-A*01:01,1,P,parasite,Plasmodium,Plasmodium falciparum,"GTP-binding protein, putative",A,,1038983,121,0.5555555555555556,40-59%
+LCI004326,IENNLYERL,HLA-A*02:01,1,P,parasite,Plasmodium,Plasmodium falciparum,"GTP-binding protein, putative",A,,1038983,121,0.5555555555555556,40-59%
+LCI004327,IENNLYERL,HLA-A*03:01,1,P,parasite,Plasmodium,Plasmodium falciparum,"GTP-binding protein, putative",A,,1038983,121,0.5555555555555556,40-59%
+LCI004328,IENNLYERL,HLA-A*24:02,1,P,parasite,Plasmodium,Plasmodium falciparum,"GTP-binding protein, putative",A,,1038983,121,0.5555555555555556,40-59%
+LCI004329,IENNLYERL,HLA-B*07:02,1,P,parasite,Plasmodium,Plasmodium falciparum,"GTP-binding protein, putative",A,,1038983,121,0.5555555555555556,40-59%
+LCI004330,IENNLYERL,HLA-B*44:03,1,P,parasite,Plasmodium,Plasmodium falciparum,"GTP-binding protein, putative",A,,1038983,121,0.5555555555555556,40-59%
+LCI004337,IEVEHNFPC,HLA-B*18:01,1,P,parasite,Plasmodium,Plasmodium falciparum,Apical membrane antigen 1,C,,1039475,601,0.4444444444444444,40-59%
+LCI004338,IEVENNFPC,HLA-B*18:01,1,P,parasite,Plasmodium,Plasmodium falciparum,Apical membrane antigen 1,C,,1039475,601,0.5555555555555556,40-59%
+LCI004369,IGLITVLFL,HLA-A*02:01,1,P,virus,Herpesviridae,Rhadinovirus humangamma8,Protein ORF28,A,,1022035;1043931,743,0.5555555555555556,40-59%
+LCI004375,IHASGKQMW,HLA-A*02:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,C,,1038969,21,0.5555555555555556,40-59%
+LCI004379,IHVRVSQPS,HLA-A*02:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,C,,1038969,21,0.5555555555555556,40-59%
+LCI004398,IILNGSLLT,HLA-A*02:01,0,N2,parasite,Trypanosoma,Trypanosoma cruzi,"Trans-sialidase, putative",A,high,1003942,65,0.5555555555555556,40-59%
+LCI004399,IILNGSLLTL,HLA-A*02:01,1,P,parasite,Trypanosoma,Trypanosoma cruzi,"Trans-sialidase, putative",A,,1003942,65,0.6,60-79%
+LCI004433,ILARNLVPM,HLA-A*02:01,0,N2,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,B,high,1038969,21,0.5555555555555556,40-59%
+LCI004434,ILASVFFGV,HLA-A*02:01,0,N2,parasite,Trypanosoma,Trypanosoma cruzi,"Transporter, putative",C,medium,1046886,2347,0.6666666666666666,60-79%
+LCI004437,ILCDFLLHV,HLA-A*02:01,1,P,parasite,Trypanosoma,Trypanosoma cruzi,Bardet-Biedl syndrome 8 protein,C,,1046886,2349,0.6666666666666666,60-79%
+LCI004464,ILEETSVML,HLA-A*02:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,Immediate early protein IE1,B,,1032069,754,0.5555555555555556,40-59%
+LCI004477,ILGADPLRV,HLA-A*02:01,0,N2,virus,Herpesviridae,Human betaherpesvirus 5,Immediate early protein IE1,A,high,1004720,754,0.6666666666666666,60-79%
+LCI004494,ILIEGIFFA,HLA-A*02:01,1,P,virus,Herpesviridae,Human alphaherpesvirus 1,Ribonucleoside-diphosphate reductase small subunit,A,,1027438;1031048,1488,0.5555555555555556,40-59%
+LCI004495,ILIEGIFFV,HLA-A*02:01,1,P,virus,Herpesviridae,Human alphaherpesvirus 3,Ribonucleoside-diphosphate reductase small subunit,A,,1027438;1043931,1488,0.5555555555555556,40-59%
+LCI004496,ILIEGVFFA,HLA-A*02:01,1,P,virus,Herpesviridae,Human alphaherpesvirus 2,Ribonucleoside-diphosphate reductase small subunit,A,,1027438;1043931,1488,0.6666666666666666,60-79%
+LCI004500,ILISRLTLK,HLA-A*01:01,1,P,parasite,Plasmodium,Plasmodium falciparum,Uncharacterized protein,A,,1038983,1312,0.5555555555555556,40-59%
+LCI004501,ILISRLTLK,HLA-A*02:01,1,P,parasite,Plasmodium,Plasmodium falciparum,Uncharacterized protein,A,,1038983,1312,0.5555555555555556,40-59%
+LCI004502,ILISRLTLK,HLA-A*24:02,1,P,parasite,Plasmodium,Plasmodium falciparum,Uncharacterized protein,A,,1038983,1312,0.5555555555555556,40-59%
+LCI004503,ILISRLTLK,HLA-B*07:02,1,P,parasite,Plasmodium,Plasmodium falciparum,Uncharacterized protein,A,,1038983,1312,0.5555555555555556,40-59%
+LCI004504,ILIYNGWYA,HLA-A*02:01,0,N2,virus,Herpesviridae,human gammaherpesvirus 4,Envelope glycoprotein B,B,high,1007749,186,0.4444444444444444,40-59%
+LCI004518,ILLARLFLY,HLA-A*02:01,1,P,virus,Herpesviridae,human gammaherpesvirus 4,Latent membrane protein 2,B,,1043931,840,0.5555555555555556,40-59%
+LCI004521,ILLEAIYKL,HLA-A*02:01,0,N2,parasite,Trypanosoma,Trypanosoma cruzi,"Retrotransposon hot spot (RHS) protein, putative",C,medium,1046886,2378,0.6666666666666666,60-79%
+LCI004522,ILLGSLSDL,HLA-A*02:01,1,P,virus,Hantaviridae,Orthohantavirus hantanense,RNA-directed RNA polymerase L,A,,315648,811,0.6666666666666666,60-79%
+LCI004555,ILPSKSLEV,HLA-A*02:01,1,P,virus,Hantaviridae,Orthohantavirus hantanense,RNA-directed RNA polymerase L,A,,315648,811,0.5555555555555556,40-59%
+LCI004558,ILQDMRNTI,HLA-A*02:01,1,P,virus,Hantaviridae,Orthohantavirus hantanense,Nucleoprotein,A,,315648,91,0.5555555555555556,40-59%
+LCI004562,ILRAWIRTTK,HLA-A*03:01,1,P,virus,Hepeviridae (HEV),Paslahepevirus balayani,Non-structural polyprotein pORF1,C,,1042621,50,0.5,40-59%
+LCI004572,ILSAGLMEGQI,HLA-A*02:01,0,N2,virus,Paramyxoviridae,Mumps orthorubulavirus,Fusion glycoprotein F0,A,high,1036297,2286,0.45454545454545453,40-59%
+LCI004587,ILSVSSFLFV,HLA-A*02:01,1,P,parasite,Plasmodium,Plasmodium falciparum,Circumsporozoite protein,A,,315582,222,0.6,60-79%
+LCI004601,ILVSFYITV,HLA-A*02:01,0,N2,parasite,Trypanosoma,Trypanosoma cruzi,Phosphatidylinositol:ceramide inositolphosphotransferase,C,medium,1046886,2409,0.5555555555555556,40-59%
+LCI004604,ILYGPLTRI,HLA-A*02:01,1,P,virus,Herpesviridae,Human betaherpesvirus 6B,Protein U54,B,,1043931,2411,0.6666666666666666,60-79%
+LCI004605,ILYKNIDCV,HLA-A*02:01,1,P,parasite,Plasmodium,Plasmodium falciparum,"GTP-binding protein, putative",A,,1038983,121,0.5555555555555556,40-59%
+LCI004606,ILYKNIDCV,HLA-A*24:02,1,P,parasite,Plasmodium,Plasmodium falciparum,"GTP-binding protein, putative",A,,1038983,121,0.5555555555555556,40-59%
+LCI004615,IMELATAGI,HLA-A*02:01,1,P,virus,Hantaviridae,Orthohantavirus hantanense,RNA-directed RNA polymerase L,A,,315648,811,0.5555555555555556,40-59%
+LCI004624,IMLDVAFTS,HLA-A*02:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,C,,1038969,21,0.5,40-59%
+LCI004645,IMVLSFLFL,HLA-A*02:01,1,P,parasite,Plasmodium,Plasmodium falciparum,Circumsporozoite protein,A,,1026345;315582,222,0.5555555555555556,40-59%
+LCI004650,INVHHYPSA,HLA-A*02:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,C,,1038969,21,0.4444444444444444,40-59%
+LCI004663,IPDYRSVSL,HLA-B*07:02,1,P,virus,Herpesviridae,Human betaherpesvirus 5,Protein UL27,C,,1036355,2432,0.6666666666666666,60-79%
+LCI004680,IPHNWFLQV,HLA-B*51:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,Protein US23,C,,1036355,2434,0.5555555555555556,40-59%
+LCI004707,IPMNVNPNI,HLA-A*01:01,1,P,parasite,Plasmodium,Plasmodium falciparum,Uncharacterized protein,A,,1038983,1312,0.4444444444444444,40-59%
+LCI004708,IPMNVNPNI,HLA-A*02:01,1,P,parasite,Plasmodium,Plasmodium falciparum,Uncharacterized protein,A,,1038983,1312,0.4444444444444444,40-59%
+LCI004709,IPMNVNPNI,HLA-A*03:01,1,P,parasite,Plasmodium,Plasmodium falciparum,Uncharacterized protein,A,,1038983,1312,0.4444444444444444,40-59%
+LCI004710,IPMNVNPNI,HLA-A*24:02,1,P,parasite,Plasmodium,Plasmodium falciparum,Uncharacterized protein,A,,1038983,1312,0.4444444444444444,40-59%
+LCI004711,IPMNVNPNI,HLA-B*07:02,1,P,parasite,Plasmodium,Plasmodium falciparum,Uncharacterized protein,A,,1038983,1312,0.4444444444444444,40-59%
+LCI004714,IPMTFVDRDSL,HLA-B*07:02,1,P,virus,Herpesviridae,Human betaherpesvirus 5,Apoptosis inhibitor UL38,C,,1036355,321,0.45454545454545453,40-59%
+LCI004717,IPNARANL,HLA-B*07:02,1,P,virus,Paramyxoviridae,Mumps orthorubulavirus,Nucleoprotein,C,,1039027,2440,0.5,40-59%
+LCI004724,IPPPQIPFV,HLA-B*51:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,Tegument protein UL51 homolog,C,,1036355,2444,0.4444444444444444,40-59%
+LCI004725,IPQCRLTPL,HLA-B*07:02,0,N2,virus,Herpesviridae,human gammaherpesvirus 4,Epstein-Barr nuclear antigen 1,B,high,1037571,940,0.5555555555555556,40-59%
+LCI004735,IPSINVHHY,HLA-B*35:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,B,,1004491;1004972;1025443;1025490;1025855;1028710;1035029;1043931,21,0.6666666666666666,60-79%
+LCI004736,IPSINVHHY,HLA-B*35:02,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,B,,1036611,21,0.6666666666666666,60-79%
+LCI004748,IPVERQAL,HLA-B*07:02,1,P,virus,Herpesviridae,Human betaherpesvirus 5,Protein TRS1,C,,1036355,92,0.5555555555555556,40-59%
+LCI004755,IQAPSNRVM,HLA-B*46:01,0,N2,virus,Herpesviridae,human gammaherpesvirus 4,Replication and transcription activator,A,high,1004570,735,0.5555555555555556,40-59%
+LCI004787,ISENGNLQVTY,HLA-A*01:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,Early phosphoprotein p84,C,,1036355,2483,0.45454545454545453,40-59%
+LCI004790,ISGHVLKAV,HLA-A*02:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,C,,1038969,21,0.5,40-59%
+LCI004799,ISPMTLDHMR,HLA-A*68:01,0,N2,parasite,Plasmodium,Plasmodium falciparum,Apical membrane antigen 1,C,medium,1039475,601,0.45454545454545453,40-59%
+LCI004800,ISPMTLNGMR,HLA-A*68:01,1,P,parasite,Plasmodium,Plasmodium falciparum,Apical membrane antigen 1,C,,1039475,601,0.5454545454545454,40-59%
+LCI004831,ITEIALDRY,HLA-A*01:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,Envelope protein US28,A,,1036355,700,0.5555555555555556,40-59%
+LCI004884,IVMGNGTLV,HLA-A*02:01,0,N2,parasite,Trypanosoma,Trypanosoma cruzi,"Trans-sialidase, putative",A,high,200088,65,0.5555555555555556,40-59%
+LCI004894,IVQENNGAV,HLA-A*02:01,0,N2,parasite,Trypanosoma,Trypanosoma cruzi,"Cysteine peptidase, putative",A,high,1003942,19,0.5555555555555556,40-59%
+LCI004896,IVSNSTCNF,HLA-B*35:01,1,P,parasite,Plasmodium,Plasmodium falciparum,Apical membrane antigen 1,C,,1039475,601,0.5555555555555556,40-59%
+LCI004897,IVTDFSVIK,HLA-A*11:01,1,P,virus,Herpesviridae,human gammaherpesvirus 4,Epstein-Barr nuclear antigen 4,B,,1025490;1035029;1043931,527,0.5555555555555556,40-59%
+LCI004905,IWYKYTESDF,HLA-A*01:01,1,P,parasite,Plasmodium,Plasmodium falciparum,"GTP-binding protein, putative",A,,1038983,121,0.4,40-59%
+LCI004906,IWYKYTESDF,HLA-A*02:01,1,P,parasite,Plasmodium,Plasmodium falciparum,"GTP-binding protein, putative",A,,1038983,121,0.4,40-59%
+LCI004907,IWYKYTESDF,HLA-A*24:02,1,P,parasite,Plasmodium,Plasmodium falciparum,"GTP-binding protein, putative",A,,1038983,121,0.4,40-59%
+LCI004908,IWYKYTESDF,HLA-B*07:02,1,P,parasite,Plasmodium,Plasmodium falciparum,"GTP-binding protein, putative",A,,1038983,121,0.4,40-59%
+LCI004912,IYELCNGPL,HLA-A*24:02,0,N2,virus,Herpesviridae,Human betaherpesvirus 5,Tripartite terminase subunit 1,A,high,1005858,55,0.4444444444444444,40-59%
+LCI004917,IYGDTDSLF,HLA-A*24:02,1,P,virus,Herpesviridae,human gammaherpesvirus 4,DNA polymerase catalytic subunit,C,,1044947,2279,0.4444444444444444,40-59%
+LCI004924,IYLLEMLWRL,HLA-A*24:02,0,N2,virus,Herpesviridae,human gammaherpesvirus 4,Latent membrane protein 1,A,high,1005857,483,0.5,40-59%
+LCI004932,IYNKPIAARF,HLA-A*24:02,0,N2,virus,Herpesviridae,Human betaherpesvirus 5,Envelope glycoprotein B,A,high,1005858,186,0.5,40-59%
+LCI004934,IYQLFEYTRL,HLA-A*24:02,0,N2,virus,Herpesviridae,Human betaherpesvirus 5,Envelope glycoprotein US27,A,high,1005858,906,0.5,40-59%
+LCI004945,IYVLVMLVLL,HLA-A*24:02,1,P,virus,Herpesviridae,human gammaherpesvirus 4,Latent membrane protein 2,A,,1005857,840,0.5,40-59%
+LCI004974,KALETDVPA,HLA-A*02:01,0,N2,parasite,Trypanosoma,Trypanosoma cruzi,"Trans-sialidase, putative",A,high,1003942,65,0.5,40-59%
+LCI005043,KEHVIQNAF,HLA-B*44:02,1,P,virus,Herpesviridae,human gammaherpesvirus 4,Epstein-Barr nuclear antigen 6,B,,1037571,642,0.5454545454545454,40-59%
+LCI005058,KEVNSQLSL,HLA-B*40:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,Immediate early protein IE1,A,,1005811;1027578;1043931,754,0.5555555555555556,40-59%
+LCI005159,KISHIMLDV,HLA-A*02:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,C,,1038969,21,0.4444444444444444,40-59%
+LCI005162,KISSFINQRK,HLA-A*01:01,1,P,parasite,Plasmodium,Plasmodium falciparum,Perforin-like protein 1,A,,1038983,1032,0.5,40-59%
+LCI005163,KISSFINQRK,HLA-A*02:01,1,P,parasite,Plasmodium,Plasmodium falciparum,Perforin-like protein 1,A,,1038983,1032,0.5,40-59%
+LCI005164,KISSFINQRK,HLA-A*03:01,1,P,parasite,Plasmodium,Plasmodium falciparum,Perforin-like protein 1,A,,1038983,1032,0.5,40-59%
+LCI005165,KISSFINQRK,HLA-A*24:02,1,P,parasite,Plasmodium,Plasmodium falciparum,Perforin-like protein 1,A,,1038983,1032,0.5,40-59%
+LCI005166,KISSFINQRK,HLA-B*07:02,1,P,parasite,Plasmodium,Plasmodium falciparum,Perforin-like protein 1,A,,1038983,1032,0.5,40-59%
+LCI005167,KISSFINQRK,HLA-B*44:03,1,P,parasite,Plasmodium,Plasmodium falciparum,Perforin-like protein 1,A,,1038983,1032,0.5,40-59%
+LCI005213,KLDEFTSRV,HLA-A*02:01,0,N2,parasite,Trypanosoma,Trypanosoma cruzi,"Flagellar calcium-binding protein, putative",C,medium,1046886,2654,0.6666666666666666,60-79%
+LCI005215,KLDGVLTQV,HLA-A*02:01,0,N2,parasite,Trypanosoma,Trypanosoma cruzi,"Retrotransposon hot spot (RHS) protein, putative (Fragment)",C,medium,1046886,2378,0.6666666666666666,60-79%
+LCI005216,KLDKEMEAV,HLA-A*02:01,0,N2,virus,Herpesviridae,Human betaherpesvirus 6B,Protein U90,B,high,1025239,2655,0.5555555555555556,40-59%
+LCI005220,KLEKIEDEL,HLA-A*02:01,1,P,parasite,Trypanosoma,Trypanosoma cruzi,"69 kDa paraflagellar rod protein, putative",A,,1024552,347,0.6666666666666666,60-79%
+LCI005223,KLFDFFWRI,HLA-A*02:01,0,N2,parasite,Trypanosoma,Trypanosoma cruzi,Uncharacterized protein,C,medium,1046886,2663,0.5555555555555556,40-59%
+LCI005232,KLFPEVIDL,HLA-A*02:01,1,P,parasite,Trypanosoma,Trypanosoma cruzi,"Trans-sialidase, putative",A,,200088,65,0.6666666666666666,60-79%
+LCI005244,KLGGALQAK,HLA-A*03:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,Immediate early protein IE1,A,,1027578;1036355;1043931,754,0.5555555555555556,40-59%
+LCI005252,KLGYRPHAK,HLA-A*03:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,Uncharacterized protein US33A,A,,1036355,2676,0.5555555555555556,40-59%
+LCI005255,KLIAGVNYI,HLA-A*02:01,1,P,virus,Paramyxoviridae,Mumps orthorubulavirus,Matrix protein,A,,1036297;1043931,677,0.5555555555555556,40-59%
+LCI005277,KLKKIKNSI,HLA-A*02:01,1,P,parasite,Plasmodium,Plasmodium falciparum,Circumsporozoite protein,A,,315582,222,0.4444444444444444,40-59%
+LCI005302,KLLQNMFEV,HLA-A*02:01,0,N2,parasite,Trypanosoma,Trypanosoma cruzi,Vacuolar protein sorting-associated protein 35,C,medium,1046886,2695,0.6666666666666666,60-79%
+LCI005341,KLPPLLNEI,HLA-A*02:01,1,P,parasite,Plasmodium,Plasmodium falciparum,"GTP-binding protein, putative",A,,1038983,121,0.5555555555555556,40-59%
+LCI005342,KLPPLLNEI,HLA-A*03:01,1,P,parasite,Plasmodium,Plasmodium falciparum,"GTP-binding protein, putative",A,,1038983,121,0.5555555555555556,40-59%
+LCI005343,KLPPLLNEI,HLA-A*24:02,1,P,parasite,Plasmodium,Plasmodium falciparum,"GTP-binding protein, putative",A,,1038983,121,0.5555555555555556,40-59%
+LCI005344,KLPPLLNEI,HLA-B*07:02,1,P,parasite,Plasmodium,Plasmodium falciparum,"GTP-binding protein, putative",A,,1038983,121,0.5555555555555556,40-59%
+LCI005345,KLPPLLNEI,HLA-B*44:03,1,P,parasite,Plasmodium,Plasmodium falciparum,"GTP-binding protein, putative",A,,1038983,121,0.5555555555555556,40-59%
+LCI005356,KLQEQQSDL,HLA-A*02:01,1,P,parasite,Plasmodium,Plasmodium falciparum,Liver stage antigen 1,A,,315582,932,0.5555555555555556,40-59%
+LCI005367,KLRKPKHKKL,HLA-A*02:01,1,P,parasite,Plasmodium,Plasmodium falciparum,Circumsporozoite protein,A,,315582,222,0.6,60-79%
+LCI005411,KLVFELSA,HLA-A*02:01,1,P,parasite,Plasmodium,Plasmodium falciparum,Apical membrane antigen 1,C,,1020909,601,0.5555555555555556,40-59%
+LCI005432,KLWAFLWSI,HLA-A*02:01,1,P,parasite,Trypanosoma,Trypanosoma cruzi,Nodulin-like domain-containing protein,C,,1046886,2751,0.5,40-59%
+LCI005436,KLWCRHFCV,HLA-A*02:01,1,P,virus,Paramyxoviridae,Measles morbillivirus,Hemagglutinin glycoprotein,B,,1043931,1033,0.4444444444444444,40-59%
+LCI005443,KLYCSYEVA,HLA-A*02:01,1,P,parasite,Trypanosoma,Trypanosoma cruzi,"Trans-sialidase, putative",A,,1003942,65,0.5555555555555556,40-59%
+LCI005470,KMLNIPSIN,HLA-A*02:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,C,,1038969,21,0.5555555555555556,40-59%
+LCI005493,KNYDNYNMK,HLA-A*02:01,1,P,parasite,Plasmodium,Plasmodium falciparum,Uncharacterized protein,A,,1038983,1312,0.4444444444444444,40-59%
+LCI005494,KNYDNYNMK,HLA-A*24:02,1,P,parasite,Plasmodium,Plasmodium falciparum,Uncharacterized protein,A,,1038983,1312,0.4444444444444444,40-59%
+LCI005519,KPNVNHTEL,HLA-A*01:01,1,P,parasite,Plasmodium,Plasmodium falciparum,"GTP-binding protein, putative",A,,1038983,121,0.4444444444444444,40-59%
+LCI005520,KPNVNHTEL,HLA-A*02:01,1,P,parasite,Plasmodium,Plasmodium falciparum,"GTP-binding protein, putative",A,,1038983,121,0.4444444444444444,40-59%
+LCI005521,KPNVNHTEL,HLA-A*03:01,1,P,parasite,Plasmodium,Plasmodium falciparum,"GTP-binding protein, putative",A,,1038983,121,0.4444444444444444,40-59%
+LCI005522,KPNVNHTEL,HLA-A*24:02,1,P,parasite,Plasmodium,Plasmodium falciparum,"GTP-binding protein, putative",A,,1038983,121,0.4444444444444444,40-59%
+LCI005523,KPNVNHTEL,HLA-B*07:02,1,P,parasite,Plasmodium,Plasmodium falciparum,"GTP-binding protein, putative",A,,1038983,121,0.4444444444444444,40-59%
+LCI005524,KPNVNHTEL,HLA-B*44:03,1,P,parasite,Plasmodium,Plasmodium falciparum,"GTP-binding protein, putative",A,,1038983,121,0.4444444444444444,40-59%
+LCI005535,KPRTSTPVT,HLA-B*07:02,0,N2,virus,Paramyxoviridae,Mumps orthorubulavirus,Non-structural protein V,C,medium,1039027,572,0.5555555555555556,40-59%
+LCI005536,KPRTSTPVTEF,HLA-B*07:02,1,P,virus,Paramyxoviridae,Mumps orthorubulavirus,Non-structural protein V,C,,1039027,572,0.45454545454545453,40-59%
+LCI005598,KQMWQARLTV,HLA-A*02:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,B,,1028977;1043931,21,0.5,40-59%
+LCI005613,KRAMYSVEL,HLA-C*07:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,Protein UL78,B,,1036355;1046854,738,0.5555555555555556,40-59%
+LCI005628,KRPPIFIRR,HLA-B*27:05,1,P,virus,Herpesviridae,human gammaherpesvirus 4,Epstein-Barr nuclear antigen 3,B,,1043931,528,0.5555555555555556,40-59%
+LCI005629,KRPPIFIRRL,HLA-B*27:05,1,P,virus,Herpesviridae,human gammaherpesvirus 4,Epstein-Barr nuclear antigen 3,A,,1035180;1043931,528,0.6,60-79%
+LCI005630,KRPPIFIRRL,HLA-B*27:09,1,P,virus,Herpesviridae,human gammaherpesvirus 4,Epstein-Barr nuclear antigen 3,A,,1035180,528,0.6,60-79%
+LCI005635,KRRYKQLL,HLA-B*08:01,1,P,virus,Herpesviridae,Human betaherpesvirus 6B,Envelope glycoprotein M,B,,1043931,1730,0.5,40-59%
+LCI005668,KSHGKGYNW,HLA-B*57:01,1,P,parasite,Plasmodium,Plasmodium falciparum,Apical membrane antigen 1,B,,1030793,601,0.4444444444444444,40-59%
+LCI005669,KSHGKGYNW,HLA-B*58:01,1,P,parasite,Plasmodium,Plasmodium falciparum,Apical membrane antigen 1,B,,1028181;1030793,601,0.4444444444444444,40-59%
+LCI005670,KSHGKGYNW,HLA-B*58:02,1,P,parasite,Plasmodium,Plasmodium falciparum,Apical membrane antigen 1,C,,1028181,601,0.4444444444444444,40-59%
+LCI005705,KSRGKGYNW,HLA-B*57:01,1,P,parasite,Plasmodium,Plasmodium falciparum,Apical membrane antigen 1,B,,1030793,601,0.5,40-59%
+LCI005706,KSRGKGYNW,HLA-B*58:01,1,P,parasite,Plasmodium,Plasmodium falciparum,Apical membrane antigen 1,B,,1030793,601,0.5,40-59%
+LCI005738,KTFYVLPLR,HLA-A*11:01,0,N2,virus,Hepeviridae (HEV),Paslahepevirus balayani,Pro-secreted protein ORF2,C,medium,1042621,50,0.5555555555555556,40-59%
+LCI005772,KTQKCEIFNV,HLA-A*68:02,0,N2,parasite,Plasmodium,Plasmodium falciparum,Apical membrane antigen 1,C,medium,1039475,601,0.5,40-59%
+LCI005792,KTWADEYLCV,HLA-A*02:01,1,P,parasite,Trypanosoma,Trypanosoma cruzi,"Trans-sialidase, putative",A,,1003942,65,0.4,40-59%
+LCI005808,KVDKDAANY,HLA-A*01:01,0,N2,virus,Paramyxoviridae,Mumps orthorubulavirus,Matrix protein,C,medium,1039027,677,0.5555555555555556,40-59%
+LCI005870,KVVSLVILA,HLA-A*02:01,1,P,parasite,Trypanosoma,Trypanosoma cruzi,"Trans-sialidase, putative",A,,1003942,65,0.5555555555555556,40-59%
+LCI005884,KYAESDYIF,HLA-A*24:02,0,N2,virus,Herpesviridae,Human betaherpesvirus 5,UL37 immediate early glycoprotein,A,high,1005858,2965,0.5,40-59%
+LCI005885,KYAESDYIFL,HLA-A*24:02,0,N2,virus,Herpesviridae,Human betaherpesvirus 5,UL37 immediate early glycoprotein,A,high,1005858,2965,0.6,60-79%
+LCI005887,KYCDPNVLL,HLA-A*24:02,0,N2,virus,Herpesviridae,Human betaherpesvirus 5,Tripartite terminase subunit 1,A,high,1005858,55,0.5555555555555556,40-59%
+LCI005896,KYESWLRPL,HLA-A*24:02,0,N2,virus,Herpesviridae,Human betaherpesvirus 5,Envelope glycoprotein L,A,high,1005858,1485,0.4444444444444444,40-59%
+LCI005912,KYQEFFWDA,HLA-A*24:02,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,B,,1013323;1043931,21,0.5555555555555556,40-59%
+LCI005919,KYTQTEEKF,HLA-A*24:02,0,N2,virus,Herpesviridae,Human betaherpesvirus 5,Immediate early protein IE1,A,high,1005858,754,0.4444444444444444,40-59%
+LCI005930,KYYAGLPPEL,HLA-A*24:02,0,N2,virus,Herpesviridae,Human betaherpesvirus 5,Envelope glycoprotein L,A,high,1005858,1485,0.5,40-59%
+LCI005934,LAAVLVVMA,HLA-A*02:01,0,N2,parasite,Trypanosoma,Trypanosoma cruzi,"Cysteine peptidase, putative",A,high,1003942,19,0.6666666666666666,60-79%
+LCI005974,LARNLVPMV,HLA-A*02:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,C,,1038969,21,0.5555555555555556,40-59%
+LCI005978,LASAMRML,HLA-B*58:01,1,P,virus,Herpesviridae,human gammaherpesvirus 4,Epstein-Barr nuclear antigen 2,A,,1030137,1848,0.5555555555555556,40-59%
+LCI005993,LCCYVLEET,HLA-C*07:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,Immediate early protein IE1,A,,1004491;1043931,754,0.4444444444444444,40-59%
+LCI006001,LDFVRFMGV,HLA-B*37:01,1,P,virus,Herpesviridae,human gammaherpesvirus 4,Epstein-Barr nuclear antigen 6,B,,1043931,642,0.6666666666666666,60-79%
+LCI006029,LEKARGSTY,HLA-B*15:01,1,P,virus,Herpesviridae,human gammaherpesvirus 4,Epstein-Barr nuclear antigen 3,B,,1043931,528,0.5,40-59%
+LCI006035,LENGVTHRF,HLA-B*44:02,1,P,virus,Herpesviridae,Human betaherpesvirus 5,DNA polymerase catalytic subunit,C,,1036355,2279,0.5555555555555556,40-59%
+LCI006053,LESFCEDVP,HLA-A*02:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,C,,1038969,21,0.5555555555555556,40-59%
+LCI006058,LEVQAIRET,HLA-A*02:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,C,,1038969,21,0.5555555555555556,40-59%
+LCI006089,LFVEALFQEY,HLA-A*30:02,1,P,parasite,Plasmodium,Plasmodium falciparum,Circumsporozoite protein,C,,1026345,222,0.5,40-59%
+LCI006126,LIDGIFLRY,HLA-A*01:01,1,P,virus,Herpesviridae,Human alphaherpesvirus 1,Envelope glycoprotein L,B,,1043931,1485,0.6666666666666666,60-79%
+LCI006142,LIIPNVTLAH,HLA-A*03:01,1,P,virus,Herpesviridae,human gammaherpesvirus 4,Glycoprotein BILF2,A,,1032908;1043931,3057,0.5,40-59%
+LCI006151,LIMVLSFLF,HLA-A*23:01,1,P,parasite,Plasmodium,Plasmodium falciparum,Circumsporozoite protein,C,,1026345,222,0.5555555555555556,40-59%
+LCI006152,LIMVLSFLF,HLA-A*29:02,1,P,parasite,Plasmodium,Plasmodium falciparum,Circumsporozoite protein,C,,1026345,222,0.5555555555555556,40-59%
+LCI006153,LIMVLSFLF,HLA-B*15:03,1,P,parasite,Plasmodium,Plasmodium falciparum,Circumsporozoite protein,C,,1026345,222,0.5555555555555556,40-59%
+LCI006170,LISRLTLKY,HLA-A*01:01,1,P,parasite,Plasmodium,Plasmodium falciparum,Uncharacterized protein,A,,1038983,1312,0.5555555555555556,40-59%
+LCI006171,LISRLTLKY,HLA-A*02:01,1,P,parasite,Plasmodium,Plasmodium falciparum,Uncharacterized protein,A,,1038983,1312,0.5555555555555556,40-59%
+LCI006172,LISRLTLKY,HLA-A*03:01,1,P,parasite,Plasmodium,Plasmodium falciparum,Uncharacterized protein,A,,1038983,1312,0.5555555555555556,40-59%
+LCI006173,LISRLTLKY,HLA-A*24:02,1,P,parasite,Plasmodium,Plasmodium falciparum,Uncharacterized protein,A,,1038983,1312,0.5555555555555556,40-59%
+LCI006174,LISRLTLKY,HLA-B*07:02,1,P,parasite,Plasmodium,Plasmodium falciparum,Uncharacterized protein,A,,1038983,1312,0.5555555555555556,40-59%
+LCI006175,LISRLTLKY,HLA-B*44:03,1,P,parasite,Plasmodium,Plasmodium falciparum,Uncharacterized protein,A,,1038983,1312,0.5555555555555556,40-59%
+LCI006176,LISTDIIFL,HLA-A*02:01,1,P,parasite,Plasmodium,Plasmodium falciparum,"GTP-binding protein, putative",A,,1038983,121,0.5555555555555556,40-59%
+LCI006177,LISTDIIFL,HLA-A*24:02,1,P,parasite,Plasmodium,Plasmodium falciparum,"GTP-binding protein, putative",A,,1038983,121,0.5555555555555556,40-59%
+LCI006183,LIVDAVLQL,HLA-A*02:04,1,P,virus,Herpesviridae,human gammaherpesvirus 4,Latent membrane protein 2,A,,1014511,840,0.5555555555555556,40-59%
+LCI006186,LIWTGMIDL,HLA-A*02:01,1,P,virus,Hantaviridae,Orthohantavirus hantanense,Envelopment polyprotein,B,,1032698,1290,0.5,40-59%
+LCI006199,LLACAGLAY,HLA-A*03:01,1,P,parasite,Plasmodium,Plasmodium falciparum,Thrombospondin-related anonymous protein,A,,200073,222,0.6666666666666666,60-79%
+LCI006234,LLCPKSIPG,HLA-A*02:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,C,,1038969,21,0.5555555555555556,40-59%
+LCI006244,LLDELGAVFGY,HLA-A*01:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,Protein IRS1,C,,1036355,92,0.5454545454545454,40-59%
+LCI006248,LLDFVRFMGY,HLA-A*02:01,1,P,virus,Herpesviridae,human gammaherpesvirus 4,Epstein-Barr nuclear antigen 6,B,,1014811;1043931,642,0.5,40-59%
+LCI006310,LLGLWGLTGL,HLA-A*02:01,1,P,parasite,Trypanosoma,Trypanosoma cruzi,"Trans-sialidase, putative",A,,200088,65,0.5,40-59%
+LCI006311,LLGLWGTAA,HLA-A*02:01,0,N2,parasite,Trypanosoma,Trypanosoma cruzi,"Trans-sialidase, putative",A,high,1003942,65,0.5555555555555556,40-59%
+LCI006313,LLGLWVFAAL,HLA-A*02:01,1,P,parasite,Trypanosoma,Trypanosoma cruzi,"Trans-sialidase, putative",A,,1003945;1013407,65,0.5,40-59%
+LCI006321,LLGSGIYQV,HLA-A*02:01,0,N2,virus,Hepeviridae (HEV),Paslahepevirus balayani,Non-structural polyprotein pORF1,C,medium,1042621,50,0.6,60-79%
+LCI006343,LLIEGIFFI,HLA-A*02:01,1,P,virus,Herpesviridae,human gammaherpesvirus 4,Ribonucleoside-diphosphate reductase small subunit,A,,1027077;1027438;1043931,1488,0.5555555555555556,40-59%
+LCI006378,LLLEHGQFDL,HLA-A*02:01,0,N2,parasite,Trypanosoma,Trypanosoma cruzi,"Trans-sialidase, putative",A,high,1003942,65,0.6,60-79%
+LCI006385,LLLGLWGFAA,HLA-A*02:01,0,N2,parasite,Trypanosoma,Trypanosoma cruzi,"Trans-sialidase, putative",A,high,200088,65,0.6,60-79%
+LCI006386,LLLGLWGTA,HLA-A*02:01,0,N2,parasite,Trypanosoma,Trypanosoma cruzi,"Trans-sialidase, putative",A,high,1003942,65,0.6666666666666666,60-79%
+LCI006387,LLLGLWGTAA,HLA-A*02:01,1,P,parasite,Trypanosoma,Trypanosoma cruzi,"Trans-sialidase, putative",A,,1003942,65,0.6,60-79%
+LCI006399,LLLLGLWGL,HLA-A*02:01,1,P,parasite,Trypanosoma,Trypanosoma cruzi,"Trans-sialidase, putative",A,,200088,65,0.6666666666666666,60-79%
+LCI006400,LLLLGLWGTA,HLA-A*02:01,0,N2,parasite,Trypanosoma,Trypanosoma cruzi,"Trans-sialidase, putative",A,high,1003942,65,0.6,60-79%
+LCI006409,LLLQRGPQY,HLA-B*15:01,0,N2,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,A,high,1005821,21,0.5555555555555556,40-59%
+LCI006419,LLMDCAAYL,HLA-A*02:01,1,P,parasite,Trypanosoma,Trypanosoma cruzi,Uncharacterized protein (Fragment),C,,1046886,3178,0.5555555555555556,40-59%
+LCI006420,LLMDDFSAV,HLA-A*02:01,1,P,parasite,Trypanosoma,Trypanosoma cruzi,Protein phosphatase methylesterase 1,C,,1046886,3179,0.6666666666666666,60-79%
+LCI006432,LLMNGQQIF,HLA-A*02:01,0,N2,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,C,medium,1038969,21,0.5555555555555556,40-59%
+LCI006433,LLMNGQQIF,HLA-B*15:01,0,N2,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,A,high,1005821,21,0.5555555555555556,40-59%
+LCI006434,LLMNGQQIFL,HLA-A*02:01,0,N2,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,C,medium,1028977,21,0.6,60-79%
+LCI006435,LLMNVIFLV,HLA-A*02:01,0,N2,parasite,Trypanosoma,Trypanosoma cruzi,Serine incorporator,C,medium,1046886,3184,0.6666666666666666,60-79%
+LCI006454,LLNSDRRDL,HLA-A*01:01,1,P,parasite,Plasmodium,Plasmodium falciparum,"GTP-binding protein, putative",A,,1038983,121,0.5555555555555556,40-59%
+LCI006455,LLNSDRRDL,HLA-A*24:02,1,P,parasite,Plasmodium,Plasmodium falciparum,"GTP-binding protein, putative",A,,1038983,121,0.5555555555555556,40-59%
+LCI006456,LLNSDRRDL,HLA-B*07:02,1,P,parasite,Plasmodium,Plasmodium falciparum,"GTP-binding protein, putative",A,,1038983,121,0.5555555555555556,40-59%
+LCI006487,LLQRGPQYS,HLA-A*02:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,C,,1038969,21,0.5555555555555556,40-59%
+LCI006501,LLSAWILTA,HLA-C*16:01,1,P,virus,Herpesviridae,human gammaherpesvirus 4,Latent membrane protein 2,C,,1044947,840,0.5555555555555556,40-59%
+LCI006504,LLSEFCRVL,HLA-A*02:01,0,N2,virus,Herpesviridae,Human betaherpesvirus 5,Immediate early protein IE1,A,high,1004720,754,0.6666666666666666,60-79%
+LCI006522,LLTTPKFTV,HLA-A*02:01,1,P,virus,Herpesviridae,Human alphaherpesvirus 1,Envelope glycoprotein B,A,,1026941,186,0.5555555555555556,40-59%
+LCI006523,LLTTSGVSA,HLA-A*02:01,1,P,parasite,Trypanosoma,Trypanosoma cruzi,"Cysteine peptidase, putative",A,,1003942,19,0.5555555555555556,40-59%
+LCI006524,LLTTSGVSAI,HLA-A*02:01,0,N2,parasite,Trypanosoma,Trypanosoma cruzi,"Cysteine peptidase, putative",A,high,1003942,19,0.5,40-59%
+LCI006528,LLVGYNDSA,HLA-A*02:01,0,N2,parasite,Trypanosoma,Trypanosoma cruzi,"Cysteine peptidase, putative",A,high,1003942,19,0.5555555555555556,40-59%
+LCI006529,LLVGYNDSAA,HLA-A*02:01,0,N2,parasite,Trypanosoma,Trypanosoma cruzi,"Cysteine peptidase, putative",A,high,1003942,19,0.6,60-79%
+LCI006544,LLWNTVWNM,HLA-A*02:01,1,P,virus,Hepeviridae (HEV),Paslahepevirus balayani,Non-structural polyprotein pORF1,C,,1042621,50,0.4444444444444444,40-59%
+LCI006549,LLWTLVLL,HLA-A*02:01,0,N2,virus,Herpesviridae,human gammaherpesvirus 4,Latent membrane protein 2,B,high,1005919,840,0.625,60-79%
+LCI006550,LLWTLVVL,HLA-A*02:01,1,P,virus,Herpesviridae,human gammaherpesvirus 4,Latent membrane protein 2,A,,1004702;1014511,840,0.5555555555555556,40-59%
+LCI006558,LLYLITNYL,HLA-A*02:01,1,P,virus,Herpesviridae,Human alphaherpesvirus 1,Capsid scaffolding protein,A,,1031894;1043931,824,0.5555555555555556,40-59%
+LCI006567,LLYSDDALHL,HLA-A*02:01,1,P,parasite,Trypanosoma,Trypanosoma cruzi,"Trans-sialidase, putative",A,,200088,65,0.6,60-79%
+LCI006585,LMHAPAFET,HLA-A*02:01,1,P,virus,Herpesviridae,Human alphaherpesvirus 1,Envelope glycoprotein D,A,,1007943;1043931,748,0.4444444444444444,40-59%
+LCI006596,LMIIPLINV,HLA-A*02:01,1,P,virus,Herpesviridae,human gammaherpesvirus 4,Envelope glycoprotein H,B,,1004292;1005919;1043931,125,0.5555555555555556,40-59%
+LCI006624,LMNNAFEWI,HLA-A*02:01,1,P,parasite,Trypanosoma,Trypanosoma cruzi,"Cysteine peptidase, putative",A,,1003942,19,0.5,40-59%
+LCI006625,LMNNAFEWIV,HLA-A*02:01,1,P,parasite,Trypanosoma,Trypanosoma cruzi,"Cysteine peptidase, putative",A,,1003942,19,0.5,40-59%
+LCI006629,LMQPRQLVF,HLA-B*15:01,0,N2,virus,Hepeviridae (HEV),Paslahepevirus balayani,Non-structural polyprotein pORF1,C,medium,1042621,50,0.5555555555555556,40-59%
+LCI006638,LMTYLRGISY,HLA-B*15:01,1,P,virus,Hepeviridae (HEV),Paslahepevirus balayani,Non-structural polyprotein pORF1,C,,1042621,50,0.6,60-79%
+LCI006739,LPHERHREL,HLA-B*07:02,1,P,virus,Herpesviridae,Human betaherpesvirus 5,Transcriptional regulator UL34,A,,1036355,308,0.5555555555555556,40-59%
+LCI006740,LPHERHREL,HLA-B*08:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,Transcriptional regulator UL34,A,,1036355,308,0.5555555555555556,40-59%
+LCI006758,LPLKMLNI,HLA-B*51:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,A,,1036355,21,0.4444444444444444,40-59%
+LCI006774,LPNDHHYAL,HLA-B*07:02,1,P,virus,Herpesviridae,Human betaherpesvirus 5,Protein UL40,C,,1036355,607,0.5555555555555556,40-59%
+LCI006793,LPPHDITPY,HLA-B*35:01,1,P,virus,Herpesviridae,human gammaherpesvirus 4,Epstein-Barr nuclear antigen 6,B,,1037572,642,0.5555555555555556,40-59%
+LCI006796,LPPPPPNNL,HLA-A*02:01,1,P,parasite,Plasmodium,Plasmodium falciparum,Uncharacterized protein,A,,1038983,1312,0.5555555555555556,40-59%
+LCI006797,LPPPPPNNL,HLA-A*03:01,1,P,parasite,Plasmodium,Plasmodium falciparum,Uncharacterized protein,A,,1038983,1312,0.5555555555555556,40-59%
+LCI006798,LPPPPPNNL,HLA-A*24:02,1,P,parasite,Plasmodium,Plasmodium falciparum,Uncharacterized protein,A,,1038983,1312,0.5555555555555556,40-59%
+LCI006799,LPPPPPNNL,HLA-B*07:02,1,P,parasite,Plasmodium,Plasmodium falciparum,Uncharacterized protein,A,,1038983,1312,0.5555555555555556,40-59%
+LCI006846,LPVADAVIH,HLA-A*02:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,C,,1038969,21,0.5555555555555556,40-59%
+LCI006873,LPYIHPTNPFA,HLA-C*03:03,1,P,virus,Hepeviridae (HEV),Paslahepevirus balayani,Pro-secreted protein ORF2,C,,1031168,50,0.45454545454545453,40-59%
+LCI006874,LPYIHPTNPFA,HLA-C*07:01,1,P,virus,Hepeviridae (HEV),Paslahepevirus balayani,Pro-secreted protein ORF2,C,,1031168,50,0.45454545454545453,40-59%
+LCI006875,LPYLSAERTV,HLA-B*51:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,Large tegument protein deneddylase,C,,1036355,494,0.5,40-59%
+LCI006882,LPYPRGYTL,HLA-B*08:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,Tegument protein UL26,A,,1036355,3325,0.5555555555555556,40-59%
+LCI006968,LRSLFWNEPAI,HLA-A*02:01,1,P,virus,Hepeviridae (HEV),Paslahepevirus balayani,Non-structural polyprotein pORF1,C,,1031168,50,0.45454545454545453,40-59%
+LCI006996,LSIFDTSLF,HLA-B*58:01,0,N2,virus,Herpesviridae,human gammaherpesvirus 4,Replication and transcription activator,A,high,1004570,735,0.5555555555555556,40-59%
+LCI007019,LSRLPFGMA,HLA-B*57:01,1,P,virus,Herpesviridae,human gammaherpesvirus 4,Epstein-Barr nuclear antigen 1,B,,1040220,940,0.5555555555555556,40-59%
+LCI007040,LTAGFLIFL,HLA-A*02:01,1,P,virus,Herpesviridae,human gammaherpesvirus 4,Latent membrane protein 2,B,,1042329,840,0.6,60-79%
+LCI007042,LTAGFLIFL,HLA-C*16:01,1,P,virus,Herpesviridae,human gammaherpesvirus 4,Latent membrane protein 2,C,,1044947,840,0.6,60-79%
+LCI007048,LTAVITAAY,HLA-A*01:01,0,N2,virus,Hepeviridae (HEV),Paslahepevirus balayani,Non-structural polyprotein pORF1,C,medium,1042621,50,0.5555555555555556,40-59%
+LCI007066,LTFKGPGAWA,HLA-A*02:01,0,N2,parasite,Trypanosoma,Trypanosoma cruzi,"Trans-sialidase, putative",A,high,1003942,65,0.5,40-59%
+LCI007081,LTMKMINNK,HLA-A*01:01,1,P,parasite,Plasmodium,Plasmodium falciparum,"GTP-binding protein, putative",A,,1038983,121,0.4444444444444444,40-59%
+LCI007082,LTMKMINNK,HLA-A*03:01,1,P,parasite,Plasmodium,Plasmodium falciparum,"GTP-binding protein, putative",A,,1038983,121,0.4444444444444444,40-59%
+LCI007083,LTMKMINNK,HLA-A*24:02,1,P,parasite,Plasmodium,Plasmodium falciparum,"GTP-binding protein, putative",A,,1038983,121,0.4444444444444444,40-59%
+LCI007084,LTMKMINNK,HLA-B*07:02,1,P,parasite,Plasmodium,Plasmodium falciparum,"GTP-binding protein, putative",A,,1038983,121,0.4444444444444444,40-59%
+LCI007085,LTMKMINNK,HLA-B*44:03,1,P,parasite,Plasmodium,Plasmodium falciparum,"GTP-binding protein, putative",A,,1038983,121,0.4444444444444444,40-59%
+LCI007089,LTNLSEQMLV,HLA-A*02:01,0,N2,parasite,Trypanosoma,Trypanosoma cruzi,"Cysteine peptidase, putative",A,high,1003942,19,0.5,40-59%
+LCI007134,LVIGACVYC,HLA-A*02:01,0,N2,virus,Herpesviridae,Rhadinovirus humangamma8,Protein ORF28,A,high,1022035,743,0.4444444444444444,40-59%
+LCI007139,LVIPSERLHY,HLA-B*15:01,0,N2,virus,Hepeviridae (HEV),Paslahepevirus balayani,Pro-secreted protein ORF2,C,medium,1042621,50,0.5,40-59%
+LCI007151,LVLEQLGQL,HLA-A*02:01,0,N2,virus,Herpesviridae,Human betaherpesvirus 6B,Protein U90,B,high,1025239,2655,0.6666666666666666,60-79%
+LCI007161,LVPMVATVQ,HLA-A*02:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,C,,1038969,21,0.5555555555555556,40-59%
+LCI007163,LVQAFHSFRA,HLA-A*02:01,0,N2,parasite,Trypanosoma,Trypanosoma cruzi,"Trans-sialidase, putative",A,high,1003942,65,0.5,40-59%
+LCI007207,LVYVNGVVV,HLA-A*02:01,0,N2,parasite,Trypanosoma,Trypanosoma cruzi,"Trans-sialidase, putative",A,high,1003942,65,0.5555555555555556,40-59%
+LCI007226,LYDAITENL,HLA-A*24:02,0,N2,virus,Herpesviridae,Human betaherpesvirus 5,Viral inhibitor of caspase-8-induced apoptosis,A,high,1005858,737,0.5555555555555556,40-59%
+LCI007238,LYLALGAGF,HLA-A*24:02,0,N2,virus,Herpesviridae,Human betaherpesvirus 5,Protein TRS1,A,high,1005858,92,0.6666666666666666,60-79%
+LCI007241,LYLEMLLKAL,HLA-A*24:02,0,N2,virus,Herpesviridae,Human betaherpesvirus 5,Tripartite terminase subunit 1,A,high,1005858,55,0.6,60-79%
+LCI007242,LYLLLYRHL,HLA-A*24:02,0,N2,virus,Herpesviridae,Human betaherpesvirus 5,Tripartite terminase subunit 1,A,high,1005858,55,0.6,60-79%
+LCI007250,LYNAVKEFCL,HLA-A*24:02,0,N2,virus,Herpesviridae,Human betaherpesvirus 5,Envelope glycoprotein L,A,high,1005858,1485,0.5,40-59%
+LCI007251,LYNETFGKQL,HLA-A*24:02,0,N2,virus,Herpesviridae,Human betaherpesvirus 5,Tripartite terminase subunit 1,A,high,1005858,55,0.5,40-59%
+LCI007258,LYPEYIYTVL,HLA-A*24:02,0,N2,virus,Herpesviridae,Human betaherpesvirus 5,Large tegument protein deneddylase,A,high,1005858,494,0.5,40-59%
+LCI007262,LYRGDVESL,HLA-A*24:02,0,N2,virus,Herpesviridae,Human betaherpesvirus 5,Viral inhibitor of caspase-8-induced apoptosis,A,high,1005858,737,0.6,60-79%
+LCI007273,LYTGLAQAL,HLA-A*24:02,0,N2,virus,Herpesviridae,human gammaherpesvirus 4,Major DNA-binding protein,A,high,1005857,666,0.5555555555555556,40-59%
+LCI007278,LYVFVGTKF,HLA-A*24:02,0,N2,virus,Herpesviridae,Human betaherpesvirus 5,Envelope protein US28,A,high,1005858,700,0.5555555555555556,40-59%
+LCI007279,LYVGQFLAY,HLA-A*29:02,1,P,virus,Herpesviridae,Human betaherpesvirus 5,Envelope glycoprotein US27,C,,1036355,906,0.5555555555555556,40-59%
+LCI007289,MACLVPAAT,HLA-A*02:01,0,N2,parasite,Trypanosoma,Trypanosoma cruzi,"Cysteine peptidase, putative",A,high,1003942,19,0.6666666666666666,60-79%
+LCI007300,MAIIAHCY,HLA-B*35:01,1,P,virus,Hepeviridae (HEV),Paslahepevirus balayani,Non-structural polyprotein pORF1,C,,1042621,50,0.4444444444444444,40-59%
+LCI007304,MALIGDSTV,HLA-A*02:01,0,N2,parasite,Trypanosoma,Trypanosoma cruzi,"Trans-sialidase, putative",A,high,1003942,65,0.5555555555555556,40-59%
+LCI007338,MEECGMPQW,HLA-B*44:02,1,P,virus,Hepeviridae (HEV),Paslahepevirus balayani,Non-structural polyprotein pORF1,C,,1042621,50,0.4444444444444444,40-59%
+LCI007347,MENEDVEFI,HLA-A*02:01,1,P,parasite,Plasmodium,Plasmodium falciparum,"GTP-binding protein, putative",A,,1038983,121,0.5555555555555556,40-59%
+LCI007348,MENEDVEFI,HLA-A*24:02,1,P,parasite,Plasmodium,Plasmodium falciparum,"GTP-binding protein, putative",A,,1038983,121,0.5555555555555556,40-59%
+LCI007349,MENTRATKM,HLA-A*02:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,C,,1038969,21,0.5555555555555556,40-59%
+LCI007363,MGSLEMLPM,HLA-B*35:01,0,N2,virus,Herpesviridae,human gammaherpesvirus 4,Latent membrane protein 2,A,high,1014511,840,0.5,40-59%
+LCI007364,MGSLEMMPM,HLA-B*35:01,0,N2,virus,Herpesviridae,human gammaherpesvirus 4,Latent membrane protein 2,A,high,1014511,840,0.4444444444444444,40-59%
+LCI007366,MGSLEVMPM,HLA-B*35:01,0,N2,virus,Herpesviridae,human gammaherpesvirus 4,Latent membrane protein 2,A,high,1014511,840,0.45454545454545453,40-59%
+LCI007378,MILIEGIFFV,HLA-A*02:01,1,P,virus,Herpesviridae,Human alphaherpesvirus 3,Ribonucleoside-diphosphate reductase small subunit,C,,1027438,1488,0.5,40-59%
+LCI007383,MINAYLDKL,HLA-A*02:01,1,P,parasite,Plasmodium,Plasmodium falciparum,Sporozoite threonine and asparagine-rich protein,A,,315582,1300,0.5555555555555556,40-59%
+LCI007385,MISVLGPIS,HLA-A*02:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,C,,1038969,21,0.5,40-59%
+LCI007409,MLGTHAMLV,HLA-A*02:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,Membrane protein UL20,C,,1038883,3500,0.7,60-79%
+LCI007423,MLLLALAYI,HLA-A*02:01,1,P,parasite,Trypanosoma,Trypanosoma cruzi,Serine/threonine-protein,C,,1046886,849,0.6,60-79%
+LCI007434,MLMEAAVEL,HLA-A*02:01,0,N2,parasite,Trypanosoma,Trypanosoma cruzi,Uncharacterized protein,C,medium,1046886,3507,0.5555555555555556,40-59%
+LCI007435,MLMIIIVIAI,HLA-A*02:01,1,P,virus,Herpesviridae,Rhadinovirus humangamma8,Envelope glycoprotein B,A,,1021328;1043931,186,0.4,40-59%
+LCI007439,MLNIPSINV,HLA-A*02:06,0,N2,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,B,high,1004548,21,0.5555555555555556,40-59%
+LCI007440,MLNIPSINV,HLA-A*02:07,0,N2,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,B,high,1004548,21,0.5555555555555556,40-59%
+LCI007443,MLQDGNKGSV,HLA-A*02:01,0,N2,parasite,Trypanosoma,Trypanosoma cruzi,"Trans-sialidase, putative",A,high,200088,65,0.5,40-59%
+LCI007450,MLRDRWSLV,HLA-A*02:01,1,P,virus,Herpesviridae,Human alphaherpesvirus 1,Capsid scaffolding protein,A,,1031894,824,0.6666666666666666,60-79%
+LCI007454,MLRLLFTL,HLA-B*08:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,Membrane protein UL148,C,,1036355,1796,0.5555555555555556,40-59%
+LCI007468,MLWYTVYNI,HLA-A*02:01,1,P,virus,Herpesviridae,Human betaherpesvirus 6B,Large structural phosphoprotein,B,,1025239;1043931,1001,0.5555555555555556,40-59%
+LCI007480,MMLRDRWSL,HLA-A*02:01,1,P,virus,Herpesviridae,Human alphaherpesvirus 1,Capsid scaffolding protein,A,,1031894;1043931,824,0.6,60-79%
+LCI007494,MMRKLAILSV,HLA-A*02:01,1,P,parasite,Plasmodium,Plasmodium falciparum,Circumsporozoite protein,A,,315042,222,0.5,40-59%
+LCI007495,MMSCSSEAT,HLA-A*02:01,0,N2,parasite,Trypanosoma,Trypanosoma cruzi,"Trans-sialidase, putative",A,high,1003942,65,0.5555555555555556,40-59%
+LCI007553,MPVTHPPEV,HLA-B*51:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,Viral transcription factor IE2,C,,1036355,3281,0.5555555555555556,40-59%
+LCI007572,MQVIGDQYV,HLA-A*02:01,0,N2,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,C,medium,1038969,21,0.5555555555555556,40-59%
+LCI007578,MRPHERNGF,HLA-A*02:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,C,,1038969,21,0.5555555555555556,40-59%
+LCI007579,MRPHERNGF,HLA-B*27:05,0,N2,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,A,high,1005821,21,0.5555555555555556,40-59%
+LCI007596,MSPMTLDEMR,HLA-A*68:01,0,N2,parasite,Plasmodium,Plasmodium falciparum,Apical membrane antigen 1,C,medium,1039475,601,0.4,40-59%
+LCI007618,MTEQTDEAV,HLA-A*02:01,0,N2,parasite,Trypanosoma,Trypanosoma cruzi,"Trans-sialidase, putative",A,high,1003942,65,0.5555555555555556,40-59%
+LCI007636,MTSCVSEQL,HLA-A*02:01,0,N2,parasite,Trypanosoma,Trypanosoma cruzi,"Cysteine peptidase, putative",A,high,1003942,19,0.5555555555555556,40-59%
+LCI007645,MTYLRGISYK,HLA-A*03:01,1,P,virus,Hepeviridae (HEV),Paslahepevirus balayani,Non-structural polyprotein pORF1,C,,1042621,50,0.6,60-79%
+LCI007646,MTYLRGISYK,HLA-A*11:01,0,N2,virus,Hepeviridae (HEV),Paslahepevirus balayani,Non-structural polyprotein pORF1,C,medium,1042621,50,0.6,60-79%
+LCI007647,MTYTGGVMT,HLA-A*02:01,0,N2,parasite,Trypanosoma,Trypanosoma cruzi,"Cysteine peptidase, putative",A,high,1003942,19,0.5555555555555556,40-59%
+LCI007671,MVSNSTCRF,HLA-B*35:01,1,P,parasite,Plasmodium,Plasmodium falciparum,Apical membrane antigen 1,C,,1039475,601,0.5,40-59%
+LCI007689,MYHNKEFDF,HLA-A*01:01,1,P,parasite,Plasmodium,Plasmodium falciparum,"GTP-binding protein, putative",A,,1038983,121,0.4444444444444444,40-59%
+LCI007690,MYHNKEFDF,HLA-A*02:01,1,P,parasite,Plasmodium,Plasmodium falciparum,"GTP-binding protein, putative",A,,1038983,121,0.4444444444444444,40-59%
+LCI007691,MYHNKEFDF,HLA-A*03:01,1,P,parasite,Plasmodium,Plasmodium falciparum,"GTP-binding protein, putative",A,,1038983,121,0.4444444444444444,40-59%
+LCI007692,MYHNKEFDF,HLA-A*24:02,1,P,parasite,Plasmodium,Plasmodium falciparum,"GTP-binding protein, putative",A,,1038983,121,0.4444444444444444,40-59%
+LCI007693,MYHNKEFDF,HLA-B*07:02,1,P,parasite,Plasmodium,Plasmodium falciparum,"GTP-binding protein, putative",A,,1038983,121,0.4444444444444444,40-59%
+LCI007694,MYHNKEFDF,HLA-B*44:03,1,P,parasite,Plasmodium,Plasmodium falciparum,"GTP-binding protein, putative",A,,1038983,121,0.4444444444444444,40-59%
+LCI007698,MYMCYRNIEF,HLA-A*24:02,1,P,virus,Herpesviridae,Human betaherpesvirus 5,Immediate early protein IE1,B,,1028977;1043931,754,0.4,40-59%
+LCI007699,MYMHDSDDVL,HLA-A*24:02,0,N2,virus,Herpesviridae,Human betaherpesvirus 5,Envelope glycoprotein H,A,high,1005858,125,0.5,40-59%
+LCI007704,MYTKIKHIL,HLA-A*24:02,0,N2,virus,Herpesviridae,Human betaherpesvirus 5,Tripartite terminase subunit 1,A,high,1005858,55,0.5555555555555556,40-59%
+LCI007706,NAAEPEQPW,HLA-B*58:01,0,N2,virus,Herpesviridae,human gammaherpesvirus 4,Replication and transcription activator,A,high,1004570,735,0.4444444444444444,40-59%
+LCI007725,NEFPAIDLF,HLA-B*18:01,1,P,parasite,Plasmodium,Plasmodium falciparum,Apical membrane antigen 1,C,,1020909;1039475,601,0.5555555555555556,40-59%
+LCI007726,NEFPAIDLF,HLA-B*44:03,1,P,parasite,Plasmodium,Plasmodium falciparum,Apical membrane antigen 1,C,,1039475,601,0.5555555555555556,40-59%
+LCI007727,NEFSANDLF,HLA-B*18:01,1,P,parasite,Plasmodium,Plasmodium falciparum,Apical membrane antigen 1,C,,1039475,601,0.5555555555555556,40-59%
+LCI007728,NEFSANDLF,HLA-B*44:03,1,P,parasite,Plasmodium,Plasmodium falciparum,Apical membrane antigen 1,C,,1039475,601,0.5555555555555556,40-59%
+LCI007738,NEVVVKEEY,HLA-B*18:01,1,P,parasite,Plasmodium,Plasmodium falciparum,Apical membrane antigen 1,C,,1020909,601,0.5555555555555556,40-59%
+LCI007753,NGALAINTF,HLA-B*15:01,1,P,virus,Herpesviridae,human gammaherpesvirus 4,Epstein-Barr nuclear antigen 6,B,,1043931,642,0.5555555555555556,40-59%
+LCI007755,NGFTVLCPK,HLA-A*02:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,C,,1038969,21,0.5,40-59%
+LCI007802,NLFEWSKTV,HLA-A*01:01,1,P,parasite,Plasmodium,Plasmodium falciparum,Perforin-like protein 1,A,,1038983,1032,0.5555555555555556,40-59%
+LCI007803,NLFEWSKTV,HLA-A*02:01,1,P,parasite,Plasmodium,Plasmodium falciparum,Perforin-like protein 1,A,,1038983,1032,0.5555555555555556,40-59%
+LCI007804,NLFEWSKTV,HLA-A*03:01,1,P,parasite,Plasmodium,Plasmodium falciparum,Perforin-like protein 1,A,,1038983,1032,0.5555555555555556,40-59%
+LCI007805,NLFEWSKTV,HLA-A*24:02,1,P,parasite,Plasmodium,Plasmodium falciparum,Perforin-like protein 1,A,,1038983,1032,0.5555555555555556,40-59%
+LCI007806,NLFEWSKTV,HLA-B*07:02,1,P,parasite,Plasmodium,Plasmodium falciparum,Perforin-like protein 1,A,,1038983,1032,0.5555555555555556,40-59%
+LCI007807,NLFEWSKTV,HLA-B*44:03,1,P,parasite,Plasmodium,Plasmodium falciparum,Perforin-like protein 1,A,,1038983,1032,0.5555555555555556,40-59%
+LCI007834,NLLMNGQQI,HLA-A*02:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,C,,1038969,21,0.4444444444444444,40-59%
+LCI007847,NLNDNAIHL,HLA-A*02:01,1,P,parasite,Plasmodium,Plasmodium falciparum,Thrombospondin-related anonymous protein,A,,315582,222,0.6666666666666666,60-79%
+LCI007873,NLVPIVATV,HLA-A*02:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,B,,1038399,21,0.5555555555555556,40-59%
+LCI007876,NLVPMVAT,HLA-A*02:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,B,,1032377,21,0.5555555555555556,40-59%
+LCI007878,NLVPMVATV,HLA-A*02:02,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,B,,1032669,21,0.5555555555555556,40-59%
+LCI007879,NLVPMVATV,HLA-A*02:06,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,A,,1004504;1004548;1040693,21,0.5555555555555556,40-59%
+LCI007880,NLVPMVATV,HLA-A*02:07,0,N2,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,B,high,1004548,21,0.5555555555555556,40-59%
+LCI007881,NLVPMVATV,HLA-A*24:02,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,A,,1004696;1043931,21,0.5555555555555556,40-59%
+LCI007909,NMMGGCLQNA,HLA-A*02:01,0,N2,virus,Herpesviridae,Human betaherpesvirus 5,Immediate early protein IE1,C,medium,1028977,754,0.5,40-59%
+LCI007910,NMNYKQNNF,HLA-A*02:01,1,P,parasite,Plasmodium,Plasmodium falciparum,Uncharacterized protein,A,,1038983,1312,0.4444444444444444,40-59%
+LCI007911,NMNYKQNNF,HLA-A*24:02,1,P,parasite,Plasmodium,Plasmodium falciparum,Uncharacterized protein,A,,1038983,1312,0.4444444444444444,40-59%
+LCI007912,NMNYKQNNF,HLA-B*44:03,1,P,parasite,Plasmodium,Plasmodium falciparum,Uncharacterized protein,A,,1038983,1312,0.4444444444444444,40-59%
+LCI007913,NMPNDPNRNV,HLA-A*02:01,1,P,parasite,Plasmodium,Plasmodium falciparum,Circumsporozoite protein,A,,315582,222,0.5,40-59%
+LCI007915,NMSQAEYLV,HLA-A*02:01,0,N2,virus,Herpesviridae,Rhadinovirus humangamma8,Small capsomere-interacting protein,A,high,1022035,1586,0.4444444444444444,40-59%
+LCI007920,NNFPCSLYK,HLA-A*68:01,1,P,parasite,Plasmodium,Plasmodium falciparum,Apical membrane antigen 1,C,,1039475,601,0.5555555555555556,40-59%
+LCI007939,NPLGEADSL,HLA-A*01:01,1,P,parasite,Plasmodium,Plasmodium falciparum,Perforin-like protein 1,A,,1038983,1032,0.5555555555555556,40-59%
+LCI007940,NPLGEADSL,HLA-A*02:01,1,P,parasite,Plasmodium,Plasmodium falciparum,Perforin-like protein 1,A,,1038983,1032,0.5555555555555556,40-59%
+LCI007941,NPLGEADSL,HLA-A*03:01,1,P,parasite,Plasmodium,Plasmodium falciparum,Perforin-like protein 1,A,,1038983,1032,0.5555555555555556,40-59%
+LCI007942,NPLGEADSL,HLA-A*24:02,1,P,parasite,Plasmodium,Plasmodium falciparum,Perforin-like protein 1,A,,1038983,1032,0.5555555555555556,40-59%
+LCI007974,NQLQVQHTY,HLA-B*15:01,0,N2,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,A,high,1005821,21,0.5555555555555556,40-59%
+LCI007978,NQWKEPDVY,HLA-B*15:01,0,N2,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,A,high,1005821,21,0.5555555555555556,40-59%
+LCI007994,NSDKLDLIY,HLA-A*01:01,1,P,parasite,Plasmodium,Plasmodium falciparum,"GTP-binding protein, putative",A,,1038983,121,0.5,40-59%
+LCI007995,NSDKLDLIY,HLA-A*03:01,1,P,parasite,Plasmodium,Plasmodium falciparum,"GTP-binding protein, putative",A,,1038983,121,0.5,40-59%
+LCI007996,NSDKLDLIY,HLA-A*24:02,1,P,parasite,Plasmodium,Plasmodium falciparum,"GTP-binding protein, putative",A,,1038983,121,0.5,40-59%
+LCI007997,NSDKLDLIY,HLA-B*07:02,1,P,parasite,Plasmodium,Plasmodium falciparum,"GTP-binding protein, putative",A,,1038983,121,0.5,40-59%
+LCI008014,NSTCNFFVCK,HLA-A*11:01,0,N2,parasite,Plasmodium,Plasmodium falciparum,Apical membrane antigen 1,B,high,1030793,601,0.5,40-59%
+LCI008015,NSTCRFFVCK,HLA-A*11:01,1,P,parasite,Plasmodium,Plasmodium falciparum,Apical membrane antigen 1,B,,1028181;1030793,601,0.4,40-59%
+LCI008026,NTDFRVLELY,HLA-A*01:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,Envelope glycoprotein B,A,,1036355,186,0.5454545454545454,40-59%
+LCI008027,NTFDALYYV,HLA-A*01:01,1,P,parasite,Plasmodium,Plasmodium falciparum,Uncharacterized protein,A,,1038983,1312,0.5555555555555556,40-59%
+LCI008028,NTFDALYYV,HLA-A*02:01,1,P,parasite,Plasmodium,Plasmodium falciparum,Uncharacterized protein,A,,1038983,1312,0.5555555555555556,40-59%
+LCI008029,NTFDALYYV,HLA-A*03:01,1,P,parasite,Plasmodium,Plasmodium falciparum,Uncharacterized protein,A,,1038983,1312,0.5555555555555556,40-59%
+LCI008030,NTFDALYYV,HLA-A*24:02,1,P,parasite,Plasmodium,Plasmodium falciparum,Uncharacterized protein,A,,1038983,1312,0.5555555555555556,40-59%
+LCI008031,NTFDALYYV,HLA-B*07:02,1,P,parasite,Plasmodium,Plasmodium falciparum,Uncharacterized protein,A,,1038983,1312,0.5555555555555556,40-59%
+LCI008032,NTFDALYYV,HLA-B*44:03,1,P,parasite,Plasmodium,Plasmodium falciparum,Uncharacterized protein,A,,1038983,1312,0.5555555555555556,40-59%
+LCI008046,NTRATKMQV,HLA-A*02:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,C,,1038969,21,0.4444444444444444,40-59%
+LCI008069,NVLLYNRLL,HLA-A*02:01,0,N2,parasite,Trypanosoma,Trypanosoma cruzi,"Trans-sialidase, putative",A,high,1003942,65,0.5555555555555556,40-59%
+LCI008101,NYKQNNFPF,HLA-A*01:01,1,P,parasite,Plasmodium,Plasmodium falciparum,Uncharacterized protein,A,,1038983,1312,0.5555555555555556,40-59%
+LCI008102,NYKQNNFPF,HLA-A*02:01,1,P,parasite,Plasmodium,Plasmodium falciparum,Uncharacterized protein,A,,1038983,1312,0.5555555555555556,40-59%
+LCI008103,NYKQNNFPF,HLA-A*03:01,1,P,parasite,Plasmodium,Plasmodium falciparum,Uncharacterized protein,A,,1038983,1312,0.5555555555555556,40-59%
+LCI008104,NYKQNNFPF,HLA-A*24:02,1,P,parasite,Plasmodium,Plasmodium falciparum,Uncharacterized protein,A,,1038983,1312,0.5555555555555556,40-59%
+LCI008105,NYKQNNFPF,HLA-B*07:02,1,P,parasite,Plasmodium,Plasmodium falciparum,Uncharacterized protein,A,,1038983,1312,0.5555555555555556,40-59%
+LCI008106,NYKQNNFPF,HLA-B*44:03,1,P,parasite,Plasmodium,Plasmodium falciparum,Uncharacterized protein,A,,1038983,1312,0.5555555555555556,40-59%
+LCI008109,NYLDLSALL,HLA-A*24:02,1,P,virus,Herpesviridae,Human betaherpesvirus 5,Envelope glycoprotein H,A,,1005858,125,0.6666666666666666,60-79%
+LCI008116,NYNEQHYRY,HLA-A*29:02,1,P,virus,Herpesviridae,Human betaherpesvirus 5,Envelope glycoprotein UL4,C,,1036355,1375,0.4444444444444444,40-59%
+LCI008119,NYNPGTLSSL,HLA-A*24:02,0,N2,virus,Herpesviridae,human gammaherpesvirus 4,mRNA export factor ICP27 homolog,A,high,1005857,583,0.5,40-59%
+LCI008134,PAWSRRTLL,HLA-B*07:02,1,P,virus,Herpesviridae,Human alphaherpesvirus 2,RING-type E3 ubiquitin transferase,A,,1004920;1043931,3606,0.5555555555555556,40-59%
+LCI008154,PFMRPHERN,HLA-A*02:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,C,,1038969,21,0.4444444444444444,40-59%
+LCI008156,PFRKSASM,HLA-B*07:02,0,N2,virus,Paramyxoviridae,Mumps orthorubulavirus,Matrix protein,C,medium,1039027,677,0.5555555555555556,40-59%
+LCI008159,PGKISHIML,HLA-A*02:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,C,,1038969,21,0.5555555555555556,40-59%
+LCI008160,PGLSISGNL,HLA-A*02:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,C,,1038969,21,0.5555555555555556,40-59%
+LCI008168,PKNMIIKPG,HLA-A*02:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,C,,1038969,21,0.5555555555555556,40-59%
+LCI008178,PLKMLNIPS,HLA-A*02:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,C,,1038969,21,0.5555555555555556,40-59%
+LCI008218,PQYSEHPTF,HLA-B*15:01,0,N2,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,A,high,1005821,21,0.4444444444444444,40-59%
+LCI008221,PRVTGGGAM,HLA-B*27:05,0,N2,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,A,high,1005821,21,0.5555555555555556,40-59%
+LCI008226,PSLILVSQY,HLA-A*02:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,C,,1038969,21,0.5555555555555556,40-59%
+LCI008249,PVVSTHEQI,HLA-A*02:01,1,P,virus,Herpesviridae,Rhadinovirus humangamma8,Protein LANA1,A,,1021328;1043931,1788,0.5555555555555556,40-59%
+LCI008250,PWQAGILAR,HLA-A*02:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,C,,1038969,21,0.5555555555555556,40-59%
+LCI008258,PYLFWLAAI,HLA-A*23:01,1,P,virus,Herpesviridae,human gammaherpesvirus 4,Latent membrane protein 2,B,,1004617;1025656,840,0.5555555555555556,40-59%
+LCI008259,PYLFWLAAI,HLA-A*24:02,1,P,virus,Herpesviridae,human gammaherpesvirus 4,Latent membrane protein 2,A,,1004617;1043931;1044947,840,0.5555555555555556,40-59%
+LCI008270,QAKWRLQTL,HLA-A*03:01,1,P,virus,Herpesviridae,human gammaherpesvirus 4,Epstein-Barr nuclear antigen 3,B,,1040585,528,0.5,40-59%
+LCI008271,QAKWRLQTL,HLA-B*08:01,1,P,virus,Herpesviridae,human gammaherpesvirus 4,Epstein-Barr nuclear antigen 3,B,,1004262;1007749;1043931,528,0.5,40-59%
+LCI008276,QARLTVSGLA,HLA-A*02:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,B,,1043931,21,0.5,40-59%
+LCI008286,QDALPGPCI,HLA-A*02:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,C,,1038969,21,0.5555555555555556,40-59%
+LCI008296,QEFFWDAND,HLA-A*02:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,C,,1038969,21,0.4444444444444444,40-59%
+LCI008297,QEFFWDAND,HLA-A*24:02,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,B,,1043931,21,0.4444444444444444,40-59%
+LCI008318,QEPMSIYVY,HLA-A*02:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,C,,1038969,21,0.5555555555555556,40-59%
+LCI008353,QIFLEVQAI,HLA-A*02:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,B,,1035029;1038969,21,0.4444444444444444,40-59%
+LCI008390,QLDHGVLLV,HLA-A*02:01,0,N2,parasite,Trypanosoma,Trypanosoma cruzi,"Cysteine peptidase, putative",A,high,1003942,19,0.5555555555555556,40-59%
+LCI008421,QLLEHLVEL,HLA-A*02:01,0,N2,parasite,Trypanosoma,Trypanosoma cruzi,"69 kDa paraflagellar rod protein, putative",C,medium,1046886,347,0.6666666666666666,60-79%
+LCI008448,QLQVQHTYF,HLA-B*15:01,0,N2,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,A,high,1005821,21,0.5555555555555556,40-59%
+LCI008452,QLRSVIRAL,HLA-B*08:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,DNA polymerase processivity factor,C,,1036355,979,0.6666666666666666,60-79%
+LCI008484,QMDYSNGLFV,HLA-A*02:01,1,P,parasite,Trypanosoma,Trypanosoma cruzi,"Trans-sialidase, putative",A,,1003942,65,0.5,40-59%
+LCI008491,QMSCTDAACI,HLA-A*02:01,0,N2,parasite,Trypanosoma,Trypanosoma cruzi,"Cysteine peptidase, putative",A,high,1003942,19,0.4,40-59%
+LCI008496,QMWQARLTV,HLA-A*02:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,B,,1030459;1038969;1043931,21,0.5555555555555556,40-59%
+LCI008502,QPAPENAYQAY,HLA-B*35:08,1,P,virus,Herpesviridae,human gammaherpesvirus 4,Lytic switch protein BZLF1,A,,1011880,594,0.45454545454545453,40-59%
+LCI008511,QPIDISTEL,HLA-B*07:02,0,N2,virus,Paramyxoviridae,Mumps orthorubulavirus,Fusion glycoprotein F0,C,medium,1039027,2286,0.5,40-59%
+LCI008519,QPRLTPPQPL,HLA-B*07:02,1,P,virus,Herpesviridae,human gammaherpesvirus 4,Epstein-Barr nuclear antigen 2,A,,1030137;1043931,1848,0.6,60-79%
+LCI008558,QQYSKTFYV,HLA-A*02:01,1,P,virus,Hepeviridae (HEV),Paslahepevirus balayani,Pro-secreted protein ORF2,C,,1042621,50,0.5555555555555556,40-59%
+LCI008560,QRGPQYSEH,HLA-B*27:05,0,N2,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,A,high,1005821,21,0.4444444444444444,40-59%
+LCI008570,QRSYVSGVL,HLA-B*27:04,1,P,virus,Herpesviridae,human gammaherpesvirus 4,Replication and transcription activator,A,,1004570,735,0.6666666666666666,60-79%
+LCI008595,QSRGDENRGW,HLA-B*57:01,1,P,virus,Herpesviridae,human gammaherpesvirus 4,Epstein-Barr nuclear antigen 6,B,,1040220,642,0.4,40-59%
+LCI008615,QTMGTSTVRK,HLA-A*11:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,,C,,1048240,3844,0.4,40-59%
+LCI008632,QVFDYPIEK,HLA-A*01:01,1,P,parasite,Plasmodium,Plasmodium falciparum,Uncharacterized protein,A,,1038983,1312,0.5555555555555556,40-59%
+LCI008633,QVFDYPIEK,HLA-A*03:01,1,P,parasite,Plasmodium,Plasmodium falciparum,Uncharacterized protein,A,,1038983,1312,0.5555555555555556,40-59%
+LCI008634,QVFDYPIEK,HLA-A*24:02,1,P,parasite,Plasmodium,Plasmodium falciparum,Uncharacterized protein,A,,1038983,1312,0.5555555555555556,40-59%
+LCI008635,QVHSSLSVV,HLA-A*02:01,0,N2,parasite,Trypanosoma,Trypanosoma cruzi,"Trans-sialidase, putative",A,high,1003942,65,0.5555555555555556,40-59%
+LCI008656,QWKEPDVYY,HLA-A*02:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,C,,1038969,21,0.5555555555555556,40-59%
+LCI008667,QYHLEGWFPL,HLA-A*24:02,0,N2,virus,Herpesviridae,Human betaherpesvirus 5,UL37 immediate early glycoprotein,A,high,1005858,2965,0.5,40-59%
+LCI008674,QYILGADPL,HLA-A*24:02,0,N2,virus,Herpesviridae,Human betaherpesvirus 5,Immediate early protein IE1,A,high,1005858,754,0.5555555555555556,40-59%
+LCI008678,QYLLDHNSL,HLA-A*24:02,0,N2,virus,Herpesviridae,Human betaherpesvirus 5,Envelope protein US28,A,high,1005858,700,0.6666666666666666,60-79%
+LCI008694,RAEISRNDL,HLA-A*02:01,1,P,parasite,Plasmodium,Plasmodium falciparum,"GTP-binding protein, putative",A,,1038983,121,0.6666666666666666,60-79%
+LCI008695,RAEISRNDL,HLA-A*24:02,1,P,parasite,Plasmodium,Plasmodium falciparum,"GTP-binding protein, putative",A,,1038983,121,0.6666666666666666,60-79%
+LCI008696,RAEISRNDL,HLA-B*44:03,1,P,parasite,Plasmodium,Plasmodium falciparum,"GTP-binding protein, putative",A,,1038983,121,0.6666666666666666,60-79%
+LCI008708,RAKFKQLL,HLA-A*03:01,1,P,virus,Herpesviridae,human gammaherpesvirus 4,Lytic switch protein BZLF1,B,,1040585,594,0.5555555555555556,40-59%
+LCI008709,RAKFKQLL,HLA-B*08:01,1,P,virus,Herpesviridae,human gammaherpesvirus 4,Lytic switch protein BZLF1,A,,1007749;1023034;1025490;1027077;1027765;1030695;1032986;1033352;1043931,594,0.5555555555555556,40-59%
+LCI008711,RAKFKQLL,HLA-C*16:01,1,P,virus,Herpesviridae,human gammaherpesvirus 4,Lytic switch protein BZLF1,C,,1044947,594,0.5555555555555556,40-59%
+LCI008717,RALSLAAVL,HLA-A*02:01,0,N2,parasite,Trypanosoma,Trypanosoma cruzi,"Cysteine peptidase, putative",A,high,1003942,19,0.6666666666666666,60-79%
+LCI008746,RATIRYRPL,HLA-B*08:01,0,N2,virus,Hepeviridae (HEV),Paslahepevirus balayani,Pro-secreted protein ORF2,C,medium,1042621,50,0.5555555555555556,40-59%
+LCI008791,RENAGVALY,HLA-B*44:02,1,P,virus,Herpesviridae,Human betaherpesvirus 5,Protein UL78,C,,1036355,738,0.5555555555555556,40-59%
+LCI008792,REQAAIPQIY,HLA-B*44:02,1,P,virus,Herpesviridae,Human betaherpesvirus 5,Tegument protein US22,C,,1036355,676,0.5,40-59%
+LCI008806,RFIAQLLLL,HLA-A*02:01,1,P,virus,Herpesviridae,human gammaherpesvirus 4,Secreted protein BARF1,A,,1013203;1043931,3599,0.5555555555555556,40-59%
+LCI008829,RGDNQLQVQ,HLA-A*02:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,C,,1038969,21,0.5555555555555556,40-59%
+LCI008850,RHLPVADAV,HLA-A*02:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,C,,1038969,21,0.5555555555555556,40-59%
+LCI008853,RHVVCAHEL,HLA-A*02:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,C,,1038969,21,0.5555555555555556,40-59%
+LCI008867,RIILNGSLL,HLA-A*02:01,0,N2,parasite,Trypanosoma,Trypanosoma cruzi,"Trans-sialidase, putative",A,high,1003942,65,0.5555555555555556,40-59%
+LCI008871,RIKEHMLKK,HLA-A*03:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,Immediate early protein IE1,A,,1027578;1032069;1043931,754,0.5555555555555556,40-59%
+LCI008892,RISGWKGDNK,HLA-A*01:01,1,P,parasite,Plasmodium,Plasmodium falciparum,Uncharacterized protein,A,,1038983,1312,0.4,40-59%
+LCI008893,RISGWKGDNK,HLA-A*03:01,1,P,parasite,Plasmodium,Plasmodium falciparum,Uncharacterized protein,A,,1038983,1312,0.4,40-59%
+LCI008894,RISGWKGDNK,HLA-B*07:02,1,P,parasite,Plasmodium,Plasmodium falciparum,Uncharacterized protein,A,,1038983,1312,0.4,40-59%
+LCI008920,RLAAGSPSS,HLA-A*02:01,1,P,virus,Herpesviridae,Rhadinovirus humangamma8,Protein K8.1,A,,1021328;1043931,3968,0.6666666666666666,60-79%
+LCI008924,RLADVLIKR,HLA-A*03:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,Major DNA-binding protein,C,,1036355,666,0.6,60-79%
+LCI008936,RLDALVVAA,HLA-A*02:01,1,P,virus,Herpesviridae,Human alphaherpesvirus 1,DNA helicase/primase complex-associated protein,A,,1031894;1043931,774,0.6666666666666666,60-79%
+LCI008938,RLDDGTTQL,HLA-A*02:01,0,N2,virus,Paramyxoviridae,Mumps orthorubulavirus,RNA-directed RNA polymerase L,A,high,1036297,3470,0.6666666666666666,60-79%
+LCI008954,RLFDLPVYC,HLA-A*02:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,DNA replication helicase,C,,1036355,556,0.5555555555555556,40-59%
+LCI008977,RLGAIPPLV,HLA-A*02:01,0,N2,virus,Herpesviridae,Rhadinovirus humangamma8,Protein K12,A,high,200132,1799,0.6,60-79%
+LCI008978,RLGAVILFV,HLA-A*02:01,1,P,virus,Herpesviridae,Human alphaherpesvirus 1,Envelope glycoprotein D,A,,1007943;1043931,748,0.5555555555555556,40-59%
+LCI008987,RLHLWLSDM,HLA-A*02:01,0,N2,parasite,Trypanosoma,Trypanosoma cruzi,"Trans-sialidase, putative",A,high,1003942,65,0.5555555555555556,40-59%
+LCI009014,RLLEEIINL,HLA-A*02:01,0,N2,parasite,Trypanosoma,Trypanosoma cruzi,"Retrotransposon hot spot (RHS) protein, putative",C,medium,1046886,2378,0.5555555555555556,40-59%
+LCI009020,RLLGFADTV,HLA-A*02:01,1,P,virus,Herpesviridae,Human alphaherpesvirus 1,Tegument protein UL47,A,,1031123;1043931,1617,0.6666666666666666,60-79%
+LCI009026,RLLPSLLLLL,HLA-A*02:01,1,P,parasite,Trypanosoma,Trypanosoma cruzi,"Trans-sialidase, putative",A,,1003945;1013407,65,0.7,60-79%
+LCI009030,RLLSPTTIV,HLA-A*02:01,1,P,parasite,Trypanosoma,Trypanosoma cruzi,"Trans-sialidase, putative",A,,1003942,65,0.5555555555555556,40-59%
+LCI009040,RLMMSYFEV,HLA-A*02:01,0,N2,parasite,Trypanosoma,Trypanosoma cruzi,Nodulin-like domain-containing protein,C,medium,1046886,2751,0.5555555555555556,40-59%
+LCI009043,RLMTYLRGI,HLA-A*02:01,1,P,virus,Hepeviridae (HEV),Paslahepevirus balayani,Non-structural polyprotein pORF1,C,,1042621,50,0.5555555555555556,40-59%
+LCI009048,RLNLFCFSF,HLA-A*01:01,1,P,parasite,Plasmodium,Plasmodium falciparum,Uncharacterized protein,A,,1038983,1312,0.5555555555555556,40-59%
+LCI009049,RLNLFCFSF,HLA-A*02:01,1,P,parasite,Plasmodium,Plasmodium falciparum,Uncharacterized protein,A,,1038983,1312,0.5555555555555556,40-59%
+LCI009050,RLNLFCFSF,HLA-A*03:01,1,P,parasite,Plasmodium,Plasmodium falciparum,Uncharacterized protein,A,,1038983,1312,0.5555555555555556,40-59%
+LCI009051,RLNLFCFSF,HLA-A*24:02,1,P,parasite,Plasmodium,Plasmodium falciparum,Uncharacterized protein,A,,1038983,1312,0.5555555555555556,40-59%
+LCI009052,RLNLFCFSF,HLA-B*07:02,1,P,parasite,Plasmodium,Plasmodium falciparum,Uncharacterized protein,A,,1038983,1312,0.5555555555555556,40-59%
+LCI009053,RLNLFCFSF,HLA-B*44:03,1,P,parasite,Plasmodium,Plasmodium falciparum,Uncharacterized protein,A,,1038983,1312,0.5555555555555556,40-59%
+LCI009054,RLNNRSIYK,HLA-A*01:01,1,P,parasite,Plasmodium,Plasmodium falciparum,Perforin-like protein 1,A,,1038983,1032,0.5555555555555556,40-59%
+LCI009055,RLNNRSIYK,HLA-A*02:01,1,P,parasite,Plasmodium,Plasmodium falciparum,Perforin-like protein 1,A,,1038983,1032,0.5555555555555556,40-59%
+LCI009056,RLNNRSIYK,HLA-A*03:01,1,P,parasite,Plasmodium,Plasmodium falciparum,Perforin-like protein 1,A,,1038983,1032,0.5555555555555556,40-59%
+LCI009057,RLNNRSIYK,HLA-A*24:02,1,P,parasite,Plasmodium,Plasmodium falciparum,Perforin-like protein 1,A,,1038983,1032,0.5555555555555556,40-59%
+LCI009058,RLNNRSIYK,HLA-B*07:02,1,P,parasite,Plasmodium,Plasmodium falciparum,Perforin-like protein 1,A,,1038983,1032,0.5555555555555556,40-59%
+LCI009059,RLNNRSIYK,HLA-B*44:03,1,P,parasite,Plasmodium,Plasmodium falciparum,Perforin-like protein 1,A,,1038983,1032,0.5555555555555556,40-59%
+LCI009069,RLPRYLACL,HLA-A*02:01,1,P,virus,Herpesviridae,Human alphaherpesvirus 1,Capsid vertex component 2,A,,1031894;1043931,675,0.6666666666666666,60-79%
+LCI009074,RLQPNVPLV,HLA-A*02:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,Protein UL29/28,C,,1036355,709,0.5555555555555556,40-59%
+LCI009085,RLRAEAQVK,HLA-A*03:01,1,P,virus,Herpesviridae,human gammaherpesvirus 4,Epstein-Barr nuclear antigen 3,A,,1005919;1032908;1035029;1040585;1043931,528,0.6666666666666666,60-79%
+LCI009111,RLTEELNTI,HLA-A*02:01,0,N2,parasite,Trypanosoma,Trypanosoma cruzi,"Trans-sialidase, putative",A,high,200088,65,0.6666666666666666,60-79%
+LCI009112,RLTGYPAGI,HLA-A*02:01,1,P,virus,Herpesviridae,Human alphaherpesvirus 1,Isoform gCsec of Envelope glycoprotein C,A,,1031894;1043931,4051,0.5555555555555556,40-59%
+LCI009128,RLWRATPLG,HLA-A*02:01,0,N2,virus,Herpesviridae,Rhadinovirus humangamma8,Protein ORF28,A,high,1022035,743,0.5555555555555556,40-59%
+LCI009131,RLYKTLGQL,HLA-A*02:01,1,P,parasite,Trypanosoma,Trypanosoma cruzi,"69 kDa paraflagellar rod protein, putative",A,,1024552;1036167,347,0.5555555555555556,40-59%
+LCI009132,RLYQASAVM,HLA-A*02:01,0,N2,virus,Herpesviridae,Rhadinovirus humangamma8,,A,high,200132,4063,0.5555555555555556,40-59%
+LCI009134,RLYSWLFEK,HLA-A*03:01,0,N2,virus,Hepeviridae (HEV),Paslahepevirus balayani,Non-structural polyprotein pORF1,C,medium,1042621,50,0.5555555555555556,40-59%
+LCI009135,RLYSWLFEK,HLA-A*11:01,1,P,virus,Hepeviridae (HEV),Paslahepevirus balayani,Non-structural polyprotein pORF1,C,,1042621,50,0.5555555555555556,40-59%
+LCI009136,RMAAPSQRK,HLA-A*03:01,0,N2,virus,Hepeviridae (HEV),Paslahepevirus balayani,Non-structural polyprotein pORF1,C,medium,1042621,50,0.5555555555555556,40-59%
+LCI009138,RMATKPPVI,HLA-A*02:01,0,N2,virus,Herpesviridae,Rhadinovirus humangamma8,Protein ORF28,A,high,1022035,743,0.5555555555555556,40-59%
+LCI009196,RPASRLAAV,HLA-B*07:02,0,N2,virus,Hepeviridae (HEV),Paslahepevirus balayani,Protein ORF3,C,medium,1042621,3718,0.6,60-79%
+LCI009201,RPELAPTSWN,HLA-B*44:02,0,N2,virus,Hepeviridae (HEV),Paslahepevirus balayani,Non-structural polyprotein pORF1,C,medium,1042621,50,0.5,40-59%
+LCI009204,RPFPSTHQL,HLA-B*07:02,1,P,virus,Herpesviridae,Human betaherpesvirus 5,Uncharacterized protein US30,C,,1036355,695,0.5555555555555556,40-59%
+LCI009209,RPHERNGFTVL,HLA-A*02:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,B,,1028940;1043931,21,0.45454545454545453,40-59%
+LCI009210,RPHERNGFTVL,HLA-B*07:02,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,A,,1004592;1004612;1005821;1022891;1032069;1034399;1040693;1043931,21,0.45454545454545453,40-59%
+LCI009248,RPPIFIRRL,HLA-B*07:02,1,P,virus,Herpesviridae,human gammaherpesvirus 4,Epstein-Barr nuclear antigen 3,A,,1005919;1023034;1025490;1026773;1033352;1036895;1037276;1043931;1047322,528,0.6666666666666666,60-79%
+LCI009250,RPPIFIRRL,HLA-B*27:09,0,N2,virus,Herpesviridae,human gammaherpesvirus 4,Epstein-Barr nuclear antigen 3,A,high,1035180,528,0.6666666666666666,60-79%
+LCI009256,RPQKRPSCI,HLA-B*07:02,0,N2,virus,Herpesviridae,human gammaherpesvirus 4,Epstein-Barr nuclear antigen 1,B,high,1037571,940,0.4444444444444444,40-59%
+LCI009271,RPRQAPRPL,HLA-B*07:02,0,N2,virus,Hepeviridae (HEV),Paslahepevirus balayani,Pro-secreted protein ORF2,C,medium,1042621,50,0.5555555555555556,40-59%
+LCI009281,RPTELQPTP,HLA-B*55:01,1,P,virus,Herpesviridae,human gammaherpesvirus 4,Epstein-Barr nuclear antigen 2,A,,1030137,1848,0.5555555555555556,40-59%
+LCI009293,RPWKPGQRV,HLA-B*07:02,1,P,virus,Herpesviridae,Human betaherpesvirus 5,Tegument protein UL23,A,,1036355,4114,0.5,40-59%
+LCI009333,RQYDPVAAL,HLA-A*30:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,C,,1019108,21,0.5555555555555556,40-59%
+LCI009334,RQYDPVAAL,HLA-A*32:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,C,,1019108,21,0.5555555555555556,40-59%
+LCI009335,RQYDPVAAL,HLA-B*07:02,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,B,,1019108;1043931,21,0.5555555555555556,40-59%
+LCI009337,RQYNLSTSPL,HLA-B*15:01,0,N2,virus,Hepeviridae (HEV),Paslahepevirus balayani,Pro-secreted protein ORF2,C,medium,1042621,50,0.5,40-59%
+LCI009352,RRGTAAYPLL,HLA-B*27:05,0,N2,virus,Hepeviridae (HEV),Paslahepevirus balayani,Non-structural polyprotein pORF1,C,medium,1042621,50,0.5,40-59%
+LCI009357,RRIYDLIEL,HLA-B*27:05,1,P,virus,Herpesviridae,human gammaherpesvirus 4,Epstein-Barr nuclear antigen 6,A,,1005888;1043931,642,0.5555555555555556,40-59%
+LCI009372,RRRGFAAF,HLA-B*27:05,1,P,virus,Hepeviridae (HEV),Paslahepevirus balayani,Non-structural polyprotein pORF1,C,,1042621,50,0.5,40-59%
+LCI009373,RRRHRQDAL,HLA-B*27:05,0,N2,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,A,high,1005821,21,0.5555555555555556,40-59%
+LCI009376,RRRKGWIPL,HLA-B*27:05,1,P,virus,Herpesviridae,human gammaherpesvirus 4,Glycoprotein BILF2,B,,1043931,3057,0.5555555555555556,40-59%
+LCI009380,RRRWRRLTV,HLA-B*27:05,1,P,virus,Herpesviridae,human gammaherpesvirus 4,Latent membrane protein 2,A,,1014511;1014583;1043931,840,0.6666666666666666,60-79%
+LCI009381,RRRWRRLTV,HLA-B*27:09,1,P,virus,Herpesviridae,human gammaherpesvirus 4,Latent membrane protein 2,A,,1014511,840,0.6666666666666666,60-79%
+LCI009390,RRWLSAGF,HLA-B*27:05,0,N2,virus,Hepeviridae (HEV),Paslahepevirus balayani,Non-structural polyprotein pORF1,C,medium,1042621,50,0.4444444444444444,40-59%
+LCI009391,RRWLSAGFH,HLA-B*27:05,1,P,virus,Hepeviridae (HEV),Paslahepevirus balayani,Non-structural polyprotein pORF1,C,,1042621,50,0.4444444444444444,40-59%
+LCI009392,RRWLSAGFHL,HLA-B*27:05,1,P,virus,Hepeviridae (HEV),Paslahepevirus balayani,Non-structural polyprotein pORF1,C,,1042621,50,0.5,40-59%
+LCI009394,RRWRRLTVC,HLA-B*14:02,1,P,virus,Herpesviridae,human gammaherpesvirus 4,Latent membrane protein 2,A,,1014511,840,0.5555555555555556,40-59%
+LCI009404,RSALGPFVGK,HLA-A*03:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,Viral inhibitor of caspase-8-induced apoptosis,A,,1036355,737,0.5,40-59%
+LCI009406,RSASRTDTRK,HLA-A*11:01,0,N2,virus,Herpesviridae,Human alphaherpesvirus 3,Tegument protein VP22,A,high,1042625,621,0.5,40-59%
+LCI009421,RSKKTFLVK,HLA-A*01:01,1,P,parasite,Plasmodium,Plasmodium falciparum,Perforin-like protein 1,A,,1038983,1032,0.5555555555555556,40-59%
+LCI009422,RSKKTFLVK,HLA-A*02:01,1,P,parasite,Plasmodium,Plasmodium falciparum,Perforin-like protein 1,A,,1038983,1032,0.5555555555555556,40-59%
+LCI009423,RSKKTFLVK,HLA-A*03:01,1,P,parasite,Plasmodium,Plasmodium falciparum,Perforin-like protein 1,A,,1038983,1032,0.5555555555555556,40-59%
+LCI009424,RSKKTFLVK,HLA-A*24:02,1,P,parasite,Plasmodium,Plasmodium falciparum,Perforin-like protein 1,A,,1038983,1032,0.5555555555555556,40-59%
+LCI009425,RSKKTFLVK,HLA-B*07:02,1,P,parasite,Plasmodium,Plasmodium falciparum,Perforin-like protein 1,A,,1038983,1032,0.5555555555555556,40-59%
+LCI009469,RSVRLPYMYK,HLA-A*03:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,DNA primase,C,,1036355,770,0.5,40-59%
+LCI009483,RTAWWVWCV,HLA-A*02:01,1,P,virus,Herpesviridae,Human alphaherpesvirus 1,Envelope glycoprotein M,A,,1031894;1043931,1730,0.4444444444444444,40-59%
+LCI009484,RTDPATLTAY,HLA-A*01:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,mRNA export factor ICP27 homolog,A,,1036355,583,0.5,40-59%
+LCI009488,RTFAGTLSR,HLA-A*03:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,Protein UL79,C,,1036355,2210,0.5555555555555556,40-59%
+LCI009521,RTSEVIVKR,HLA-A*11:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,Tripartite terminase subunit 1,C,,1048240,55,0.5555555555555556,40-59%
+LCI009538,RVAKNTKKL,HLA-A*01:01,1,P,parasite,Plasmodium,Plasmodium falciparum,"GTP-binding protein, putative",A,,1038983,121,0.5555555555555556,40-59%
+LCI009539,RVAKNTKKL,HLA-A*02:01,1,P,parasite,Plasmodium,Plasmodium falciparum,"GTP-binding protein, putative",A,,1038983,121,0.5555555555555556,40-59%
+LCI009540,RVAKNTKKL,HLA-A*03:01,1,P,parasite,Plasmodium,Plasmodium falciparum,"GTP-binding protein, putative",A,,1038983,121,0.5555555555555556,40-59%
+LCI009541,RVAKNTKKL,HLA-A*24:02,1,P,parasite,Plasmodium,Plasmodium falciparum,"GTP-binding protein, putative",A,,1038983,121,0.5555555555555556,40-59%
+LCI009542,RVAKNTKKL,HLA-B*07:02,1,P,parasite,Plasmodium,Plasmodium falciparum,"GTP-binding protein, putative",A,,1038983,121,0.5555555555555556,40-59%
+LCI009543,RVAKNTKKL,HLA-B*44:03,1,P,parasite,Plasmodium,Plasmodium falciparum,"GTP-binding protein, putative",A,,1038983,121,0.5555555555555556,40-59%
+LCI009544,RVARPLLAA,HLA-A*02:01,0,N2,virus,Paramyxoviridae,Mumps orthorubulavirus,Matrix protein,A,high,1036297,677,0.6666666666666666,60-79%
+LCI009545,RVARPLLAA,HLA-B*07:02,0,N2,virus,Paramyxoviridae,Mumps orthorubulavirus,Matrix protein,C,medium,1039027,677,0.6666666666666666,60-79%
+LCI009550,RVDPNLRNR,HLA-A*03:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,Protein UL84,C,,1036355,372,0.5,40-59%
+LCI009553,RVFGLLLLGL,HLA-A*02:01,0,N2,parasite,Trypanosoma,Trypanosoma cruzi,"Trans-sialidase, putative",A,high,1003942,65,0.5,40-59%
+LCI009558,RVFTSAVLL,HLA-A*02:01,0,N2,parasite,Trypanosoma,Trypanosoma cruzi,"Trans-sialidase, putative",A,high,1003942,65,0.5555555555555556,40-59%
+LCI009577,RVKNRPIYR,HLA-A*03:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,Major DNA-binding protein,A,,1036355,666,0.4444444444444444,40-59%
+LCI009598,RVRAYTYSK,HLA-A*03:01,1,P,virus,Herpesviridae,human gammaherpesvirus 4,Replication and transcription activator,B,,1005919;1035029;1043931,735,0.5555555555555556,40-59%
+LCI009607,RVSQPSLIL,HLA-B*07:02,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,C,,1036355,21,0.6666666666666666,60-79%
+LCI009608,RVSRPTTVV,HLA-A*02:01,0,N2,parasite,Trypanosoma,Trypanosoma cruzi,"Trans-sialidase, putative",A,high,1003945;1013407,65,0.5555555555555556,40-59%
+LCI009614,RVYAYDTREK,HLA-A*03:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,Tegument protein US24,C,,1036355,1177,0.4,40-59%
+LCI009615,RVYAYDTREK,HLA-A*11:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,Tegument protein US24,C,,1048240,1177,0.4,40-59%
+LCI009635,RYAREAEVRF,HLA-A*24:02,0,N2,virus,Herpesviridae,human gammaherpesvirus 4,Epstein-Barr nuclear antigen 6,A,high,1005857,642,0.5,40-59%
+LCI009636,RYCCYYCLTL,HLA-A*24:02,1,P,virus,Herpesviridae,human gammaherpesvirus 4,Latent membrane protein 2,A,,1005857,840,0.5,40-59%
+LCI009638,RYDDESWRPL,HLA-A*24:02,0,N2,virus,Herpesviridae,Human betaherpesvirus 5,Protein IRS1,A,high,1005858,92,0.5,40-59%
+LCI009639,RYEDPDAPL,HLA-A*24:02,0,N2,virus,Herpesviridae,human gammaherpesvirus 4,Epstein-Barr nuclear antigen 6,A,high,1005857,642,0.4444444444444444,40-59%
+LCI009645,RYKSHGKGY,HLA-A*30:01,1,P,parasite,Plasmodium,Plasmodium falciparum,Apical membrane antigen 1,C,,1039475,601,0.4444444444444444,40-59%
+LCI009646,RYKSRGKGY,HLA-A*30:01,1,P,parasite,Plasmodium,Plasmodium falciparum,Apical membrane antigen 1,C,,1039475,601,0.4444444444444444,40-59%
+LCI009667,RYRPVKQACL,HLA-A*24:02,0,N2,virus,Herpesviridae,Human betaherpesvirus 5,Envelope protein US28,A,high,1005858,700,0.5,40-59%
+LCI009668,RYSESGQFHAF,HLA-A*24:02,1,P,virus,Herpesviridae,human gammaherpesvirus 4,Replication and transcription activator,C,,1044947,735,0.45454545454545453,40-59%
+LCI009670,RYSIFFDYM,HLA-A*24:02,1,P,virus,Herpesviridae,human gammaherpesvirus 4,Epstein-Barr nuclear antigen 3,A,,1005857;1028710;1043931;1044947,528,0.4444444444444444,40-59%
+LCI009673,RYTAESLRL,HLA-A*24:02,0,N2,virus,Herpesviridae,Human betaherpesvirus 5,mRNA export factor ICP27 homolog,A,high,1005858,583,0.5555555555555556,40-59%
+LCI009676,RYTRPTEPPL,HLA-A*24:02,0,N2,virus,Herpesviridae,Human betaherpesvirus 5,Protein TRS1,A,high,1005858,92,0.5,40-59%
+LCI009687,SAFGNHASTV,HLA-A*02:01,0,N2,parasite,Trypanosoma,Trypanosoma cruzi,"Surface antigen 2 (CA-2), putative",A,high,1028871,9,0.6,60-79%
+LCI009695,SAGRKRKSA,HLA-A*02:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,C,,1038969,21,0.4444444444444444,40-59%
+LCI009703,SALGPFVGK,HLA-A*11:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,Viral inhibitor of caspase-8-induced apoptosis,A,,1048240,737,0.5555555555555556,40-59%
+LCI009706,SALPTNADLY,HLA-A*01:01,1,P,virus,Herpesviridae,Human alphaherpesvirus 1,Tegument protein VP16,B,,1031048;1043931,1209,0.6,60-79%
+LCI009708,SALYRYNRF,HLA-B*08:01,1,P,virus,Hepeviridae (HEV),Paslahepevirus balayani,Non-structural polyprotein pORF1,C,,1042621,50,0.5555555555555556,40-59%
+LCI009715,SAPLPSNRV,HLA-A*02:01,0,N2,virus,Herpesviridae,Human alphaherpesvirus 3,Major viral transcription factor ICP4 homolog,B,high,1030459,3176,0.5555555555555556,40-59%
+LCI009748,SCSSCPLSK,HLA-A*11:01,1,P,virus,Herpesviridae,human gammaherpesvirus 4,Latent membrane protein 2,A,,1031919,840,0.5555555555555556,40-59%
+LCI009754,SDNEIHNPA,HLA-A*02:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,C,,1038969,21,0.5555555555555556,40-59%
+LCI009757,SDVYRPINEH,HLA-B*44:02,1,P,parasite,Plasmodium,Plasmodium falciparum,Apical membrane antigen 1,C,,1020909,601,0.5,40-59%
+LCI009771,SEFDSTQNNF,HLA-B*44:02,0,N2,virus,Hepeviridae (HEV),Paslahepevirus balayani,Non-structural polyprotein pORF1,C,medium,1042621,50,0.5,40-59%
+LCI009778,SEHPTFTSQY,HLA-A*01:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,A,,1004574,21,0.5,40-59%
+LCI009779,SEHPTFTSQY,HLA-B*44:02,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,A,,1005811,21,0.5,40-59%
+LCI009788,SELEIKRY,HLA-B*18:01,1,P,virus,Herpesviridae,human gammaherpesvirus 4,Lytic switch protein BZLF1,A,,1026375;1028883;1043931,594,0.75,60-79%
+LCI009800,SENDRLRLL,HLA-B*44:02,1,P,virus,Herpesviridae,human gammaherpesvirus 4,Lytic switch protein BZLF1,C,,1044947,594,0.5555555555555556,40-59%
+LCI009801,SENGNLQVTY,HLA-B*44:02,1,P,virus,Herpesviridae,Human betaherpesvirus 5,Early phosphoprotein p84,A,,1036355,2483,0.5,40-59%
+LCI009811,SESEFIVRY,HLA-B*44:02,1,P,virus,Herpesviridae,Human betaherpesvirus 5,Uncharacterized protein RL12,A,,1036355,4303,0.5555555555555556,40-59%
+LCI009812,SESGQFHAF,HLA-B*44:02,1,P,virus,Herpesviridae,human gammaherpesvirus 4,Replication and transcription activator,C,,1044947,735,0.5555555555555556,40-59%
+LCI009814,SESLVAKRY,HLA-B*44:02,1,P,virus,Herpesviridae,Human betaherpesvirus 5,Membrane glycoprotein US11,C,,1036355,4305,0.5555555555555556,40-59%
+LCI009824,SFDDGVDL,HLA-C*05:01,1,P,virus,Herpesviridae,human gammaherpesvirus 4,Epstein-Barr nuclear antigen 1,C,,1044947,940,0.5,40-59%
+LCI009828,SFFPKLQGNY,HLA-A*29:02,1,P,virus,Herpesviridae,Human betaherpesvirus 5,Envelope glycoprotein UL4,C,,1036355,1375,0.4,40-59%
+LCI009835,SFLFVEALF,HLA-A*23:01,1,P,parasite,Plasmodium,Plasmodium falciparum,Circumsporozoite protein,C,,1026345,222,0.5555555555555556,40-59%
+LCI009836,SFLFVEALF,HLA-A*24:02,1,P,parasite,Plasmodium,Plasmodium falciparum,Circumsporozoite protein,C,,1026345,222,0.5555555555555556,40-59%
+LCI009837,SFLFVEALF,HLA-A*29:02,1,P,parasite,Plasmodium,Plasmodium falciparum,Circumsporozoite protein,C,,1026345,222,0.5555555555555556,40-59%
+LCI009863,SGKQMWQAR,HLA-A*02:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,C,,1038969,21,0.5555555555555556,40-59%
+LCI009865,SGNLLMNGQ,HLA-A*02:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,C,,1038969,21,0.6,60-79%
+LCI009879,SIADVGKLTK,HLA-A*11:01,0,N2,virus,Herpesviridae,Human betaherpesvirus 5,Triplex capsid protein 2,C,medium,1048240,4322,0.5,40-59%
+LCI009888,SIHVTVSNV,HLA-A*02:01,0,N2,parasite,Trypanosoma,Trypanosoma cruzi,"Trans-sialidase, putative",A,high,1003942,65,0.5555555555555556,40-59%
+LCI009914,SILQNVHATL,HLA-A*02:01,0,N2,parasite,Trypanosoma,Trypanosoma cruzi,"Surface antigen 2 (CA-2), putative",A,high,1028871,9,0.6,60-79%
+LCI009940,SIYVYALPLK,HLA-A*11:01,0,N2,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,C,medium,1028977,21,0.5,40-59%
+LCI009957,SLAKFIPTI,HLA-A*02:01,1,P,virus,Hepeviridae (HEV),Paslahepevirus balayani,Non-structural polyprotein pORF1,C,,1042621,50,0.5555555555555556,40-59%
+LCI010008,SLFPSACSTK,HLA-A*03:01,0,N2,virus,Hepeviridae (HEV),Paslahepevirus balayani,Non-structural polyprotein pORF1,C,medium,1042621,50,0.6363636363636364,60-79%
+LCI010012,SLFSLLPGV,HLA-A*02:01,1,P,virus,Hantaviridae,Orthohantavirus hantanense,Envelopment polyprotein,B,,1032698,1290,0.6666666666666666,60-79%
+LCI010015,SLFWNEPAI,HLA-A*02:01,1,P,virus,Hepeviridae (HEV),Paslahepevirus balayani,Non-structural polyprotein pORF1,A,,1035754,50,0.5555555555555556,40-59%
+LCI010017,SLFYRAVAL,HLA-A*02:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,Uncharacterized protein UL147A,A,,1036355,1126,0.6666666666666666,60-79%
+LCI010018,SLFYRAVAL,HLA-B*08:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,Uncharacterized protein UL147A,A,,1036355,1126,0.6666666666666666,60-79%
+LCI010024,SLGGLLTMA,HLA-A*02:01,1,P,virus,Herpesviridae,human gammaherpesvirus 4,Latent membrane protein 2,B,,1025656;1043931,840,0.5555555555555556,40-59%
+LCI010025,SLGGLLTMV,HLA-A*02:01,1,P,virus,Herpesviridae,human gammaherpesvirus 4,Latent membrane protein 2,A,,315076,840,0.6666666666666666,60-79%
+LCI010054,SLKKNSRSL,HLA-A*02:01,1,P,parasite,Plasmodium,Plasmodium falciparum,Circumsporozoite protein,A,,315582,222,0.6666666666666666,60-79%
+LCI010057,SLKRTGHGV,HLA-A*02:01,0,N2,parasite,Trypanosoma,Trypanosoma cruzi,"Trans-sialidase, putative",A,high,1003942,65,0.5555555555555556,40-59%
+LCI010092,SLLSEFCRV,HLA-A*02:01,0,N2,virus,Herpesviridae,Human betaherpesvirus 5,Immediate early protein IE1,A,high,1004720,754,0.6666666666666666,60-79%
+LCI010155,SLREWLLRI,HLA-A*02:03,1,P,virus,Herpesviridae,human gammaherpesvirus 4,Epstein-Barr nuclear antigen leader protein,A,,1030137,4444,0.5555555555555556,40-59%
+LCI010167,SLSHYFTLV,HLA-A*02:01,1,P,parasite,Trypanosoma,Trypanosoma cruzi,,A,,1003945,65,0.5555555555555556,40-59%
+LCI010168,SLSHYFTLVF,HLA-A*02:01,1,P,parasite,Trypanosoma,Trypanosoma cruzi,,A,,1013407,65,0.5,40-59%
+LCI010190,SLSVVRPMT,HLA-A*02:01,0,N2,parasite,Trypanosoma,Trypanosoma cruzi,"Trans-sialidase, putative",A,high,1003942,65,0.5555555555555556,40-59%
+LCI010194,SLTECPTFL,HLA-A*02:01,1,P,virus,Hantaviridae,Orthohantavirus hantanense,Envelopment polyprotein,B,,1032698,1290,0.6666666666666666,60-79%
+LCI010211,SLVYVNGVV,HLA-A*02:01,0,N2,parasite,Trypanosoma,Trypanosoma cruzi,"Trans-sialidase, putative",A,high,1003942,65,0.6666666666666666,60-79%
+LCI010212,SLVYVNGVVV,HLA-A*02:01,0,N2,parasite,Trypanosoma,Trypanosoma cruzi,"Trans-sialidase, putative",A,high,1003942,65,0.6,60-79%
+LCI010216,SLYEANPEL,HLA-A*02:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,Protein UL29/28,C,,1036355,709,0.6666666666666666,60-79%
+LCI010244,SMGIFLKSL,HLA-A*02:01,0,N2,virus,Herpesviridae,Human betaherpesvirus 6B,Protein U54,B,high,1025239,2411,0.5555555555555556,40-59%
+LCI010246,SMIAPLWSV,HLA-A*02:01,0,N2,parasite,Trypanosoma,Trypanosoma cruzi,Uncharacterized protein,C,medium,1046886,4477,0.6666666666666666,60-79%
+LCI010259,SMNATLVQA,HLA-A*02:01,1,P,parasite,Trypanosoma,Trypanosoma cruzi,"Trans-sialidase, putative",A,,1003942,65,0.5555555555555556,40-59%
+LCI010268,SMTNIPMNV,HLA-A*01:01,1,P,parasite,Plasmodium,Plasmodium falciparum,Uncharacterized protein,A,,1038983,1312,0.5555555555555556,40-59%
+LCI010269,SMTNIPMNV,HLA-A*02:01,1,P,parasite,Plasmodium,Plasmodium falciparum,Uncharacterized protein,A,,1038983,1312,0.5555555555555556,40-59%
+LCI010270,SMTNIPMNV,HLA-A*03:01,1,P,parasite,Plasmodium,Plasmodium falciparum,Uncharacterized protein,A,,1038983,1312,0.5555555555555556,40-59%
+LCI010271,SMTNIPMNV,HLA-A*24:02,1,P,parasite,Plasmodium,Plasmodium falciparum,Uncharacterized protein,A,,1038983,1312,0.5555555555555556,40-59%
+LCI010272,SMTNIPMNV,HLA-B*07:02,1,P,parasite,Plasmodium,Plasmodium falciparum,Uncharacterized protein,A,,1038983,1312,0.5555555555555556,40-59%
+LCI010273,SMTNIPMNV,HLA-B*44:03,1,P,parasite,Plasmodium,Plasmodium falciparum,Uncharacterized protein,A,,1038983,1312,0.5555555555555556,40-59%
+LCI010274,SMTSPSPVT,HLA-A*02:01,0,N2,virus,Herpesviridae,Rhadinovirus humangamma8,Protein ORF28,A,high,1022035,743,0.5555555555555556,40-59%
+LCI010282,SMYRVFEVGV,HLA-A*02:01,1,P,virus,Paramyxoviridae,Measles morbillivirus,Hemagglutinin glycoprotein,B,,1038433,1033,0.5,40-59%
+LCI010309,SPFRKSASM,HLA-B*07:02,0,N2,virus,Paramyxoviridae,Mumps orthorubulavirus,Matrix protein,C,medium,1039027,677,0.5555555555555556,40-59%
+LCI010321,SPHPPTSVFL,HLA-B*07:02,1,P,virus,Herpesviridae,Human betaherpesvirus 5,Protein pp71,C,,1036355,1085,0.5,40-59%
+LCI010328,SPITAAARF,HLA-B*07:02,0,N2,virus,Paramyxoviridae,Mumps orthorubulavirus,Non-structural protein V,C,medium,1039027,572,0.6666666666666666,60-79%
+LCI010341,SPMGSPCAL,HLA-B*07:02,0,N2,virus,Hepeviridae (HEV),Paslahepevirus balayani,Protein ORF3,C,medium,1042621,3718,0.5555555555555556,40-59%
+LCI010350,SPRDAWIVL,HLA-B*07:02,1,P,virus,Herpesviridae,Human betaherpesvirus 5,Protein TRS1,A,,1036355,92,0.5555555555555556,40-59%
+LCI010353,SPRGGIEGL,HLA-B*07:02,0,N2,virus,Paramyxoviridae,Mumps orthorubulavirus,RNA-directed RNA polymerase L,C,medium,1039027,3470,0.5555555555555556,40-59%
+LCI010354,SPRHLYISL,HLA-B*07:02,1,P,virus,Herpesviridae,Human betaherpesvirus 5,Triplex capsid protein 1,A,,1036355,861,0.5555555555555556,40-59%
+LCI010374,SPSLAKTL,HLA-B*07:02,0,N2,virus,Paramyxoviridae,Mumps orthorubulavirus,Matrix protein,C,medium,1039027,677,0.5555555555555556,40-59%
+LCI010379,SPSRDRFVQL,HLA-B*07:02,1,P,virus,Herpesviridae,Human betaherpesvirus 5,Packaging protein UL32 homolog,A,,1036355;1046854,596,0.5,40-59%
+LCI010404,SQEPMSIYV,HLA-A*02:01,0,N2,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,C,medium,1038969,21,0.5555555555555556,40-59%
+LCI010437,SRGDTPVLP,HLA-A*02:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,C,,1038969,21,0.5555555555555556,40-59%
+LCI010438,SRGRRCPEM,HLA-B*27:05,0,N2,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,A,high,1005821,21,0.5555555555555556,40-59%
+LCI010454,SRVHGNGTL,HLA-B*39:01,1,P,virus,Herpesviridae,human gammaherpesvirus 4,Apoptosis regulator BHRF1,A,,1030137,1276,0.5,40-59%
+LCI010463,SSAGGQLFY,HLA-A*01:01,1,P,virus,Hepeviridae (HEV),Paslahepevirus balayani,Pro-secreted protein ORF2,A,,1042621,50,0.5555555555555556,40-59%
+LCI010464,SSAGGQVFY,HLA-A*01:01,1,P,virus,Hepeviridae (HEV),Paslahepevirus balayani,Non-structural polyprotein pORF1,A,,1042621,50,0.5555555555555556,40-59%
+LCI010478,SSCSSCPL,HLA-A*11:01,1,P,virus,Herpesviridae,human gammaherpesvirus 4,Latent membrane protein 2,B,,1031919,840,0.4444444444444444,40-59%
+LCI010479,SSCSSCPLS,HLA-A*11:01,1,P,virus,Herpesviridae,human gammaherpesvirus 4,Latent membrane protein 2,B,,1031919,840,0.5555555555555556,40-59%
+LCI010480,SSCSSCPLSK,HLA-A*11:01,1,P,virus,Herpesviridae,human gammaherpesvirus 4,Latent membrane protein 2,A,,1004702;1031919;1043931,840,0.5,40-59%
+LCI010481,SSCSSCPLSKV,HLA-A*11:01,1,P,virus,Herpesviridae,human gammaherpesvirus 4,Latent membrane protein 2,B,,1025656,840,0.45454545454545453,40-59%
+LCI010495,SSFYSQIAR,HLA-A*11:01,0,N2,virus,Herpesviridae,Human betaherpesvirus 5,Protein UL40,C,medium,1048240,607,0.5555555555555556,40-59%
+LCI010557,STDIIFLTMK,HLA-A*01:01,1,P,parasite,Plasmodium,Plasmodium falciparum,"GTP-binding protein, putative",A,,1038983,121,0.5,40-59%
+LCI010558,STDIIFLTMK,HLA-A*24:02,1,P,parasite,Plasmodium,Plasmodium falciparum,"GTP-binding protein, putative",A,,1038983,121,0.5,40-59%
+LCI010559,STDIIFLTMK,HLA-B*07:02,1,P,parasite,Plasmodium,Plasmodium falciparum,"GTP-binding protein, putative",A,,1038983,121,0.5,40-59%
+LCI010584,STHCSGPSV,HLA-A*02:01,0,N2,parasite,Trypanosoma,Trypanosoma cruzi,"Cysteine peptidase, putative",A,high,1003942,19,0.5555555555555556,40-59%
+LCI010610,STPCHRGDN,HLA-A*02:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,C,,1038969,21,0.4444444444444444,40-59%
+LCI010624,STSAGRKRK,HLA-A*02:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,C,,1038969,21,0.5555555555555556,40-59%
+LCI010627,STSRVPYDI,HLA-A*02:01,0,N2,parasite,Trypanosoma,Trypanosoma cruzi,"Trans-sialidase, putative",A,high,1003942,65,0.4444444444444444,40-59%
+LCI010634,STVAPEEDT,HLA-A*02:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,C,,1038969,21,0.4444444444444444,40-59%
+LCI010659,SVFNVVNSSI,HLA-A*02:01,1,P,parasite,Plasmodium,Plasmodium falciparum,Circumsporozoite protein,C,,1026345;1036317,222,0.5,40-59%
+LCI010661,SVFRENLFL,HLA-A*02:01,1,P,parasite,Trypanosoma,Trypanosoma cruzi,"Cysteine peptidase, putative",A,,1003942,19,0.5555555555555556,40-59%
+LCI010673,SVIDQQLTR,HLA-A*11:01,0,N2,virus,Herpesviridae,Human betaherpesvirus 5,Protein UL84,C,medium,1048240,372,0.5555555555555556,40-59%
+LCI010703,SVPLNQCNWL,HLA-A*02:01,0,N2,parasite,Trypanosoma,Trypanosoma cruzi,"Cysteine peptidase, putative",A,high,1003942,19,0.4,40-59%
+LCI010723,SVRDRLARL,HLA-A*02:03,1,P,virus,Herpesviridae,human gammaherpesvirus 4,Epstein-Barr nuclear antigen 3,B,,1005865,528,0.5555555555555556,40-59%
+LCI010724,SVRLPYMYK,HLA-A*03:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,DNA primase,C,,1036355,770,0.5555555555555556,40-59%
+LCI010729,SVSSAPLNK,HLA-A*03:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,Viral transcription factor IE2,C,,1036355,3281,0.6666666666666666,60-79%
+LCI010730,SVSSAPLNK,HLA-A*11:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,Viral transcription factor IE2,A,,1048240,3281,0.6666666666666666,60-79%
+LCI010732,SVSSFLFVEA,HLA-A*02:01,1,P,parasite,Plasmodium,Plasmodium falciparum,Circumsporozoite protein,C,,1026345;1036317,222,0.6,60-79%
+LCI010747,SVYVDAKLV,HLA-A*02:01,0,N2,parasite,Trypanosoma,Trypanosoma cruzi,"Trans-sialidase, putative",A,high,200088,65,0.4444444444444444,40-59%
+LCI010758,SYAAAQRKL,HLA-A*24:02,1,P,virus,Herpesviridae,human gammaherpesvirus 4,Latent membrane protein 2,A,,1005857,840,0.5555555555555556,40-59%
+LCI010759,SYAAAQRKLL,HLA-A*24:02,1,P,virus,Herpesviridae,human gammaherpesvirus 4,Latent membrane protein 2,A,,1005857,840,0.6,60-79%
+LCI010762,SYAYIYTTYL,HLA-A*24:02,0,N2,virus,Herpesviridae,Human betaherpesvirus 5,Envelope glycoprotein B,A,high,1005858,186,0.5,40-59%
+LCI010765,SYENKTMQL,HLA-A*24:02,0,N2,virus,Herpesviridae,Human betaherpesvirus 5,Envelope glycoprotein B,A,high,1005858,186,0.5555555555555556,40-59%
+LCI010778,SYKTLREFF,HLA-A*24:02,1,P,virus,Herpesviridae,human gammaherpesvirus 4,mRNA export factor ICP27 homolog,A,,1005857,583,0.5555555555555556,40-59%
+LCI010781,SYLKDSDFL,HLA-A*24:02,0,N2,virus,Herpesviridae,Human betaherpesvirus 5,Envelope glycoprotein H,A,high,1005858,125,0.5555555555555556,40-59%
+LCI010789,SYPIILNVEL,HLA-A*24:02,0,N2,virus,Herpesviridae,Human betaherpesvirus 5,Envelope protein US28,A,high,1005858,700,0.5,40-59%
+LCI010797,SYRSFSQQL,HLA-A*24:02,0,N2,virus,Herpesviridae,Human betaherpesvirus 5,Envelope glycoprotein H,A,high,1005858,125,0.5555555555555556,40-59%
+LCI010798,SYRSTYMIL,HLA-C*07:02,0,N2,virus,Herpesviridae,Human betaherpesvirus 5,G protein-coupled receptor homolog UL33,B,high,1032683,1795,0.5555555555555556,40-59%
+LCI010805,SYVKQPLCL,HLA-A*24:02,0,N2,virus,Herpesviridae,human gammaherpesvirus 4,mRNA export factor ICP27 homolog,A,high,1005857,583,0.5555555555555556,40-59%
+LCI010806,SYVKQPLCLL,HLA-A*24:02,0,N2,virus,Herpesviridae,human gammaherpesvirus 4,mRNA export factor ICP27 homolog,A,high,1005857,583,0.5,40-59%
+LCI010814,SYVVTNQYL,HLA-A*24:02,0,N2,virus,Herpesviridae,Human betaherpesvirus 5,Envelope glycoprotein H,A,high,1005858,125,0.6666666666666666,60-79%
+LCI010869,TEASNYAQY,HLA-B*44:02,0,N2,virus,Hepeviridae (HEV),Paslahepevirus balayani,Pro-secreted protein ORF2,C,medium,1042621,50,0.5,40-59%
+LCI010890,TEMFKLRLNL,HLA-A*01:01,1,P,parasite,Plasmodium,Plasmodium falciparum,Uncharacterized protein,A,,1038983,1312,0.5,40-59%
+LCI010891,TEMFKLRLNL,HLA-A*02:01,1,P,parasite,Plasmodium,Plasmodium falciparum,Uncharacterized protein,A,,1038983,1312,0.5,40-59%
+LCI010892,TEMFKLRLNL,HLA-A*03:01,1,P,parasite,Plasmodium,Plasmodium falciparum,Uncharacterized protein,A,,1038983,1312,0.5,40-59%
+LCI010893,TEMFKLRLNL,HLA-A*24:02,1,P,parasite,Plasmodium,Plasmodium falciparum,Uncharacterized protein,A,,1038983,1312,0.5,40-59%
+LCI010894,TEMFKLRLNL,HLA-B*07:02,1,P,parasite,Plasmodium,Plasmodium falciparum,Uncharacterized protein,A,,1038983,1312,0.5,40-59%
+LCI010895,TEMFKLRLNL,HLA-B*44:03,1,P,parasite,Plasmodium,Plasmodium falciparum,Uncharacterized protein,A,,1038983,1312,0.5,40-59%
+LCI010914,TEYFKNKNM,HLA-A*01:01,1,P,parasite,Plasmodium,Plasmodium falciparum,"GTP-binding protein, putative",A,,1038983,121,0.4444444444444444,40-59%
+LCI010915,TEYFKNKNM,HLA-A*02:01,1,P,parasite,Plasmodium,Plasmodium falciparum,"GTP-binding protein, putative",A,,1038983,121,0.4444444444444444,40-59%
+LCI010916,TEYFKNKNM,HLA-A*03:01,1,P,parasite,Plasmodium,Plasmodium falciparum,"GTP-binding protein, putative",A,,1038983,121,0.4444444444444444,40-59%
+LCI010917,TEYFKNKNM,HLA-B*44:03,1,P,parasite,Plasmodium,Plasmodium falciparum,"GTP-binding protein, putative",A,,1038983,121,0.4444444444444444,40-59%
+LCI010934,TFTSQYRIQ,HLA-A*02:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,C,,1038969,21,0.4444444444444444,40-59%
+LCI010952,TILDKILNV,HLA-A*02:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,Major capsid protein,C,,1036355,1129,0.5555555555555556,40-59%
+LCI011001,TLDEMRHFYK,HLA-A*01:01,1,P,parasite,Plasmodium,Plasmodium falciparum,Apical membrane antigen 1,C,,1020909,601,0.5,40-59%
+LCI011012,TLDYKPLSV,HLA-A*02:01,1,P,virus,Herpesviridae,human gammaherpesvirus 4,DNA polymerase processivity factor BMRF1,A,,1027077;1043931,398,0.6,60-79%
+LCI011014,TLEEFSAKL,HLA-A*02:01,1,P,parasite,Trypanosoma,Trypanosoma cruzi,"Kinetoplastid membrane protein KMP-11, putative",A,,1005820;1020924;1022388;1030070;1036167,4720,0.6666666666666666,60-79%
+LCI011021,TLFIGSHVV,HLA-A*02:01,1,P,virus,Herpesviridae,human gammaherpesvirus 4,Envelope glycoprotein H,B,,1005919;1043931,125,0.5555555555555556,40-59%
+LCI011046,TLINGVWVV,HLA-A*02:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,Protein US16,C,,1036355,1244,0.5555555555555556,40-59%
+LCI011048,TLIVNLVEV,HLA-A*02:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,Envelope glycoprotein M,A,,1036355;1043931,1730,0.6,60-79%
+LCI011075,TLLTIDGGI,HLA-A*02:01,1,P,parasite,Trypanosoma,Trypanosoma cruzi,"Heat shock protein 70 (HSP70), putative",A,,1022503,633,0.5555555555555556,40-59%
+LCI011076,TLLVDLLWL,HLA-A*02:01,1,P,virus,Herpesviridae,human gammaherpesvirus 4,Latent membrane protein 1,B,,1004292;1043931,483,0.6666666666666666,60-79%
+LCI011086,TLMSFSIFV,HLA-A*02:01,1,P,parasite,Trypanosoma,Trypanosoma cruzi,,C,,1046886,4744,0.5555555555555556,40-59%
+LCI011113,TLQPVERVL,HLA-A*02:01,1,P,parasite,Trypanosoma,Trypanosoma cruzi,"Heat shock protein 70 (HSP70), putative",A,,1022503,633,0.6666666666666666,60-79%
+LCI011120,TLRKPKHKKL,HLA-A*02:01,1,P,parasite,Plasmodium,Plasmodium falciparum,Circumsporozoite protein,A,,315582,222,0.6,60-79%
+LCI011137,TLTSYWRRV,HLA-A*02:01,1,P,virus,Herpesviridae,human gammaherpesvirus 4,Secreted protein BARF1,A,,1013203;1043931,3599,0.5555555555555556,40-59%
+LCI011159,TMANQNMNY,HLA-A*01:01,1,P,parasite,Plasmodium,Plasmodium falciparum,Uncharacterized protein,A,,1038983,1312,0.4444444444444444,40-59%
+LCI011160,TMANQNMNY,HLA-A*03:01,1,P,parasite,Plasmodium,Plasmodium falciparum,Uncharacterized protein,A,,1038983,1312,0.4444444444444444,40-59%
+LCI011161,TMANQNMNY,HLA-A*24:02,1,P,parasite,Plasmodium,Plasmodium falciparum,Uncharacterized protein,A,,1038983,1312,0.4444444444444444,40-59%
+LCI011162,TMANQNMNY,HLA-B*07:02,1,P,parasite,Plasmodium,Plasmodium falciparum,Uncharacterized protein,A,,1038983,1312,0.4444444444444444,40-59%
+LCI011163,TMANQNMNY,HLA-B*44:03,1,P,parasite,Plasmodium,Plasmodium falciparum,Uncharacterized protein,A,,1038983,1312,0.4444444444444444,40-59%
+LCI011164,TMANQNMNYK,HLA-A*01:01,1,P,parasite,Plasmodium,Plasmodium falciparum,Uncharacterized protein,A,,1038983,1312,0.4,40-59%
+LCI011165,TMANQNMNYK,HLA-A*03:01,1,P,parasite,Plasmodium,Plasmodium falciparum,Uncharacterized protein,A,,1038983,1312,0.4,40-59%
+LCI011166,TMANQNMNYK,HLA-A*24:02,1,P,parasite,Plasmodium,Plasmodium falciparum,Uncharacterized protein,A,,1038983,1312,0.4,40-59%
+LCI011167,TMANQNMNYK,HLA-B*07:02,1,P,parasite,Plasmodium,Plasmodium falciparum,Uncharacterized protein,A,,1038983,1312,0.4,40-59%
+LCI011168,TMANQNMNYK,HLA-B*44:03,1,P,parasite,Plasmodium,Plasmodium falciparum,Uncharacterized protein,A,,1038983,1312,0.4,40-59%
+LCI011199,TMYGGISLL,HLA-B*42:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,Immediate early protein IE1,B,,1032669,754,0.5555555555555556,40-59%
+LCI011201,TMYYKDVTV,HLA-A*02:01,1,P,virus,Herpesviridae,Human alphaherpesvirus 1,Envelope glycoprotein B,A,,1026941;1043931,186,0.4444444444444444,40-59%
+LCI011205,TNTPYTGALGL,HLA-B*35:01,1,P,virus,Hepeviridae (HEV),Paslahepevirus balayani,Pro-secreted protein ORF2,C,,1031168,50,0.45454545454545453,40-59%
+LCI011217,TPCHRGDNQ,HLA-A*02:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,C,,1038969,21,0.4444444444444444,40-59%
+LCI011261,TPLLKRLPL,HLA-B*08:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,Protein UL84,A,,1036355,372,0.5555555555555556,40-59%
+LCI011291,TPRVTGGGA,HLA-A*02:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,B,,1035029;1038969,21,0.5555555555555556,40-59%
+LCI011295,TPRVTGGGAMA,HLA-B*55:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,A,,1005811,21,0.45454545454545453,40-59%
+LCI011305,TPSVSSSISSL,HLA-B*07:02,1,P,virus,Herpesviridae,human gammaherpesvirus 4,Small capsomere-interacting protein,A,,1027077;1043931,1586,0.5454545454545454,40-59%
+LCI011322,TQKCEIFNV,HLA-A*02:01,1,P,parasite,Plasmodium,Plasmodium falciparum,Apical membrane antigen 1,C,,1020909,601,0.5,40-59%
+LCI011334,TRATKMQVI,HLA-C*06:02,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,B,,1043931,21,0.4444444444444444,40-59%
+LCI011341,TRLLQTGIH,HLA-B*27:05,0,N2,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,A,high,1005821,21,0.5555555555555556,40-59%
+LCI011347,TRNPQPFMR,HLA-B*27:05,0,N2,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,A,high,1005821,21,0.4444444444444444,40-59%
+LCI011360,TSAFVFPTK,HLA-A*68:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,B,,1043931,21,0.5555555555555556,40-59%
+LCI011361,TSAGRKRKS,HLA-A*02:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,C,,1038969,21,0.5555555555555556,40-59%
+LCI011364,TSDACMMTMY,HLA-A*01:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,Immediate early protein IE1,A,,1027578;1043931,754,0.4,40-59%
+LCI011369,TSETHFGNY,HLA-A*01:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,Major capsid protein,C,,1036355,1129,0.5555555555555556,40-59%
+LCI011392,TSQYRIQGK,HLA-A*01:01,0,N2,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,A,high,1004574,21,0.4444444444444444,40-59%
+LCI011409,TTAATRFMK,HLA-A*11:01,0,N2,virus,Hepeviridae (HEV),Paslahepevirus balayani,Pro-secreted protein ORF2,C,medium,1042621,50,0.5555555555555556,40-59%
+LCI011420,TTERKTPRV,HLA-A*02:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,C,,1038969,21,0.5555555555555556,40-59%
+LCI011421,TTFLQTMLR,HLA-A*68:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,Immediate early protein IE1,A,,1027578;1043931,754,0.5555555555555556,40-59%
+LCI011422,TTFLQTMLRK,HLA-A*11:01,0,N2,virus,Herpesviridae,Human betaherpesvirus 5,Immediate early protein IE1,C,medium,1028977,754,0.5,40-59%
+LCI011447,TTTAATRFMK,HLA-A*11:01,1,P,virus,Hepeviridae (HEV),Paslahepevirus balayani,Pro-secreted protein ORF2,C,,1042621,50,0.5,40-59%
+LCI011461,TVCGGIMFL,HLA-A*02:01,1,P,virus,Herpesviridae,human gammaherpesvirus 4,Latent membrane protein 2,A,,1014511;1043931,840,0.5555555555555556,40-59%
+LCI011462,TVCGGIMFL,HLA-A*02:17,1,P,virus,Herpesviridae,human gammaherpesvirus 4,Latent membrane protein 2,A,,1014511,840,0.5555555555555556,40-59%
+LCI011465,TVFDASRSTV,HLA-A*02:01,1,P,parasite,Trypanosoma,Trypanosoma cruzi,"Surface antigen 2 (CA-2), putative",A,,1028871;1036167,9,0.6,60-79%
+LCI011482,TVLCPKNMI,HLA-A*02:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,C,,1038969,21,0.4444444444444444,40-59%
+LCI011506,TVQGQNLKY,HLA-B*15:01,0,N2,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,A,high,1005821,21,0.6666666666666666,60-79%
+LCI011514,TVSGLAWTR,HLA-A*02:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,B,,1038969,21,0.5555555555555556,40-59%
+LCI011534,TYALVSKDL,HLA-A*24:02,0,N2,virus,Herpesviridae,Human betaherpesvirus 5,Envelope glycoprotein H,A,high,1005858,125,0.5555555555555556,40-59%
+LCI011535,TYAQMVKKL,HLA-A*24:02,0,N2,virus,Herpesviridae,Human betaherpesvirus 5,Large tegument protein deneddylase,A,high,1005858,494,0.4444444444444444,40-59%
+LCI011545,TYGPVFMCL,HLA-A*24:02,1,P,virus,Herpesviridae,human gammaherpesvirus 4,Latent membrane protein 2,A,,1004304;1004702;1005857;1028281;1043931;1044947;315196,840,0.5555555555555556,40-59%
+LCI011546,TYGPVFMSL,HLA-A*24:02,1,P,virus,Herpesviridae,human gammaherpesvirus 4,Latent membrane protein 2,B,,1025656,840,0.5555555555555556,40-59%
+LCI011547,TYGRPIRFL,HLA-A*24:02,0,N2,virus,Herpesviridae,Human betaherpesvirus 5,Envelope glycoprotein H,A,high,1005858,125,0.5555555555555556,40-59%
+LCI011560,TYNCTYNRL,HLA-A*24:02,0,N2,virus,Herpesviridae,Human betaherpesvirus 5,Envelope glycoprotein UL4,A,high,1005858,1375,0.5555555555555556,40-59%
+LCI011568,TYNKEWPLL,HLA-A*24:02,0,N2,virus,Herpesviridae,Human betaherpesvirus 5,Tripartite terminase subunit 1,A,high,1005858,55,0.5,40-59%
+LCI011569,TYNKEWPLLL,HLA-A*24:02,0,N2,virus,Herpesviridae,Human betaherpesvirus 5,Tripartite terminase subunit 1,A,high,1005858,55,0.5,40-59%
+LCI011570,TYNRLTLLNL,HLA-A*24:02,0,N2,virus,Herpesviridae,Human betaherpesvirus 5,Envelope glycoprotein UL4,A,high,1005858,1375,0.5,40-59%
+LCI011572,TYPLREVATL,HLA-A*24:02,0,N2,virus,Herpesviridae,human gammaherpesvirus 4,Major DNA-binding protein,A,high,1005857,666,0.6,60-79%
+LCI011574,TYPVLEEMF,HLA-A*24:02,1,P,virus,Herpesviridae,human gammaherpesvirus 4,Replication and transcription activator,A,,1005857;1043931;1045433,735,0.5555555555555556,40-59%
+LCI011578,TYRCGAVSDL,HLA-A*24:02,0,N2,virus,Herpesviridae,Human betaherpesvirus 5,mRNA export factor ICP27 homolog,A,high,1005858,583,0.5,40-59%
+LCI011579,TYSAGIVQI,HLA-A*24:02,1,P,virus,Herpesviridae,human gammaherpesvirus 4,Epstein-Barr nuclear antigen 4,A,,1004304;1005857;1043931,527,0.5,40-59%
+LCI011582,TYSTLDRAL,HLA-A*24:02,0,N2,virus,Herpesviridae,Human betaherpesvirus 5,Large tegument protein deneddylase,A,high,1005858,494,0.5555555555555556,40-59%
+LCI011585,TYVLVTVNSL,HLA-A*24:02,0,N2,virus,Herpesviridae,Human betaherpesvirus 5,Large tegument protein deneddylase,A,high,1005858,494,0.5,40-59%
+LCI011587,TYWQLNQNL,HLA-A*24:02,0,N2,virus,Herpesviridae,human gammaherpesvirus 4,Major DNA-binding protein,A,high,1005857,666,0.5555555555555556,40-59%
+LCI011588,TYWQLNQNLL,HLA-A*24:02,0,N2,virus,Herpesviridae,human gammaherpesvirus 4,Major DNA-binding protein,A,high,1005857,666,0.5,40-59%
+LCI011595,VAALFFFDI,HLA-A*24:02,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,B,,1019108;1043931,21,0.5555555555555556,40-59%
+LCI011596,VAALFFFDI,HLA-B*51:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,C,,1019108,21,0.5555555555555556,40-59%
+LCI011597,VAALFFFDI,HLA-B*53:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,C,,1019108,21,0.5555555555555556,40-59%
+LCI011599,VAALFFFDI,HLA-B*58:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,C,,1019108,21,0.5555555555555556,40-59%
+LCI011622,VALRHVVCA,HLA-A*02:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,C,,1038969,21,0.6666666666666666,60-79%
+LCI011651,VAVNGPVAV,HLA-A*02:01,0,N2,parasite,Trypanosoma,Trypanosoma cruzi,"Cysteine peptidase, putative",A,high,1003942,19,0.6666666666666666,60-79%
+LCI011668,VEEDLTMTR,HLA-A*02:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,C,,1038969,21,0.4444444444444444,40-59%
+LCI011678,VELRQYDPV,HLA-A*02:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,C,,1038969,21,0.4444444444444444,40-59%
+LCI011701,VFGQQAYFY,HLA-A*29:02,1,P,virus,Herpesviridae,human gammaherpesvirus 4,DNA polymerase catalytic subunit,C,,1044947,2279,0.5555555555555556,40-59%
+LCI011709,VFNVVNSSI,HLA-A*23:01,1,P,parasite,Plasmodium,Plasmodium falciparum,Circumsporozoite protein,C,,1026345,222,0.5555555555555556,40-59%
+LCI011711,VFPTKDVAL,HLA-B*35:03,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,B,,1025924,21,0.4444444444444444,40-59%
+LCI011744,VIGQCIYTI,HLA-A*02:01,1,P,virus,Hantaviridae,Orthohantavirus hantanense,Envelopment polyprotein,B,,1032698,1290,0.5555555555555556,40-59%
+LCI011745,VIGQCIYTI,HLA-A*11:01,1,P,virus,Hantaviridae,Orthohantavirus hantanense,Envelopment polyprotein,C,,1048808,1290,0.5555555555555556,40-59%
+LCI011747,VIHYGINPV,HLA-A*01:01,1,P,parasite,Plasmodium,Plasmodium falciparum,Uncharacterized protein,A,,1038983,1312,0.5555555555555556,40-59%
+LCI011748,VIHYGINPV,HLA-A*02:01,1,P,parasite,Plasmodium,Plasmodium falciparum,Uncharacterized protein,A,,1038983,1312,0.5555555555555556,40-59%
+LCI011749,VIHYGINPV,HLA-A*03:01,1,P,parasite,Plasmodium,Plasmodium falciparum,Uncharacterized protein,A,,1038983,1312,0.5555555555555556,40-59%
+LCI011750,VIHYGINPV,HLA-A*24:02,1,P,parasite,Plasmodium,Plasmodium falciparum,Uncharacterized protein,A,,1038983,1312,0.5555555555555556,40-59%
+LCI011751,VIHYGINPV,HLA-B*07:02,1,P,parasite,Plasmodium,Plasmodium falciparum,Uncharacterized protein,A,,1038983,1312,0.5555555555555556,40-59%
+LCI011752,VIHYGINPV,HLA-B*44:03,1,P,parasite,Plasmodium,Plasmodium falciparum,Uncharacterized protein,A,,1038983,1312,0.5555555555555556,40-59%
+LCI011785,VLAELVRQI,HLA-A*02:01,0,N2,virus,Herpesviridae,Human betaherpesvirus 5,Immediate early protein IE1,A,high,1004720,754,0.5555555555555556,40-59%
+LCI011789,VLAKDGTEV,HLA-A*02:01,1,P,parasite,Trypanosoma,Trypanosoma cruzi,"Trans-sialidase, putative",A,,200088,65,0.5555555555555556,40-59%
+LCI011799,VLCPKNMII,HLA-A*02:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,C,,1038969,21,0.4444444444444444,40-59%
+LCI011822,VLEETSVML,HLA-A*02:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,Immediate early protein IE1,A,,1004549;1004720;1005923;1007165;1025490;1025846;1026280;1027578;1030459;1032069;1035476;1043931,754,0.5555555555555556,40-59%
+LCI011833,VLFLLVIGA,HLA-A*02:01,0,N2,virus,Herpesviridae,Rhadinovirus humangamma8,Protein ORF28,A,high,1022035,743,0.6666666666666666,60-79%
+LCI011837,VLFTTSAHV,HLA-A*02:01,0,N2,parasite,Trypanosoma,Trypanosoma cruzi,Uncharacterized protein,C,medium,1046886,4946,0.6666666666666666,60-79%
+LCI011838,VLGDEVLSL,HLA-A*02:01,0,N2,virus,Herpesviridae,Rhadinovirus humangamma8,Major DNA-binding protein,A,high,1022035,666,0.6666666666666666,60-79%
+LCI011843,VLGPISGHV,HLA-A*02:06,0,N2,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,B,high,1004548,21,0.5555555555555556,40-59%
+LCI011844,VLGPISGHV,HLA-A*02:07,0,N2,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,B,high,1004548,21,0.5555555555555556,40-59%
+LCI011856,VLIEGKCFV,HLA-A*02:01,1,P,virus,Hantaviridae,Orthohantavirus hantanense,Envelopment polyprotein,B,,1032698,1290,0.6666666666666666,60-79%
+LCI011885,VLLLVVVMM,HLA-A*02:01,0,N2,parasite,Trypanosoma,Trypanosoma cruzi,"Trans-sialidase, putative",A,high,1003942,65,0.5555555555555556,40-59%
+LCI011889,VLLPSLFLLL,HLA-A*02:01,1,P,parasite,Trypanosoma,Trypanosoma cruzi,"Trans-sialidase, putative",A,,200088,65,0.7,60-79%
+LCI011937,VLQELLYLV,HLA-A*02:01,0,N2,parasite,Trypanosoma,Trypanosoma cruzi,Uncharacterized protein,C,medium,1046886,4981,0.6666666666666666,60-79%
+LCI011976,VLVVMACLV,HLA-A*02:01,0,N2,parasite,Trypanosoma,Trypanosoma cruzi,"Cysteine peptidase, putative",A,high,1003942,19,0.5555555555555556,40-59%
+LCI011982,VLYAAPLNPL,HLA-A*02:01,1,P,virus,Hepeviridae (HEV),Paslahepevirus balayani,Pro-secreted protein ORF2,C,,1042621,50,0.6,60-79%
+LCI011996,VMACLVPAA,HLA-A*02:01,1,P,parasite,Trypanosoma,Trypanosoma cruzi,"Cysteine peptidase, putative",A,,1003942,19,0.5555555555555556,40-59%
+LCI011999,VMASLVWPV,HLA-A*02:01,1,P,virus,Hantaviridae,Orthohantavirus hantanense,Envelopment polyprotein,B,,1032698;1048808,1290,0.5555555555555556,40-59%
+LCI012011,VMKFKETSF,HLA-B*08:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,Viral inhibitor of caspase-8-induced apoptosis,C,,1036355,737,0.4444444444444444,40-59%
+LCI012021,VMMPLIFLI,HLA-A*02:01,1,P,parasite,Trypanosoma,Trypanosoma cruzi,Nodulin-like domain-containing protein,C,,1046886,2751,0.5555555555555556,40-59%
+LCI012022,VMMSCSSEA,HLA-A*02:01,1,P,parasite,Trypanosoma,Trypanosoma cruzi,"Trans-sialidase, putative",A,,1003942,65,0.5,40-59%
+LCI012040,VPAAVYTTV,HLA-B*51:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,G protein-coupled receptor homolog UL33,C,,1036355,1795,0.6666666666666666,60-79%
+LCI012054,VPGWSRRTL,HLA-B*07:02,1,P,virus,Herpesviridae,Human alphaherpesvirus 1,E3 ubiquitin-protein ligase ICP0,B,,1043931,3606,0.5555555555555556,40-59%
+LCI012056,VPILLKALY,HLA-A*02:01,1,P,virus,Hantaviridae,Orthohantavirus hantanense,Nucleoprotein,A,,1025613,91,0.6666666666666666,60-79%
+LCI012092,VPRPDDPVL,HLA-B*07:02,1,P,virus,Herpesviridae,Human alphaherpesvirus 1,Tegument protein UL21,B,,1043931,833,0.5555555555555556,40-59%
+LCI012111,VQGQNLKYQ,HLA-A*02:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,C,,1038969,21,0.5555555555555556,40-59%
+LCI012123,VQPPQLTQV,HLA-B*46:01,1,P,virus,Herpesviridae,human gammaherpesvirus 4,Epstein-Barr nuclear antigen 3,B,,1004702,528,0.5555555555555556,40-59%
+LCI012153,VSFIEFVGW,HLA-B*44:02,1,P,virus,Herpesviridae,human gammaherpesvirus 4,Epstein-Barr nuclear antigen 4,C,,1044947,527,0.4444444444444444,40-59%
+LCI012154,VSFIEFVGW,HLA-B*57:01,1,P,virus,Herpesviridae,human gammaherpesvirus 4,Epstein-Barr nuclear antigen 4,B,,1025490;1040220;1043931,527,0.4444444444444444,40-59%
+LCI012155,VSFIEFVGW,HLA-B*58:01,1,P,virus,Herpesviridae,human gammaherpesvirus 4,Epstein-Barr nuclear antigen 4,B,,1004702,527,0.4444444444444444,40-59%
+LCI012178,VSTAPTGSWF,HLA-B*58:01,1,P,virus,Herpesviridae,human gammaherpesvirus 4,Lytic switch protein BZLF1,A,,1027077,594,0.5,40-59%
+LCI012185,VTCGNGIQVR,HLA-A*03:01,1,P,parasite,Plasmodium,Plasmodium falciparum,Circumsporozoite protein,B,,1014775,222,0.5,40-59%
+LCI012187,VTDPEHLMM,HLA-A*01:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,DNA replication helicase,C,,1036355,556,0.5,40-59%
+LCI012189,VTDSNLIY,HLA-A*01:01,1,P,virus,Paramyxoviridae,Mumps orthorubulavirus,RNA-directed RNA polymerase L,C,,1039027,3470,0.5,40-59%
+LCI012191,VTDYGNVAFKY,HLA-A*01:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,Large tegument protein deneddylase,C,,1036355,494,0.45454545454545453,40-59%
+LCI012193,VTEHDTLLY,HLA-A*01:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,DNA polymerase processivity factor,A,,1005821;1012357;1025443;1030695;1031641;1031916;1036355;1037941;1042920;1043931;1048084,979,0.5,40-59%
+LCI012217,VTLLAGVVSK,HLA-A*11:01,0,N2,virus,Herpesviridae,Human betaherpesvirus 5,,C,medium,1048240,5059,0.6,60-79%
+LCI012218,VTLPTGQCL,HLA-A*02:01,1,P,parasite,Trypanosoma,Trypanosoma cruzi,"Cysteine peptidase, putative",A,,1003942,19,0.5555555555555556,40-59%
+LCI012219,VTLSGSPPR,HLA-A*11:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,,C,,1048240,5060,0.5555555555555556,40-59%
+LCI012237,VTTTTYLVK,HLA-A*11:01,0,N2,virus,Herpesviridae,Human betaherpesvirus 5,Protein UL148D,C,medium,1048240,5064,0.5555555555555556,40-59%
+LCI012241,VTVPVSVEK,HLA-A*11:01,0,N2,virus,Herpesviridae,Human betaherpesvirus 5,Major DNA-binding protein,C,medium,1048240,666,0.5555555555555556,40-59%
+LCI012267,VVFDPQFTR,HLA-A*11:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,Alkaline nuclease,C,,1048240,587,0.5555555555555556,40-59%
+LCI012315,VVMACLVPAA,HLA-A*02:01,1,P,parasite,Trypanosoma,Trypanosoma cruzi,"Cysteine peptidase, putative",A,,1003942,19,0.5454545454545454,40-59%
+LCI012371,VYAASFSPNL,HLA-A*24:02,0,N2,virus,Herpesviridae,human gammaherpesvirus 4,Major DNA-binding protein,A,high,1005857,666,0.5,40-59%
+LCI012377,VYDLANNTL,HLA-A*24:02,0,N2,virus,Herpesviridae,Human betaherpesvirus 5,Protein IRS1,A,high,1005858,92,0.5555555555555556,40-59%
+LCI012381,VYDSMLQSDL,HLA-A*24:02,0,N2,virus,Herpesviridae,human gammaherpesvirus 4,Epstein-Barr nuclear antigen 4,A,high,1005857,527,0.5,40-59%
+LCI012391,VYHQLCRAL,HLA-A*24:02,0,N2,virus,Herpesviridae,Human betaherpesvirus 5,Tripartite terminase subunit 1,A,high,1005858,55,0.5555555555555556,40-59%
+LCI012396,VYLFSLVVL,HLA-A*24:02,0,N2,virus,Herpesviridae,Human betaherpesvirus 5,Membrane glycoprotein US3,A,high,1005858,2964,0.5555555555555556,40-59%
+LCI012402,VYNAPNLHTL,HLA-A*24:02,0,N2,virus,Herpesviridae,Human betaherpesvirus 5,mRNA export factor ICP27 homolog,A,high,1005858,583,0.5,40-59%
+LCI012418,VYTPSPYVF,HLA-A*24:02,1,P,virus,Herpesviridae,Human alphaherpesvirus 1,Tegument protein UL21,B,,1043931,833,0.5555555555555556,40-59%
+LCI012425,WADEYLCVNA,HLA-A*02:01,0,N2,parasite,Trypanosoma,Trypanosoma cruzi,"Trans-sialidase, putative",A,high,1003942,65,0.4,40-59%
+LCI012427,WAFSAIGNV,HLA-A*02:01,0,N2,parasite,Trypanosoma,Trypanosoma cruzi,"Cysteine peptidase, putative",A,high,1003942,19,0.5555555555555556,40-59%
+LCI012454,WIIKNSWTA,HLA-A*02:01,1,P,parasite,Trypanosoma,Trypanosoma cruzi,"Cysteine peptidase, putative",A,,1003942,19,0.45454545454545453,40-59%
+LCI012462,WIVQENNGA,HLA-A*02:01,0,N2,parasite,Trypanosoma,Trypanosoma cruzi,"Cysteine peptidase, putative",A,high,1003942,19,0.5555555555555556,40-59%
+LCI012501,WLNNDIYNV,HLA-A*01:01,1,P,parasite,Plasmodium,Plasmodium falciparum,"GTP-binding protein, putative",A,,1038983,121,0.5555555555555556,40-59%
+LCI012502,WLNNDIYNV,HLA-A*02:01,1,P,parasite,Plasmodium,Plasmodium falciparum,"GTP-binding protein, putative",A,,1038983,121,0.5555555555555556,40-59%
+LCI012503,WLNNDIYNV,HLA-A*03:01,1,P,parasite,Plasmodium,Plasmodium falciparum,"GTP-binding protein, putative",A,,1038983,121,0.5555555555555556,40-59%
+LCI012504,WLNNDIYNV,HLA-A*24:02,1,P,parasite,Plasmodium,Plasmodium falciparum,"GTP-binding protein, putative",A,,1038983,121,0.5555555555555556,40-59%
+LCI012505,WLNNDIYNV,HLA-B*07:02,1,P,parasite,Plasmodium,Plasmodium falciparum,"GTP-binding protein, putative",A,,1038983,121,0.5555555555555556,40-59%
+LCI012506,WLNNDIYNV,HLA-B*44:03,1,P,parasite,Plasmodium,Plasmodium falciparum,"GTP-binding protein, putative",A,,1038983,121,0.5555555555555556,40-59%
+LCI012514,WLSDCGEAL,HLA-A*02:01,1,P,parasite,Trypanosoma,Trypanosoma cruzi,"Trans-sialidase, putative",A,,1003942,65,0.5555555555555556,40-59%
+LCI012535,WMTYTGGVM,HLA-A*02:01,0,N2,parasite,Trypanosoma,Trypanosoma cruzi,"Cysteine peptidase, putative",A,high,1003942,19,0.5555555555555556,40-59%
+LCI012536,WMTYTGGVMT,HLA-A*02:01,0,N2,parasite,Trypanosoma,Trypanosoma cruzi,"Cysteine peptidase, putative",A,high,1003942,19,0.5,40-59%
+LCI012538,WPADVAEAM,HLA-B*35:01,1,P,virus,Hepeviridae (HEV),Paslahepevirus balayani,Non-structural polyprotein pORF1,C,,1042621,50,0.5555555555555556,40-59%
+LCI012556,WQPAAQPKR,HLA-A*02:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,C,,1038969,21,0.5555555555555556,40-59%
+LCI012601,WVFPESISPV,HLA-A*02:01,1,P,parasite,Trypanosoma,Trypanosoma cruzi,"Trans-sialidase, putative",A,,200088,65,0.5,40-59%
+LCI012615,WYKYTESDF,HLA-A*02:01,1,P,parasite,Plasmodium,Plasmodium falciparum,"GTP-binding protein, putative",A,,1038983,121,0.4444444444444444,40-59%
+LCI012616,WYKYTESDF,HLA-A*24:02,1,P,parasite,Plasmodium,Plasmodium falciparum,"GTP-binding protein, putative",A,,1038983,121,0.4444444444444444,40-59%
+LCI012617,WYKYTESDF,HLA-B*44:03,1,P,parasite,Plasmodium,Plasmodium falciparum,"GTP-binding protein, putative",A,,1038983,121,0.4444444444444444,40-59%
+LCI012626,YADPFFLKY,HLA-A*01:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,DNA replication helicase,A,,1036355,556,0.5,40-59%
+LCI012633,YALPLKMLN,HLA-A*02:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,C,,1038969,21,0.5555555555555556,40-59%
+LCI012657,YATVEVPSL,HLA-A*02:01,0,N2,parasite,Trypanosoma,Trypanosoma cruzi,"Trans-sialidase, putative",A,high,1003942,65,0.5555555555555556,40-59%
+LCI012665,YCCIRVFLA,HLA-A*02:01,0,N2,virus,Herpesviridae,Rhadinovirus humangamma8,Protein ORF28,A,high,1022035,743,0.4444444444444444,40-59%
+LCI012669,YDPVAALFF,HLA-A*24:02,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,C,,1019108,21,0.5555555555555556,40-59%
+LCI012703,YESQLGGKI,HLA-A*02:01,1,P,parasite,Plasmodium,Plasmodium falciparum,Perforin-like protein 1,A,,1038983,1032,0.5,40-59%
+LCI012704,YESQLGGKI,HLA-A*24:02,1,P,parasite,Plasmodium,Plasmodium falciparum,Perforin-like protein 1,A,,1038983,1032,0.5,40-59%
+LCI012705,YESQLGGKI,HLA-B*44:03,1,P,parasite,Plasmodium,Plasmodium falciparum,Perforin-like protein 1,A,,1038983,1032,0.5,40-59%
+LCI012707,YEYPLHQEH,HLA-B*18:01,1,P,parasite,Plasmodium,Plasmodium falciparum,Apical membrane antigen 1,C,,1020909,601,0.5555555555555556,40-59%
+LCI012776,YHLIVDTDSL,HLA-B*38:01,1,P,virus,Herpesviridae,human gammaherpesvirus 4,Epstein-Barr nuclear antigen 2,A,,1030137,1848,0.5,40-59%
+LCI012807,YILEETSVLM,HLA-A*02:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,Immediate early protein IE1,B,,1043931,754,0.6,60-79%
+LCI012808,YILEETSVML,HLA-A*02:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,Immediate early protein IE1,B,,1043931,754,0.6,60-79%
+LCI012811,YILGADPLRV,HLA-B*13:02,1,P,virus,Herpesviridae,Human betaherpesvirus 5,Immediate early protein IE1,A,,1027578,754,0.6,60-79%
+LCI012839,YKSHGKGYNW,HLA-B*57:01,1,P,parasite,Plasmodium,Plasmodium falciparum,Apical membrane antigen 1,C,,1028181,601,0.4,40-59%
+LCI012840,YKSHGKGYNW,HLA-B*58:01,1,P,parasite,Plasmodium,Plasmodium falciparum,Apical membrane antigen 1,C,,1028181,601,0.4,40-59%
+LCI012847,YLAAYALVGL,HLA-A*02:01,1,P,parasite,Trypanosoma,Trypanosoma cruzi,"60S acidic ribosomal protein P2, putative",A,,1003937,5202,0.6,60-79%
+LCI012850,YLADVFVIL,HLA-A*02:01,0,N2,parasite,Trypanosoma,Trypanosoma cruzi,Nodulin-like domain-containing protein,C,medium,1046886,2751,0.5555555555555556,40-59%
+LCI012876,YLDDALDVV,HLA-A*02:01,0,N2,parasite,Trypanosoma,Trypanosoma cruzi,"Actin-like protein, putative",C,medium,1046886,5214,0.6666666666666666,60-79%
+LCI012888,YLDSTRTII,HLA-A*02:01,0,N2,virus,Paramyxoviridae,Mumps orthorubulavirus,RNA-directed RNA polymerase L,A,high,1036297,3470,0.5555555555555556,40-59%
+LCI012914,YLGKLFVTL,HLA-A*02:01,0,N2,virus,Herpesviridae,Human betaherpesvirus 6B,Large structural phosphoprotein,B,high,1025239,1001,0.5555555555555556,40-59%
+LCI012931,YLIPAVTSL,HLA-A*02:01,0,N2,virus,Hantaviridae,Orthohantavirus hantanense,RNA-directed RNA polymerase L,A,high,315648,811,0.5555555555555556,40-59%
+LCI012932,YLIPISLFV,HLA-A*02:01,1,P,parasite,Trypanosoma,Trypanosoma cruzi,Phospholipid-transporting ATPase,C,,1046886,1824,0.6666666666666666,60-79%
+LCI012939,YLKKIKNSL,HLA-A*02:01,1,P,parasite,Plasmodium,Plasmodium falciparum,Circumsporozoite protein,A,,315042,222,0.6666666666666666,60-79%
+LCI012940,YLKKIQNSL,HLA-A*02:01,1,P,parasite,Plasmodium,Plasmodium falciparum,Circumsporozoite protein,A,,315042,222,0.6666666666666666,60-79%
+LCI012951,YLLEVIVQV,HLA-A*02:01,0,N2,parasite,Trypanosoma,Trypanosoma cruzi,Vacuolar protein sorting-associated protein 35,C,medium,1046886,2695,0.5555555555555556,40-59%
+LCI012958,YLLPLLHTV,HLA-A*02:01,1,P,parasite,Trypanosoma,Trypanosoma cruzi,URB1 C-terminal domain-containing protein,C,,1046886,5264,0.6666666666666666,60-79%
+LCI012980,YLNKIQNSL,HLA-A*02:01,1,P,parasite,Plasmodium,Plasmodium falciparum,Circumsporozoite protein,A,,1014775;315042;315582,222,0.6666666666666666,60-79%
+LCI013010,YLRGISYKV,HLA-A*02:01,0,N2,virus,Hepeviridae (HEV),Paslahepevirus balayani,Non-structural polyprotein pORF1,C,medium,1042621,50,0.5555555555555556,40-59%
+LCI013042,YLVRRPMTI,HLA-B*08:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,Uncharacterized protein UL13,A,,1036355,818,0.5555555555555556,40-59%
+LCI013048,YLVTSINKL,HLA-A*02:01,0,N2,virus,Herpesviridae,Human betaherpesvirus 6B,Large structural phosphoprotein,B,high,1025239,1001,0.6666666666666666,60-79%
+LCI013070,YMANLILKY,HLA-A*29:02,1,P,virus,Herpesviridae,Human alphaherpesvirus 3,Major DNA-binding protein,C,,1029958,666,0.5555555555555556,40-59%
+LCI013071,YMANQILRY,HLA-A*29:02,1,P,virus,Herpesviridae,Human alphaherpesvirus 1,Major DNA-binding protein,C,,1029958,666,0.5555555555555556,40-59%
+LCI013081,YMESVFQMY,HLA-A*01:01,1,P,virus,Herpesviridae,Human alphaherpesvirus 1,Ribonucleoside-diphosphate reductase large subunit,B,,1043931,286,0.5,40-59%
+LCI013090,YMLAHVTGL,HLA-A*02:01,0,N2,virus,Herpesviridae,Rhadinovirus humangamma8,Thymidylate synthase,A,high,1022035,1481,0.5555555555555556,40-59%
+LCI013094,YMLSRVAAV,HLA-A*02:01,0,N2,parasite,Trypanosoma,Trypanosoma cruzi,"Trans-sialidase, putative",C,medium,1046886,65,0.5555555555555556,40-59%
+LCI013112,YNLRRGIAL,HLA-B*08:01,1,P,virus,Herpesviridae,human gammaherpesvirus 4,Epstein-Barr nuclear antigen 1,B,,1020842;1043931,940,0.4444444444444444,40-59%
+LCI013113,YNLRRGTAL,HLA-B*08:01,0,N2,virus,Herpesviridae,human gammaherpesvirus 4,Epstein-Barr nuclear antigen 1,B,high,1020842,940,0.5555555555555556,40-59%
+LCI013136,YPIEKLGHV,HLA-A*01:01,1,P,parasite,Plasmodium,Plasmodium falciparum,Uncharacterized protein,A,,1038983,1312,0.5555555555555556,40-59%
+LCI013137,YPIEKLGHV,HLA-A*03:01,1,P,parasite,Plasmodium,Plasmodium falciparum,Uncharacterized protein,A,,1038983,1312,0.5555555555555556,40-59%
+LCI013138,YPIEKLGHV,HLA-A*24:02,1,P,parasite,Plasmodium,Plasmodium falciparum,Uncharacterized protein,A,,1038983,1312,0.5555555555555556,40-59%
+LCI013139,YPIEKLGHV,HLA-B*07:02,1,P,parasite,Plasmodium,Plasmodium falciparum,Uncharacterized protein,A,,1038983,1312,0.5555555555555556,40-59%
+LCI013144,YPLHEQHGM,HLA-A*03:01,1,P,virus,Herpesviridae,human gammaherpesvirus 4,Epstein-Barr nuclear antigen 3,B,,1040585,528,0.4444444444444444,40-59%
+LCI013146,YPLLGSGIY,HLA-B*35:01,1,P,virus,Hepeviridae (HEV),Paslahepevirus balayani,Non-structural polyprotein pORF1,C,,1042621,50,0.5555555555555556,40-59%
+LCI013160,YPRNPTEQGNI,HLA-B*07:02,1,P,virus,Herpesviridae,human gammaherpesvirus 4,Major tegument protein,A,,1027077;1043931,1879,0.45454545454545453,40-59%
+LCI013161,YPRPPGSGL,HLA-B*07:02,1,P,virus,Herpesviridae,Human betaherpesvirus 5,Protein UL16,A,,1036355,5335,0.5555555555555556,40-59%
+LCI013162,YPRSTEVY,HLA-B*35:01,0,N2,virus,Hepeviridae (HEV),Paslahepevirus balayani,Non-structural polyprotein pORF1,C,medium,1042621,50,0.4444444444444444,40-59%
+LCI013202,YQVPVGLSF,HLA-B*15:01,0,N2,virus,Hepeviridae (HEV),Paslahepevirus balayani,Non-structural polyprotein pORF1,C,medium,1042621,50,0.5,40-59%
+LCI013212,YRIFAELEG,HLA-A*02:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,C,,1038969,21,0.5555555555555556,40-59%
+LCI013213,YRIQGKLEY,HLA-B*27:05,0,N2,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,A,high,1005821,21,0.5555555555555556,40-59%
+LCI013229,YRYNRFTQR,HLA-B*27:05,1,P,virus,Hepeviridae (HEV),Paslahepevirus balayani,Non-structural polyprotein pORF1,C,,1042621,50,0.5555555555555556,40-59%
+LCI013232,YSDCDPLGNY,HLA-A*01:01,1,P,virus,Herpesviridae,Human alphaherpesvirus 3,Major DNA-binding protein,A,,1042625,666,0.6,60-79%
+LCI013236,YSDPNNHEVY,HLA-A*01:01,1,P,virus,Paramyxoviridae,Mumps orthorubulavirus,RNA-directed RNA polymerase L,C,,1039027,3470,0.5,40-59%
+LCI013237,YSDRRDHVWSY,HLA-A*01:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,Protein UL78,C,,1036355,738,0.45454545454545453,40-59%
+LCI013239,YSEHPTFTS,HLA-A*01:01,0,N2,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,A,high,1004574,21,0.5,40-59%
+LCI013240,YSEHPTFTS,HLA-A*02:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,C,,1038969,21,0.5,40-59%
+LCI013241,YSEHPTFTSQ,HLA-A*01:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,A,,1004574,21,0.5,40-59%
+LCI013315,YTIGLPPYI,HLA-A*01:01,1,P,parasite,Plasmodium,Plasmodium falciparum,Perforin-like protein 1,A,,1038983,1032,0.5555555555555556,40-59%
+LCI013316,YTIGLPPYI,HLA-A*02:01,1,P,parasite,Plasmodium,Plasmodium falciparum,Perforin-like protein 1,A,,1038983,1032,0.5555555555555556,40-59%
+LCI013317,YTIGLPPYI,HLA-A*03:01,1,P,parasite,Plasmodium,Plasmodium falciparum,Perforin-like protein 1,A,,1038983,1032,0.5555555555555556,40-59%
+LCI013318,YTIGLPPYI,HLA-A*24:02,1,P,parasite,Plasmodium,Plasmodium falciparum,Perforin-like protein 1,A,,1038983,1032,0.5555555555555556,40-59%
+LCI013319,YTIGLPPYI,HLA-B*07:02,1,P,parasite,Plasmodium,Plasmodium falciparum,Perforin-like protein 1,A,,1038983,1032,0.5555555555555556,40-59%
+LCI013320,YTIGLPPYI,HLA-B*44:03,1,P,parasite,Plasmodium,Plasmodium falciparum,Perforin-like protein 1,A,,1038983,1032,0.5555555555555556,40-59%
+LCI013334,YTPDSTPCHR,HLA-A*68:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,A,,1005811;1043931,21,0.5,40-59%
+LCI013340,YTSAFVFPTK,HLA-A*11:01,0,N2,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,C,medium,1028977,21,0.5,40-59%
+LCI013344,YTSRGALYLY,HLA-A*01:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,Phosphoprotein 85,C,,1036355,2124,0.5,40-59%
+LCI013354,YTYPDGAKVYA,HLA-C*04:01,1,P,virus,Hepeviridae (HEV),Paslahepevirus balayani,Non-structural polyprotein pORF1,C,,1031168,50,0.45454545454545453,40-59%
+LCI013383,YVKVYLESF,HLA-B*15:01,0,N2,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,A,high,1005821,21,0.5555555555555556,40-59%
+LCI013384,YVLDHLIVV,HLA-A*02:01,1,P,virus,Herpesviridae,human gammaherpesvirus 4,Replication and transcription activator,A,,1020847;1025490;1027077;1030459;1034268;1041837;1042920;1043931,735,0.5555555555555556,40-59%
+LCI013386,YVLEETSVM,HLA-A*02:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,Immediate early protein IE1,A,,1004720;1021165,754,0.5555555555555556,40-59%
+LCI013387,YVLEETSVML,HLA-A*02:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,Immediate early protein IE1,B,,1043931,754,0.6,60-79%
+LCI013394,YVNGVVVATV,HLA-A*02:01,0,N2,parasite,Trypanosoma,Trypanosoma cruzi,"Trans-sialidase, putative",A,high,1003942,65,0.5,40-59%
+LCI013404,YVSDTVTFV,HLA-A*02:01,1,P,virus,Hepeviridae (HEV),Paslahepevirus balayani,Pro-secreted protein ORF2,A,,1042621,50,0.5555555555555556,40-59%
+LCI013405,YVSDTVTFVNV,HLA-A*02:01,1,P,virus,Hepeviridae (HEV),Paslahepevirus balayani,Pro-secreted protein ORF2,C,,1031168,50,0.45454545454545453,40-59%
+LCI013418,YVYALPLKM,HLA-A*02:01,1,P,virus,Herpesviridae,Human betaherpesvirus 5,65 kDa phosphoprotein,C,,1038969,21,0.4444444444444444,40-59%
+LCI013431,YYAGLPPEL,HLA-A*24:02,0,N2,virus,Herpesviridae,Human betaherpesvirus 5,Envelope glycoprotein L,A,high,1005858,1485,0.5555555555555556,40-59%
+LCI013433,YYEALFLYML,HLA-A*24:02,0,N2,virus,Herpesviridae,Human betaherpesvirus 5,Large tegument protein deneddylase,A,high,1005858,494,0.5,40-59%
+LCI013437,YYHVVDFERL,HLA-A*24:02,0,N2,virus,Herpesviridae,Human betaherpesvirus 5,Envelope glycoprotein M,A,high,1005858,1730,0.5,40-59%
+LCI013456,YYPIIRKQF,HLA-A*01:01,1,P,parasite,Plasmodium,Plasmodium falciparum,"GTP-binding protein, putative",A,,1038983,121,0.5555555555555556,40-59%
+LCI013457,YYPIIRKQF,HLA-A*02:01,1,P,parasite,Plasmodium,Plasmodium falciparum,"GTP-binding protein, putative",A,,1038983,121,0.5555555555555556,40-59%
+LCI013458,YYPIIRKQF,HLA-A*03:01,1,P,parasite,Plasmodium,Plasmodium falciparum,"GTP-binding protein, putative",A,,1038983,121,0.5555555555555556,40-59%
+LCI013459,YYPIIRKQF,HLA-A*24:02,1,P,parasite,Plasmodium,Plasmodium falciparum,"GTP-binding protein, putative",A,,1038983,121,0.5555555555555556,40-59%
+LCI013460,YYPIIRKQF,HLA-B*07:02,1,P,parasite,Plasmodium,Plasmodium falciparum,"GTP-binding protein, putative",A,,1038983,121,0.5555555555555556,40-59%
+LCI013461,YYPIIRKQF,HLA-B*44:03,1,P,parasite,Plasmodium,Plasmodium falciparum,"GTP-binding protein, putative",A,,1038983,121,0.5555555555555556,40-59%
+LCI013478,YYVFHMPRCL,HLA-A*24:02,0,N2,virus,Herpesviridae,Human betaherpesvirus 5,Envelope glycoprotein H,A,high,1005858,125,0.5,40-59%

@@ -1,0 +1,16 @@
+{
+  "pairs_conflict": 1103,
+  "pairs_multimer_only_positive": 3525,
+  "pairs_negative": 5705,
+  "pairs_negative_high_confidence": 1795,
+  "pairs_negative_medium_confidence": 3910,
+  "pairs_positive": 6675,
+  "pairs_positive_mixed_within_study": 809,
+  "pairs_total": 13483,
+  "records_allele_established": 23317,
+  "records_allowed_culture": 45323,
+  "records_allowed_effector_cell": 51254,
+  "records_functional_assay": 52307,
+  "records_resolved_allele": 76178,
+  "references_used": 1174
+}

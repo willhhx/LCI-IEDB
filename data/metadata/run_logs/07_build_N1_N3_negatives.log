@@ -1,0 +1,10 @@
+01:19:50 INFO 07_build_N1_N3_negatives: positives=6675  distinct peptides=5512  with parent=5498  with species=5571
+01:19:51 INFO 07_build_N1_N3_negatives: untested same-source/species candidate peptides: 556898
+01:19:53 INFO 07_build_N1_N3_negatives: N3 candidate pairs (binder evidence, same-source/species): 358404
+01:19:54 INFO 07_build_N1_N3_negatives: computing similarity of 648266 candidate peptides to 5512 positives ...
+01:21:36 INFO 07_build_N1_N3_negatives: rejected as near-copies (sim >= 0.70): 6652
+01:21:38 INFO 07_build_N1_N3_negatives:   rejected by sequence-position overlap: 6068
+01:21:40 INFO 07_build_N1_N3_negatives:   rejected by sequence-position overlap: 3554
+01:22:31 INFO 07_build_N1_N3_negatives: summary: {'positives': 6675, 'n1_rows': 3428, 'n3_rows': 4675, 'positives_with_n1': 3428, 'positives_with_n3': 2491, 'n1_protein_level': 1978, 'n3_protein_level': 1466, 'n3_measured_binding': 443, 'n3_ligand_evidence': 2438, 'near_copy_threshold': 0.7, 'max_delta_binding': 0.7, 'seed': 42}
+01:22:31 INFO 07_build_N1_N3_negatives: N3 failure reasons: {'no_candidate_within_binding_tolerance': 2611, 'no_source_annotation': 980, 'no_binding_estimate': 593}
+01:22:31 INFO 07_build_N1_N3_negatives: N1 failure reasons: {'no_candidate': 2145, 'no_source_annotation': 1102}

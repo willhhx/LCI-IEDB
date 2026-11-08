@@ -1,0 +1,11 @@
+name: lci-iedb
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.13
+  - numpy>=2.2
+  - pandas>=2.3
+  - scipy>=1.17
+  - scikit-learn>=1.8
+  - matplotlib>=3.10
+  # MMseqs2 (conda install -c conda-forge -c bioconda mmseqs2) is needed only to recompute the protein clusters of the parent proteins; see README.

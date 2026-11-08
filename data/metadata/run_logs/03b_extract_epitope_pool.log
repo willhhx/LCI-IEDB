@@ -1,0 +1,1 @@
+01:05:24 INFO 03b_extract_epitope_pool: funnel: {'rows': 2910311, 'linear_unmodified': 2688342, 'canonical_len_8_11': 1015637, 'with_parent_or_species': 981213} -> /home/claude/lci-iedb/data/processed/epitope_pool.csv.gz

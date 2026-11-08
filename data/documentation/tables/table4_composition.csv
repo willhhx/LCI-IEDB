@@ -1,0 +1,27 @@
+block,category,Positive (P),N2 assay-verified negative,N1 same-protein decoy,N3 matched hard decoy
+peptide length,8-mer,187,186,94,96
+peptide length,9-mer,4576,3270,2400,3457
+peptide length,10-mer,1640,1705,810,1003
+peptide length,11-mer,272,544,124,119
+source category,virus,3721,1606,1636,1672
+source category,human_self,1043,948,1042,2013
+source category,parasite,539,129,501,626
+source category,bacterium,235,189,220,322
+source category,other_eukaryote,20,9,17,19
+source category,fungus,2,0,1,1
+source category,unspecified,1113,2824,11,22
+HLA evidence tier,"A: single allele present, MHC binding assay or T-cell-assay-based restriction",3383,1349,0,0
+HLA evidence tier,B: cited reference or statistical inference (motif / alleles present),788,446,0,0
+HLA evidence tier,C: restriction from MHC-binding prediction only,2504,3910,0,0
+N2 confidence,high (evidence tier A/B),0,1795,0,0
+N2 confidence,medium (evidence tier C),0,3910,0,0
+assay (a record may use several),ELISpot,3561,2986,0,0
+assay (a record may use several),intracellular cytokine staining,1913,677,0,0
+assay (a record may use several),ELISA / cytometric bead array,530,303,0,0
+assay (a record may use several),51Cr release (cytotoxicity),215,213,0,0
+assay (a record may use several),"proliferation (CFSE, 3H-thymidine, BrdU)",166,46,0,0
+assay (a record may use several),RNA/DNA detection,55,50,0,0
+assay (a record may use several),other / unspecified functional readout,1455,1523,0,0
+replication,negative replicated in >=2 records,0,38,0,0
+replication,positive with mixed outcomes inside one study,809,0,0,0
+track,pathogen / vaccine track,4497,1924,2358,2621

@@ -1,0 +1,9 @@
+11:54:26 INFO 13_leakage_exposure: 
+split                  S1     S2     S3     S4
+vector                                        
+identical_peptide   0.000  0.000  0.000  0.271
+near_duplicate      0.000  0.000  0.000  0.551
+same_allele         0.993  0.000  0.987  0.997
+same_leakage_group  0.000  0.850  0.000  0.955
+same_study          0.616  0.730  0.014  0.981
+same_taxon_group    0.813  0.954  0.000  0.998

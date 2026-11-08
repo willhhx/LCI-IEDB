@@ -1,0 +1,100 @@
+species,taxon_id,category,taxon_group
+,,unspecified,unspecified
+Actinomyces oris,544580.0,other,Actinomyces oris
+Alistipes onderdonkii,328813.0,bacterium,Alistipes
+Alphacoronavirus amsterdamense,3433809.0,virus,Coronaviridae
+Alphacoronavirus chicagoense,3433756.0,virus,Coronaviridae
+Alphapapillomavirus 10,333754.0,virus,Papillomaviridae
+Alphapapillomavirus 7,337042.0,virus,Papillomaviridae
+Alphapapillomavirus 9,337041.0,virus,Papillomaviridae
+Alphapolyomavirus quintihominis,1891726.0,virus,Polyomaviridae
+Alphavirus chikungunya,3426298.0,virus,Togaviridae
+Ambrosia artemisiifolia,4212.0,other_eukaryote,Ambrosia artemisiifolia
+Bacteroidaceae bacterium,2212467.0,bacterium,Bacteroidaceae
+Bacteroidales bacterium,2030927.0,bacterium,Bacteroidales
+Bacteroides fragilis,817.0,bacterium,Bacteroides
+Bacteroides ovatus,28116.0,bacterium,Bacteroides
+Bacteroides uniformis,820.0,bacterium,Bacteroides
+Betacoronavirus gravedinis,3433757.0,virus,Coronaviridae
+Betacoronavirus hongkongense,3433758.0,virus,Coronaviridae
+Betapolyomavirus hominis,10632.0,virus,Polyomaviridae
+Betapolyomavirus macacae,1891767.0,virus,Polyomaviridae
+Chlamydia trachomatis,813.0,bacterium,Chlamydia
+Clostridium sp. D5,556261.0,bacterium,Clostridium
+Deltaretrovirus priTlym2,3428213.0,virus,Retroviridae
+Dengue virus,12637.0,virus,Flaviviridae-Orthoflavivirus
+Dependoparvovirus primate1,1511891.0,virus,Parvoviridae
+Dermatophagoides pteronyssinus,6956.0,other_eukaryote,Dermatophagoides pteronyssinus
+Dickeya,204037.0,bacterium,Dickeya
+Dorea formicigenerans,39486.0,bacterium,Dorea
+Enterovirus alpharhino,3428501.0,virus,Picornaviridae
+Enterovirus betacoxsackie,3428502.0,virus,Picornaviridae
+Enterovirus cerhino,3428504.0,virus,Picornaviridae
+Erythroparvovirus primate1,3052189.0,virus,Parvoviridae
+Flavonifractor plautii,292800.0,bacterium,Flavonifractor
+Francisella tularensis,263.0,bacterium,Francisella
+Fusobacterium necrophorum,859.0,bacterium,Fusobacterium
+Helicobacter pylori,210.0,bacterium,Helicobacter
+Hepatitis delta virus,12475.0,virus,Deltavirus (HDV)
+Hepatovirus A,12092.0,virus,Picornaviridae
+Homo sapiens,9606.0,human_self,Homo sapiens (self)
+Human alphaherpesvirus 1,10298.0,virus,Herpesviridae
+Human alphaherpesvirus 2,10310.0,virus,Herpesviridae
+Human alphaherpesvirus 3,10335.0,virus,Herpesviridae
+Human betaherpesvirus 5,10359.0,virus,Herpesviridae
+Human betaherpesvirus 6B,32604.0,virus,Herpesviridae
+Human endogenous retrovirus W,87786.0,human_self,Homo sapiens (self)
+Human papillomavirus,10566.0,virus,Papillomaviridae
+Influenza A virus,11320.0,virus,Orthomyxoviridae
+Influenza B virus,11520.0,virus,Orthomyxoviridae
+Influenza C virus,11552.0,virus,Orthomyxoviridae
+JC polyomavirus,10632.0,virus,Polyomaviridae
+Japanese encephalitis virus,11072.0,virus,Flaviviridae-Orthoflavivirus
+Klebsiella pneumoniae,573.0,bacterium,Klebsiella
+Leishmania donovani,5661.0,parasite,Leishmania
+Leishmania major,5664.0,parasite,Leishmania
+Lentivirus humimdef1,3418650.0,virus,Retroviridae
+Malus domestica,3750.0,other_eukaryote,Malus domestica
+Mammarenavirus choriomeningitidis,3052303.0,virus,Arenaviridae
+Mammarenavirus lassaense,3052310.0,virus,Arenaviridae
+Mastadenovirus adami,3241402.0,virus,Adenoviridae
+Mastadenovirus blackbeardi,3241406.0,virus,Adenoviridae
+Mastadenovirus caesari,3241411.0,virus,Adenoviridae
+Measles morbillivirus,11234.0,virus,Paramyxoviridae
+Mumps orthorubulavirus,2560602.0,virus,Paramyxoviridae
+Mus musculus,10090.0,other_eukaryote,Mus musculus
+Mycobacterium tuberculosis,1773.0,bacterium,Mycobacterium
+Nicotiana tabacum,4097.0,other,Nicotiana tabacum
+Norovirus norwalkense,3431196.0,virus,Caliciviridae
+Orthoebolavirus zairense,3052462.0,virus,Filoviridae
+Orthohantavirus hantanense,3052480.0,virus,Hantaviridae
+Orthohepacivirus hominis,3052230.0,virus,Hepacivirus (HCV)
+Orthohepadnavirus hominoidei,3431302.0,virus,Hepadnaviridae (HBV)
+Orthopoxvirus vaccinia,10245.0,virus,Poxviridae
+Paslahepevirus balayani,1678143.0,virus,Hepeviridae (HEV)
+Plasmodium falciparum,5833.0,parasite,Plasmodium
+Purpureocillium lilacinum,33203.0,fungus,Purpureocillium
+Rhadinovirus humangamma8,3050300.0,virus,Herpesviridae
+Rift Valley fever virus,11588.0,virus,Phenuiviridae
+Roseolovirus humanbeta6a,3050296.0,virus,Herpesviridae
+Rotavirus alphagastroenteritidis,3432193.0,virus,Reoviridae
+SARS-CoV1,,virus,Coronaviridae
+Saccharomyces cerevisiae,4932.0,fungus,Saccharomyces
+Severe acute respiratory syndrome coronavirus 2,2697049.0,virus,Coronaviridae
+Shigella boydii,621.0,bacterium,Shigella
+Spinacia oleracea,3562.0,other_eukaryote,Spinacia oleracea
+Staphylococcus aureus,1280.0,bacterium,Staphylococcus
+Streptococcus agalactiae,1311.0,bacterium,Streptococcus
+Streptococcus pyogenes,1314.0,bacterium,Streptococcus
+Tetraparvovirus primate1,3052770.0,virus,Parvoviridae
+Toxoplasma gondii,5811.0,parasite,Toxoplasma
+Triticum aestivum,4565.0,other_eukaryote,Triticum aestivum
+Trypanosoma cruzi,5693.0,parasite,Trypanosoma
+West Nile virus,11082.0,virus,Flaviviridae-Orthoflavivirus
+Yellow fever virus,11089.0,virus,Flaviviridae-Orthoflavivirus
+Yersinia enterocolitica,630.0,bacterium,Yersinia
+Zika virus,64320.0,virus,Flaviviridae-Orthoflavivirus
+human gammaherpesvirus 4,10376.0,virus,Herpesviridae
+human metapneumovirus,162145.0,virus,Pneumoviridae
+human respiratory syncytial virus,11250.0,virus,Pneumoviridae
+unidentified,32644.0,unspecified,unspecified

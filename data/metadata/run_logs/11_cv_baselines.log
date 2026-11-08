@@ -1,0 +1,24 @@
+11:44:16 INFO 11_cv_baselines: == track=pathogen tier=N2 rows=6421 positives=4497
+11:44:35 INFO 11_cv_baselines:   N2 S1: 6421 rows, 19s -> oof_pathogen_N2_S1.csv.gz
+11:44:52 INFO 11_cv_baselines:   N2 S2: 6421 rows, 18s -> oof_pathogen_N2_S2.csv.gz
+11:44:52 WARNING 11_cv_baselines:   fold 0 skipped (train=6421 test=0)
+11:45:07 INFO 11_cv_baselines:   N2 S3: 6421 rows, 15s -> oof_pathogen_N2_S3.csv.gz
+11:45:26 INFO 11_cv_baselines:   N2 S4: 6421 rows, 20s -> oof_pathogen_N2_S4.csv.gz
+11:45:27 INFO 11_cv_baselines: == track=pathogen tier=N1 rows=4716 positives=2358
+11:45:42 INFO 11_cv_baselines:   N1 S1: 4716 rows, 16s -> oof_pathogen_N1_S1.csv.gz
+11:45:57 INFO 11_cv_baselines:   N1 S2: 4716 rows, 15s -> oof_pathogen_N1_S2.csv.gz
+11:45:57 WARNING 11_cv_baselines:   fold 0 skipped (train=4716 test=0)
+11:46:09 INFO 11_cv_baselines:   N1 S3: 4716 rows, 12s -> oof_pathogen_N1_S3.csv.gz
+11:46:26 INFO 11_cv_baselines:   N1 S4: 4716 rows, 16s -> oof_pathogen_N1_S4.csv.gz
+11:46:26 INFO 11_cv_baselines: == track=pathogen tier=N3 rows=4084 positives=1463
+11:46:40 INFO 11_cv_baselines:   N3 S1: 4084 rows, 14s -> oof_pathogen_N3_S1.csv.gz
+11:46:53 INFO 11_cv_baselines:   N3 S2: 4084 rows, 13s -> oof_pathogen_N3_S2.csv.gz
+11:46:54 WARNING 11_cv_baselines:   fold 0 skipped (train=4084 test=0)
+11:47:05 INFO 11_cv_baselines:   N3 S3: 4084 rows, 11s -> oof_pathogen_N3_S3.csv.gz
+11:47:19 INFO 11_cv_baselines:   N3 S4: 4084 rows, 14s -> oof_pathogen_N3_S4.csv.gz
+11:47:19 INFO 11_cv_baselines: == track=pathogen tier=N0 rows=8994 positives=4497
+11:47:44 INFO 11_cv_baselines:   N0 S1: 8994 rows, 25s -> oof_pathogen_N0_S1.csv.gz
+11:48:06 INFO 11_cv_baselines:   N0 S2: 8994 rows, 22s -> oof_pathogen_N0_S2.csv.gz
+11:48:07 WARNING 11_cv_baselines:   fold 0 skipped (train=8994 test=0)
+11:48:25 INFO 11_cv_baselines:   N0 S3: 8994 rows, 19s -> oof_pathogen_N0_S3.csv.gz
+11:48:50 INFO 11_cv_baselines:   N0 S4: 8994 rows, 25s -> oof_pathogen_N0_S4.csv.gz

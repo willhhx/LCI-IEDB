@@ -1,0 +1,4 @@
+11:30:25 INFO 09_build_groups: rows=20483  unique peptides=17278
+11:30:32 INFO 09_build_groups: near-duplicate peptide edges (sim >= 0.80): 5913
+11:30:32 INFO 09_build_groups: groups=5432  largest=1451 rows (7.1%)  top5=[1451, 749, 614, 397, 233]
+11:30:32 INFO 09_build_groups: largest group composition: {'Flaviviridae-Orthoflavivirus': 1451}

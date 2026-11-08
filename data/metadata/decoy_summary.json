@@ -1,0 +1,14 @@
+{
+  "max_delta_binding": 0.7,
+  "n1_protein_level": 1978,
+  "n1_rows": 3428,
+  "n3_ligand_evidence": 2438,
+  "n3_measured_binding": 443,
+  "n3_protein_level": 1466,
+  "n3_rows": 4675,
+  "near_copy_threshold": 0.7,
+  "positives": 6675,
+  "positives_with_n1": 3428,
+  "positives_with_n3": 2491,
+  "seed": 42
+}

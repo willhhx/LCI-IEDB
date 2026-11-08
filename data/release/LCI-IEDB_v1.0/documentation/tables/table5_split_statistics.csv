@@ -1,0 +1,21 @@
+split,partition,rows,positives,negatives,unique_peptides,alleles,split_units,positive_fraction
+S1 antigen-group,train,8433,4456,3977,7599,121,2633,0.528
+S1 antigen-group,val,1357,867,490,1150,69,380,0.639
+S1 antigen-group,test,2590,1352,1238,2113,93,750,0.522
+S1 antigen-group,purged,0,0,0,0,0,0,
+S1 antigen-group,excluded,0,0,0,0,0,0,
+S2 held-out HLA,train,7073,3788,3285,6710,90,90,0.536
+S2 held-out HLA,val,944,451,493,938,9,9,0.478
+S2 held-out HLA,test,2680,1263,1417,2596,26,26,0.471
+S2 held-out HLA,purged,1683,1173,510,1165,68,68,0.697
+S2 held-out HLA,excluded,0,0,0,0,0,0,
+S3 held-out taxon,train,5374,3175,2199,4915,98,49,0.591
+S3 held-out taxon,val,1706,1424,282,1073,70,1,0.835
+S3 held-out taxon,test,1331,954,377,1061,66,6,0.717
+S3 held-out taxon,purged,32,9,23,24,10,5,0.281
+S3 held-out taxon,excluded,3937,1113,2824,3789,93,1,0.283
+S4 random,train,8678,4667,4011,7801,121,8678,0.538
+S4 random,val,1232,673,559,1205,81,1232,0.546
+S4 random,test,2470,1335,1135,2356,100,2470,0.54
+S4 random,purged,0,0,0,0,0,0,
+S4 random,excluded,0,0,0,0,0,0,

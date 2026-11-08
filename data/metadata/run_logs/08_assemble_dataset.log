@@ -1,0 +1,18 @@
+01:23:27 INFO 08_assemble_dataset: rows by tier:
+tier
+P     6675
+N2    5705
+N3    4675
+N1    3428
+01:23:27 INFO 08_assemble_dataset: category x tier:
+tier               N1    N2    N3     P
+category                               
+bacterium         220   189   322   235
+fungus              1     0     1     2
+human_self       1042   948  2013  1043
+other               0     0     0     2
+other_eukaryote    17     9    19    20
+parasite          501   129   626   539
+unspecified        11  2824    22  1113
+virus            1636  1606  1672  3721
+01:23:27 INFO 08_assemble_dataset: conflicts: 1103  ambiguous-label peptides: 131

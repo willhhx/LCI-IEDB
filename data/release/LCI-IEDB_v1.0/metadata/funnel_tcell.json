@@ -1,0 +1,10 @@
+{
+  "1_all_tcell_rows": 579433,
+  "2_host_human": 408724,
+  "3_linear_peptide": 405587,
+  "4_mhc_class_I": 125790,
+  "5_assay_antigen_is_epitope_peptide": 116358,
+  "6_unmodified_not_adoptive_transfer": 115108,
+  "7_canonical_len_8_11": 90199,
+  "8_resolved_hla_class_I_allele": 76178
+}

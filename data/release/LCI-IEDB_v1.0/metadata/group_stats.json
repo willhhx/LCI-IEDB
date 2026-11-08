@@ -1,0 +1,21 @@
+{
+  "antigen_name_edges": 16067,
+  "external_cluster_edges": 15688,
+  "groups": 5432,
+  "largest_group_fraction": 0.07083923253429673,
+  "largest_group_rows": 1451,
+  "near_dup_edges": 5913,
+  "near_dup_threshold": 0.8,
+  "parent_edges": 16225,
+  "peptide_only_components": 13606,
+  "rows": 20483,
+  "singleton_groups": 3684,
+  "top5_group_sizes": [
+    1451,
+    749,
+    614,
+    397,
+    233
+  ],
+  "unique_peptides": 17278
+}

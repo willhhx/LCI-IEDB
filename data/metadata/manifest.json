@@ -1,0 +1,205 @@
+{
+  "01_build_hla_allele_map": {
+    "_python": "3.13.18",
+    "_written_utc": "2026-11-08T06:00:26Z",
+    "aliases": 69418,
+    "input": "MhcAlleleNameList.xml",
+    "input_sha256": "4dd27bd1d6c135b45725c914521c6b15fa5714a8eab2aa0ee14f5df78dd5df83",
+    "resolved_class_I_aliases": 48608
+  },
+  "02_extract_tcell_records": {
+    "_python": "3.13.18",
+    "_written_utc": "2026-11-08T06:00:38Z",
+    "funnel": {
+      "1_all_tcell_rows": 579433,
+      "2_host_human": 408724,
+      "3_linear_peptide": 405587,
+      "4_mhc_class_I": 125790,
+      "5_assay_antigen_is_epitope_peptide": 116358,
+      "6_unmodified_not_adoptive_transfer": 115108,
+      "7_canonical_len_8_11": 90199,
+      "8_resolved_hla_class_I_allele": 76178
+    },
+    "input": "tcell_full_v3.csv",
+    "input_sha256": "62b7a586e6ef0d6d1cb42b0f2162dabf13d63d3ac9dd4967633598777d2a16d9",
+    "peptides_any_positive": 76658,
+    "peptides_any_tested": 234242,
+    "records_out": 76178
+  },
+  "03_extract_mhc_ligand": {
+    "_python": "3.13.18",
+    "_written_utc": "2026-11-08T06:03:38Z",
+    "funnel": {
+      "1_all_mhc_ligand_rows": 6275463,
+      "2_host_human": 5777975,
+      "3_linear_unmodified": 5497877,
+      "4_mhc_class_I": 3689589,
+      "5_canonical_len_8_11": 3321425,
+      "6_resolved_hla_class_I_allele": 1307258
+    },
+    "input": "mhc_ligand_full.csv",
+    "input_sha256": "95dc9fc592ddc031e056030c9b8ae01d03fa87c018d77e9665a1dee6878ac3f2",
+    "records_out": 1307258
+  },
+  "03b_extract_epitope_pool": {
+    "_python": "3.13.18",
+    "_written_utc": "2026-11-08T06:05:24Z",
+    "canonical_len_8_11": 1015637,
+    "input": "epitope_full_v3.csv",
+    "input_sha256": "b5e3f0f1f6adf322f3c8f7a999b226f950f9d796e094d6b5da40d2c973e1c81e",
+    "linear_unmodified": 2688342,
+    "rows": 2910311,
+    "with_parent_or_species": 981213
+  },
+  "04_build_pair_labels": {
+    "_python": "3.13.18",
+    "_written_utc": "2026-11-08T06:06:11Z",
+    "pairs_conflict": 1103,
+    "pairs_multimer_only_positive": 3525,
+    "pairs_negative": 5705,
+    "pairs_negative_high_confidence": 1795,
+    "pairs_negative_medium_confidence": 3910,
+    "pairs_positive": 6675,
+    "pairs_positive_mixed_within_study": 809,
+    "pairs_total": 13483,
+    "records_allele_established": 23317,
+    "records_allowed_culture": 45323,
+    "records_allowed_effector_cell": 51254,
+    "records_functional_assay": 52307,
+    "records_resolved_allele": 76178,
+    "references_used": 1174
+  },
+  "05_ligand_evidence": {
+    "_python": "3.13.18",
+    "_written_utc": "2026-11-08T06:06:49Z",
+    "ligand_pairs": 700892,
+    "tcell_pairs_with_mhc_evidence": 5559
+  },
+  "06_train_binding_proxy": {
+    "_python": "3.13.18",
+    "_written_utc": "2026-11-08T06:07:19Z",
+    "alleles": 66,
+    "median_cv_auc": 0.910740933828742,
+    "median_cv_spearman": 0.6533168638248028,
+    "seed": 42
+  },
+  "07_build_N1_N3_negatives": {
+    "_python": "3.13.18",
+    "_written_utc": "2026-11-08T06:22:31Z",
+    "max_delta_binding": 0.7,
+    "n1_protein_level": 1978,
+    "n1_rows": 3428,
+    "n3_ligand_evidence": 2438,
+    "n3_measured_binding": 443,
+    "n3_protein_level": 1466,
+    "n3_rows": 4675,
+    "near_copy_threshold": 0.7,
+    "positives": 6675,
+    "positives_with_n1": 3428,
+    "positives_with_n3": 2491,
+    "seed": 42
+  },
+  "08_assemble_dataset": {
+    "_python": "3.13.18",
+    "_written_utc": "2026-11-08T06:23:27Z",
+    "conflicts": 1103,
+    "rows": 20483,
+    "tiers": {
+      "N1": 3428,
+      "N2": 5705,
+      "N3": 4675,
+      "P": 6675
+    }
+  },
+  "09_build_groups": {
+    "_python": "3.14.2",
+    "_written_utc": "2026-11-08T16:30:32Z",
+    "antigen_name_edges": 16067,
+    "external_cluster_edges": 15688,
+    "groups": 5432,
+    "largest_group_fraction": 0.07083923253429673,
+    "largest_group_rows": 1451,
+    "near_dup_edges": 5913,
+    "near_dup_threshold": 0.8,
+    "parent_edges": 16225,
+    "peptide_only_components": 13606,
+    "rows": 20483,
+    "singleton_groups": 3684,
+    "top5_group_sizes": [
+      1451,
+      749,
+      614,
+      397,
+      233
+    ],
+    "unique_peptides": 17278
+  },
+  "10_make_splits": {
+    "_python": "3.14.2",
+    "_written_utc": "2026-11-08T16:30:55Z",
+    "n_folds": 5,
+    "seed": 42,
+    "targets": {
+      "test": 0.2,
+      "train": 0.7,
+      "val": 0.1
+    }
+  },
+  "11_cv_baselines": {
+    "_python": "3.14.2",
+    "_written_utc": "2026-11-08T16:48:50Z",
+    "models": [
+      "B1_length",
+      "B2_composition",
+      "B3_organism",
+      "B3b_allele",
+      "B4_nearest_neighbour",
+      "B5_study_prior",
+      "LR",
+      "RF",
+      "GBM"
+    ],
+    "packages": {
+      "numpy": "2.2.6",
+      "pandas": "2.3.3",
+      "scikit-learn": "1.8.0",
+      "scipy": "1.17.1"
+    },
+    "seed": 42,
+    "track": "pathogen"
+  },
+  "12_metrics_all": {
+    "_python": "3.14.2",
+    "_written_utc": "2026-11-08T16:44:05Z",
+    "n_boot": 200,
+    "seed": 42,
+    "tiers": [
+      "N2",
+      "N1",
+      "N3",
+      "N0"
+    ]
+  },
+  "12_metrics_pathogen": {
+    "_python": "3.14.2",
+    "_written_utc": "2026-11-08T16:54:22Z",
+    "n_boot": 200,
+    "seed": 42,
+    "tiers": [
+      "N2",
+      "N1",
+      "N3",
+      "N0"
+    ]
+  },
+  "13_leakage_exposure_all": {
+    "_python": "3.14.2",
+    "_written_utc": "2026-11-08T16:44:14Z",
+    "rows": 12380
+  },
+  "13_leakage_exposure_pathogen": {
+    "_python": "3.14.2",
+    "_written_utc": "2026-11-08T16:54:26Z",
+    "rows": 6421
+  }
+}

@@ -1,0 +1,9 @@
+01:00:38 INFO 02_extract_tcell_records: 1_all_tcell_rows                                 579433
+01:00:38 INFO 02_extract_tcell_records: 2_host_human                                     408724
+01:00:38 INFO 02_extract_tcell_records: 3_linear_peptide                                 405587
+01:00:38 INFO 02_extract_tcell_records: 4_mhc_class_I                                    125790
+01:00:38 INFO 02_extract_tcell_records: 5_assay_antigen_is_epitope_peptide               116358
+01:00:38 INFO 02_extract_tcell_records: 6_unmodified_not_adoptive_transfer               115108
+01:00:38 INFO 02_extract_tcell_records: 7_canonical_len_8_11                              90199
+01:00:38 INFO 02_extract_tcell_records: 8_resolved_hla_class_I_allele                     76178
+01:00:38 INFO 02_extract_tcell_records: wrote /home/claude/lci-iedb/data/processed/tcell_records_human_hlaI.csv.gz (76178 records)

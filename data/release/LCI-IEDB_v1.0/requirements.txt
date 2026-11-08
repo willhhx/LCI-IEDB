@@ -1,0 +1,6 @@
+# Minimum versions of the packages used for the v1.0 results (Python 3.13/3.14; scikit-learn 1.8 or later). The core pipeline needs only these five packages.
+numpy>=2.2
+pandas>=2.3
+scipy>=1.17
+scikit-learn>=1.8
+matplotlib>=3.10

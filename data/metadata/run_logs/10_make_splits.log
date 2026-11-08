@@ -1,0 +1,22 @@
+11:30:40 INFO 10_make_splits: S1 partitions (all tiers): {'train': 14337, 'test': 4097, 'val': 2049}
+11:30:45 INFO 10_make_splits: S2 partitions (all tiers): {'train': 12038, 'test': 4097, 'purged': 2702, 'val': 1646}
+11:30:48 INFO 10_make_splits: S3 partitions (all tiers): {'train': 11289, 'excluded': 3970, 'test': 3248, 'val': 1900, 'purged': 76}
+11:30:55 INFO 10_make_splits: S4 partitions (all tiers): {'train': 14337, 'test': 4097, 'val': 2049}
+11:30:55 INFO 10_make_splits: primary benchmark (P vs N2) partition sizes:
+split benchmark partition  rows  positives  negatives  unique_peptides  alleles  units
+   S1   P_vs_N2     train  8433       4456       3977             7599      121   2633
+   S1   P_vs_N2       val  1357        867        490             1150       69    380
+   S1   P_vs_N2      test  2590       1352       1238             2113       93    750
+   S1   P_vs_N2    purged     0          0          0                0        0      0
+   S2   P_vs_N2     train  7073       3788       3285             6710       90     90
+   S2   P_vs_N2       val   944        451        493              938        9      9
+   S2   P_vs_N2      test  2680       1263       1417             2596       26     26
+   S2   P_vs_N2    purged  1683       1173        510             1165       68     68
+   S3   P_vs_N2     train  5374       3175       2199             4915       98     49
+   S3   P_vs_N2       val  1706       1424        282             1073       70      1
+   S3   P_vs_N2      test  1331        954        377             1061       66      6
+   S3   P_vs_N2    purged    32          9         23               24       10      5
+   S4   P_vs_N2     train  8678       4667       4011             7801      121   8678
+   S4   P_vs_N2       val  1232        673        559             1205       81   1232
+   S4   P_vs_N2      test  2470       1335       1135             2356      100   2470
+   S4   P_vs_N2    purged     0          0          0                0        0      0

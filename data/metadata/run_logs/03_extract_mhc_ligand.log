@@ -1,0 +1,10 @@
+01:02:38 INFO 03_extract_mhc_ligand: ... 2000000 rows read
+01:03:02 INFO 03_extract_mhc_ligand: ... 4000000 rows read
+01:03:26 INFO 03_extract_mhc_ligand: ... 6000000 rows read
+01:03:38 INFO 03_extract_mhc_ligand: 1_all_mhc_ligand_rows                       6275463
+01:03:38 INFO 03_extract_mhc_ligand: 2_host_human                                5777975
+01:03:38 INFO 03_extract_mhc_ligand: 3_linear_unmodified                         5497877
+01:03:38 INFO 03_extract_mhc_ligand: 4_mhc_class_I                               3689589
+01:03:38 INFO 03_extract_mhc_ligand: 5_canonical_len_8_11                        3321425
+01:03:38 INFO 03_extract_mhc_ligand: 6_resolved_hla_class_I_allele               1307258
+01:03:38 INFO 03_extract_mhc_ligand: wrote /home/claude/lci-iedb/data/processed/mhc_ligand_records_human_hlaI.csv.gz (1307258 records)

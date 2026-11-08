@@ -1,0 +1,12 @@
+01:07:17 INFO 06_train_binding_proxy: alleles with >=150 measured peptides: 66 (of 104)
+01:07:19 INFO 06_train_binding_proxy: models=66  median CV Spearman=0.653  median CV AUC=0.911
+01:07:19 INFO 06_train_binding_proxy: top alleles:
+     allele  n_peptides  cv_spearman  cv_auc_binder_500nM
+HLA-A*02:01       11391     0.775046             0.915446
+HLA-A*03:01        6168     0.747728             0.910741
+HLA-A*11:01        5374     0.810442             0.933494
+HLA-A*31:01        4648     0.738962             0.913867
+HLA-A*68:02        4374     0.737226             0.920602
+HLA-A*02:03        4211     0.787372             0.907604
+HLA-A*01:01        3716     0.591597             0.924038
+HLA-A*02:06        3652     0.733217             0.875386

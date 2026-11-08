@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="610.973906pt" height="324.864pt" viewBox="0 0 610.973906 324.864" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-08T17:12:52.263393</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.9, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 324.864 
+L 610.973906 324.864 
+L 610.973906 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 19.594038 134.49024 
+L 141.280962 134.49024 
+Q 148.041346 134.49024 148.041346 130.764672 
+L 148.041346 26.448768 
+Q 148.041346 22.7232 141.280962 22.7232 
+L 19.594038 22.7232 
+Q 12.833654 22.7232 12.833654 26.448768 
+L 12.833654 130.764672 
+Q 12.833654 134.49024 19.594038 134.49024 
+z
+" clip-path="url(#p3966c0b8fb)" style="fill: #f6f7fa; stroke: #2a78d6; stroke-width: 1.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 19.594038 277.30368 
+L 141.280962 277.30368 
+Q 148.041346 277.30368 148.041346 273.578112 
+L 148.041346 169.262208 
+Q 148.041346 165.53664 141.280962 165.53664 
+L 19.594038 165.53664 
+Q 12.833654 165.53664 12.833654 169.262208 
+L 12.833654 273.578112 
+Q 12.833654 277.30368 19.594038 277.30368 
+z
+" clip-path="url(#p3966c0b8fb)" style="fill: #f6f7fa; stroke: #2a78d6; stroke-width: 1.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 171.702692 134.49024 
+L 293.389615 134.49024 
+Q 300.15 134.49024 300.15 130.764672 
+L 300.15 26.448768 
+Q 300.15 22.7232 293.389615 22.7232 
+L 171.702692 22.7232 
+Q 164.942308 22.7232 164.942308 26.448768 
+L 164.942308 130.764672 
+Q 164.942308 134.49024 171.702692 134.49024 
+z
+" clip-path="url(#p3966c0b8fb)" style="fill: #f6f7fa; stroke: #eb6834; stroke-width: 1.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 171.702692 277.30368 
+L 293.389615 277.30368 
+Q 300.15 277.30368 300.15 273.578112 
+L 300.15 169.262208 
+Q 300.15 165.53664 293.389615 165.53664 
+L 171.702692 165.53664 
+Q 164.942308 165.53664 164.942308 169.262208 
+L 164.942308 273.578112 
+Q 164.942308 277.30368 171.702692 277.30368 
+z
+" clip-path="url(#p3966c0b8fb)" style="fill: #f6f7fa; stroke: #eda100; stroke-width: 1.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 323.811346 134.49024 
+L 445.498269 134.49024 
+Q 452.258654 134.49024 452.258654 130.764672 
+L 452.258654 26.448768 
+Q 452.258654 22.7232 445.498269 22.7232 
+L 323.811346 22.7232 
+Q 317.050962 22.7232 317.050962 26.448768 
+L 317.050962 130.764672 
+Q 317.050962 134.49024 323.811346 134.49024 
+z
+" clip-path="url(#p3966c0b8fb)" style="fill: #f6f7fa; stroke: #1baf7a; stroke-width: 1.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 323.811346 277.30368 
+L 445.498269 277.30368 
+Q 452.258654 277.30368 452.258654 273.578112 
+L 452.258654 169.262208 
+Q 452.258654 165.53664 445.498269 165.53664 
+L 323.811346 165.53664 
+Q 317.050962 165.53664 317.050962 169.262208 
+L 317.050962 273.578112 
+Q 317.050962 277.30368 323.811346 277.30368 
+z
+" clip-path="url(#p3966c0b8fb)" style="fill: #f6f7fa; stroke: #6250d6; stroke-width: 1.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 470.286346 134.49024 
+L 575.072308 134.49024 
+Q 581.832692 134.49024 581.832692 130.764672 
+L 581.832692 26.448768 
+Q 581.832692 22.7232 575.072308 22.7232 
+L 470.286346 22.7232 
+Q 463.525962 22.7232 463.525962 26.448768 
+L 463.525962 130.764672 
+Q 463.525962 134.49024 470.286346 134.49024 
+z
+" clip-path="url(#p3966c0b8fb)" style="fill: #f6f7fa; stroke: #008300; stroke-width: 1.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 470.286346 277.30368 
+L 575.072308 277.30368 
+Q 581.832692 277.30368 581.832692 273.578112 
+L 581.832692 169.262208 
+Q 581.832692 165.53664 575.072308 165.53664 
+L 470.286346 165.53664 
+Q 463.525962 165.53664 463.525962 169.262208 
+L 463.525962 273.578112 
+Q 463.525962 277.30368 470.286346 277.30368 
+z
+" clip-path="url(#p3966c0b8fb)" style="fill: #f6f7fa; stroke: #e34948; stroke-width: 1.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 8.6px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: start; fill: #1d2433" x="25.227692" y="38.571776" transform="rotate(-0 25.227692 38.571776)">1  IEDB T-cell assays</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 7px; font-family: 'Inter', 'DejaVu Sans'; fill: #4a5368" transform="translate(25.227692 50.395514)">579,433 rows</text>
+    <text style="font-size: 7px; font-family: 'Inter', 'DejaVu Sans'; fill: #4a5368" transform="translate(25.227692 59.031819)">human host, linear, MHC-I</text>
+    <text style="font-size: 7px; font-family: 'Inter', 'DejaVu Sans'; fill: #4a5368" transform="translate(25.227692 67.668124)">unmodified, 8-11 aa canonical</text>
+    <text style="font-size: 7px; font-family: 'Inter', 'DejaVu Sans'; fill: #4a5368" transform="translate(25.227692 76.304428)">HLA allele resolved</text>
+    <text style="font-size: 7px; font-family: 'Inter', 'DejaVu Sans'; fill: #4a5368" transform="translate(25.227692 84.940733)">-&gt; 76,178 records</text>
+   </g>
+   <g id="text_3">
+    <text style="font-weight: 700; font-size: 8.6px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: start; fill: #1d2433" x="25.227692" y="181.385216" transform="rotate(-0 25.227692 181.385216)">1b  IEDB ligand + epitope</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 7px; font-family: 'Inter', 'DejaVu Sans'; fill: #4a5368" transform="translate(25.227692 193.208954)">6,275,463 ligand rows</text>
+    <text style="font-size: 7px; font-family: 'Inter', 'DejaVu Sans'; fill: #4a5368" transform="translate(25.227692 201.845259)">-&gt; 1,307,258 human HLA-I</text>
+    <text style="font-size: 7px; font-family: 'Inter', 'DejaVu Sans'; fill: #4a5368" transform="translate(25.227692 210.481564)">records (binding evidence only)</text>
+    <text style="font-size: 7px; font-family: 'Inter', 'DejaVu Sans'; fill: #4a5368" transform="translate(25.227692 219.117868)">epitope + antigen tables:</text>
+    <text style="font-size: 7px; font-family: 'Inter', 'DejaVu Sans'; fill: #4a5368" transform="translate(25.227692 227.754173)">parent protein, taxon</text>
+   </g>
+   <g id="text_5">
+    <text style="font-weight: 700; font-size: 8.6px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: start; fill: #1d2433" x="177.336346" y="38.571776" transform="rotate(-0 177.336346 38.571776)">2  Pair labels</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 7px; font-family: 'Inter', 'DejaVu Sans'; fill: #4a5368" transform="translate(177.336346 50.395514)">peptide x HLA allele units</text>
+    <text style="font-size: 7px; font-family: 'Inter', 'DejaVu Sans'; fill: #4a5368" transform="translate(177.336346 59.031819)">6,675 positive (functional)</text>
+    <text style="font-size: 7px; font-family: 'Inter', 'DejaVu Sans'; fill: #4a5368" transform="translate(177.336346 67.668124)">5,705 negative (assay-verified)</text>
+    <text style="font-size: 7px; font-family: 'Inter', 'DejaVu Sans'; fill: #4a5368" transform="translate(177.336346 76.304428)">1,103 cross-study conflicts</text>
+    <text style="font-size: 7px; font-family: 'Inter', 'DejaVu Sans'; fill: #4a5368" transform="translate(177.336346 84.940733)">   -&gt; conflicts table</text>
+    <text style="font-size: 7px; font-family: 'Inter', 'DejaVu Sans'; fill: #4a5368" transform="translate(177.336346 93.577038)">3,525 multimer-only (suppl.)</text>
+   </g>
+   <g id="text_7">
+    <text style="font-weight: 700; font-size: 8.6px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: start; fill: #1d2433" x="177.336346" y="181.385216" transform="rotate(-0 177.336346 181.385216)">3  Decoy negatives</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 7px; font-family: 'Inter', 'DejaVu Sans'; fill: #4a5368" transform="translate(177.336346 193.208954)">N1 same-protein decoys: 3,428</text>
+    <text style="font-size: 7px; font-family: 'Inter', 'DejaVu Sans'; fill: #4a5368" transform="translate(177.336346 201.845259)">N3 length/binding/region-</text>
+    <text style="font-size: 7px; font-family: 'Inter', 'DejaVu Sans'; fill: #4a5368" transform="translate(177.336346 210.481564)">  matched decoys: 4,675</text>
+    <text style="font-size: 7px; font-family: 'Inter', 'DejaVu Sans'; fill: #4a5368" transform="translate(177.336346 219.117868)">(untested peptides; optional</text>
+    <text style="font-size: 7px; font-family: 'Inter', 'DejaVu Sans'; fill: #4a5368" transform="translate(177.336346 227.754173)"> alternative negative sets)</text>
+   </g>
+   <g id="text_9">
+    <text style="font-weight: 700; font-size: 8.6px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: start; fill: #1d2433" x="329.445" y="38.571776" transform="rotate(-0 329.445 38.571776)">4  Dataset (v1.0)</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 7px; font-family: 'Inter', 'DejaVu Sans'; fill: #4a5368" transform="translate(329.445 50.395514)">20,483 rows, 17,278 peptides</text>
+    <text style="font-size: 7px; font-family: 'Inter', 'DejaVu Sans'; fill: #4a5368" transform="translate(329.445 59.031819)">P 6,675   N2 5,705</text>
+    <text style="font-size: 7px; font-family: 'Inter', 'DejaVu Sans'; fill: #4a5368" transform="translate(329.445 67.668124)">N1 3,428   N3 4,675</text>
+    <text style="font-size: 7px; font-family: 'Inter', 'DejaVu Sans'; fill: #4a5368" transform="translate(329.445 76.304428)">evidence tier, PMID, assay,</text>
+    <text style="font-size: 7px; font-family: 'Inter', 'DejaVu Sans'; fill: #4a5368" transform="translate(329.445 84.940733)">confidence retained</text>
+   </g>
+   <g id="text_11">
+    <text style="font-weight: 700; font-size: 8.6px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: start; fill: #1d2433" x="329.445" y="181.385216" transform="rotate(-0 329.445 181.385216)">5  Leakage groups</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 7px; font-family: 'Inter', 'DejaVu Sans'; fill: #4a5368" transform="translate(329.445 193.208954)">connected components of</text>
+    <text style="font-size: 7px; font-family: 'Inter', 'DejaVu Sans'; fill: #4a5368" transform="translate(329.445 201.845259)">near-duplicate peptides</text>
+    <text style="font-size: 7px; font-family: 'Inter', 'DejaVu Sans'; fill: #4a5368" transform="translate(329.445 210.481564)">(similarity &gt;= 0.8), same parent</text>
+    <text style="font-size: 7px; font-family: 'Inter', 'DejaVu Sans'; fill: #4a5368" transform="translate(329.445 219.117868)">protein, same antigen family;</text>
+    <text style="font-size: 7px; font-family: 'Inter', 'DejaVu Sans'; fill: #4a5368" transform="translate(329.445 227.754173)">5,432 groups, largest 7.1 %</text>
+   </g>
+   <g id="text_13">
+    <text style="font-weight: 700; font-size: 8.6px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: start; fill: #1d2433" x="475.92" y="38.571776" transform="rotate(-0 475.92 38.571776)">6  Splits</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 7px; font-family: 'Inter', 'DejaVu Sans'; fill: #4a5368" transform="translate(475.92 50.395514)">S1 antigen-group (primary)</text>
+    <text style="font-size: 7px; font-family: 'Inter', 'DejaVu Sans'; fill: #4a5368" transform="translate(475.92 59.031819)">S2 held-out HLA</text>
+    <text style="font-size: 7px; font-family: 'Inter', 'DejaVu Sans'; fill: #4a5368" transform="translate(475.92 67.668124)">S3 held-out taxon</text>
+    <text style="font-size: 7px; font-family: 'Inter', 'DejaVu Sans'; fill: #4a5368" transform="translate(475.92 76.304428)">S4 random reference</text>
+    <text style="font-size: 7px; font-family: 'Inter', 'DejaVu Sans'; fill: #4a5368" transform="translate(475.92 84.940733)">70/10/20 + 5-fold CV</text>
+   </g>
+   <g id="text_15">
+    <text style="font-weight: 700; font-size: 8.6px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: start; fill: #1d2433" x="475.92" y="181.385216" transform="rotate(-0 475.92 181.385216)">7  Evaluation</text>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 7px; font-family: 'Inter', 'DejaVu Sans'; fill: #4a5368" transform="translate(475.92 193.208954)">9 baselines, 4 negative tiers</text>
+    <text style="font-size: 7px; font-family: 'Inter', 'DejaVu Sans'; fill: #4a5368" transform="translate(475.92 201.845259)">AUPRC, AUROC, MCC,</text>
+    <text style="font-size: 7px; font-family: 'Inter', 'DejaVu Sans'; fill: #4a5368" transform="translate(475.92 210.481564)">PPV@K, leakage gap, similarity bins,</text>
+    <text style="font-size: 7px; font-family: 'Inter', 'DejaVu Sans'; fill: #4a5368" transform="translate(475.92 219.117868)">cluster-bootstrap CIs</text>
+   </g>
+   <g id="patch_10">
+    <path d="M 142.407692 78.60672 
+Q 156.491827 78.60672 169.234321 78.60672 
+" style="fill: none; stroke: #7a8396; stroke-width: 1.2; stroke-linecap: round"/>
+    <path d="M 165.634321 76.80672 
+L 169.234321 78.60672 
+L 165.634321 80.40672 
+z
+" style="fill: #7a8396; stroke: #7a8396; stroke-width: 1.2; stroke-linecap: round"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 142.407692 221.42016 
+Q 156.491827 221.42016 169.234321 221.42016 
+" style="fill: none; stroke: #7a8396; stroke-width: 1.2; stroke-linecap: round"/>
+    <path d="M 165.634321 219.62016 
+L 169.234321 221.42016 
+L 165.634321 223.22016 
+z
+" style="fill: #7a8396; stroke: #7a8396; stroke-width: 1.2; stroke-linecap: round"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 294.516346 78.60672 
+Q 308.600481 78.60672 321.342975 78.60672 
+" style="fill: none; stroke: #7a8396; stroke-width: 1.2; stroke-linecap: round"/>
+    <path d="M 317.742975 76.80672 
+L 321.342975 78.60672 
+L 317.742975 80.40672 
+z
+" style="fill: #7a8396; stroke: #7a8396; stroke-width: 1.2; stroke-linecap: round"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 294.516346 221.42016 
+Q 308.600481 221.42016 321.342975 221.42016 
+" style="fill: none; stroke: #7a8396; stroke-width: 1.2; stroke-linecap: round"/>
+    <path d="M 317.742975 219.62016 
+L 321.342975 221.42016 
+L 317.742975 223.22016 
+z
+" style="fill: #7a8396; stroke: #7a8396; stroke-width: 1.2; stroke-linecap: round"/>
+   </g>
+   <g id="patch_14">
+    <path d="M 232.546154 131.3856 
+Q 232.546154 150.01344 232.546154 167.299639 
+" style="fill: none; stroke: #7a8396; stroke-width: 1.2; stroke-linecap: round"/>
+    <path d="M 234.346154 163.699639 
+L 232.546154 167.299639 
+L 230.746154 163.699639 
+z
+" style="fill: #7a8396; stroke: #7a8396; stroke-width: 1.2; stroke-linecap: round"/>
+   </g>
+   <g id="patch_15">
+    <path d="M 384.654808 131.3856 
+Q 384.654808 150.01344 384.654808 167.299639 
+" style="fill: none; stroke: #7a8396; stroke-width: 1.2; stroke-linecap: round"/>
+    <path d="M 386.454808 163.699639 
+L 384.654808 167.299639 
+L 382.854808 163.699639 
+z
+" style="fill: #7a8396; stroke: #7a8396; stroke-width: 1.2; stroke-linecap: round"/>
+   </g>
+   <g id="patch_16">
+    <path d="M 446.625 78.60672 
+Q 457.892308 78.60672 467.817975 78.60672 
+" style="fill: none; stroke: #7a8396; stroke-width: 1.2; stroke-linecap: round"/>
+    <path d="M 464.217975 76.80672 
+L 467.817975 78.60672 
+L 464.217975 80.40672 
+z
+" style="fill: #7a8396; stroke: #7a8396; stroke-width: 1.2; stroke-linecap: round"/>
+   </g>
+   <g id="patch_17">
+    <path d="M 446.625 221.42016 
+Q 457.892308 221.42016 467.817975 221.42016 
+" style="fill: none; stroke: #7a8396; stroke-width: 1.2; stroke-linecap: round"/>
+    <path d="M 464.217975 219.62016 
+L 467.817975 221.42016 
+L 464.217975 223.22016 
+z
+" style="fill: #7a8396; stroke: #7a8396; stroke-width: 1.2; stroke-linecap: round"/>
+   </g>
+   <g id="patch_18">
+    <path d="M 522.679327 131.3856 
+Q 522.679327 150.01344 522.679327 167.299639 
+" style="fill: none; stroke: #7a8396; stroke-width: 1.2; stroke-linecap: round"/>
+    <path d="M 524.479327 163.699639 
+L 522.679327 167.299639 
+L 520.879327 163.699639 
+z
+" style="fill: #7a8396; stroke: #7a8396; stroke-width: 1.2; stroke-linecap: round"/>
+   </g>
+   <g id="text_17">
+    <text style="font-style: italic; font-size: 7.6px; font-family: 'Inter', 'DejaVu Sans'; text-anchor: start; fill: #4a5368" x="18.467308" y="308.35008" transform="rotate(-0 18.467308 308.35008)">No shuffled or random negatives are released; random peptides (N0) are generated only at analysis time to quantify inflation.</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p3966c0b8fb">
+   <rect x="7.2" y="7.2" width="585.9" height="310.464"/>
+  </clipPath>
+ </defs>
+</svg>

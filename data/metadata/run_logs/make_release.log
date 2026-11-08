@@ -1,0 +1,16 @@
+17:13:01 INFO make_release: PASS  row_id unique
+17:13:01 INFO make_release: PASS  tiers present: ['N1', 'N2', 'N3', 'P'] (no N0 / random negatives)
+17:13:01 INFO make_release: PASS  label == 1 exactly for tier P
+17:13:01 INFO make_release: PASS  peptides canonical, length 8-11
+17:13:01 INFO make_release: PASS  all alleles are two-field HLA-A/B/C names
+17:13:01 INFO make_release: PASS  length column equals peptide length
+17:13:01 INFO make_release: PASS  no (peptide, allele) pair is both P and N2
+17:13:01 INFO make_release: PASS  no duplicated (peptide, allele, tier)
+17:13:01 INFO make_release: PASS  conflict pairs are excluded from P and N2
+17:13:01 INFO make_release: PASS  leakage groups and splits cover every row
+17:13:01 INFO make_release: PASS  CV fold columns complete
+17:13:02 INFO make_release: PASS  S1: primary files only P/N2 and train/test disjoint
+17:13:02 INFO make_release: PASS  S2: primary files only P/N2 and train/test disjoint
+17:13:02 INFO make_release: PASS  S3: primary files only P/N2 and train/test disjoint
+17:13:02 INFO make_release: PASS  S4: primary files only P/N2 and train/test disjoint
+17:13:02 INFO make_release: PASS  positives and N2 negatives present

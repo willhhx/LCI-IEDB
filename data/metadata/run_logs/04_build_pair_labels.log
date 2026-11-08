@@ -1,0 +1,14 @@
+01:06:11 INFO 04_build_pair_labels: records_resolved_allele                        76178
+01:06:11 INFO 04_build_pair_labels: records_functional_assay                       52307
+01:06:11 INFO 04_build_pair_labels: records_allowed_effector_cell                  51254
+01:06:11 INFO 04_build_pair_labels: records_allowed_culture                        45323
+01:06:11 INFO 04_build_pair_labels: records_allele_established                     23317
+01:06:11 INFO 04_build_pair_labels: pairs_total                                    13483
+01:06:11 INFO 04_build_pair_labels: pairs_positive                                  6675
+01:06:11 INFO 04_build_pair_labels: pairs_negative                                  5705
+01:06:11 INFO 04_build_pair_labels: pairs_conflict                                  1103
+01:06:11 INFO 04_build_pair_labels: pairs_negative_high_confidence                  1795
+01:06:11 INFO 04_build_pair_labels: pairs_negative_medium_confidence                3910
+01:06:11 INFO 04_build_pair_labels: pairs_positive_mixed_within_study                809
+01:06:11 INFO 04_build_pair_labels: pairs_multimer_only_positive                    3525
+01:06:11 INFO 04_build_pair_labels: references_used                                 1174

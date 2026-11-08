@@ -1,0 +1,16 @@
+# raw IEDB exports (not redistributed) and big intermediates
+data/raw/
+data/processed/oof/
+*.zip
+__pycache__/
+*.pyc
+.DS_Store
+.idea/
+# LaTeX build files
+manuscript/*.aux
+manuscript/*.log
+manuscript/*.out
+manuscript/*.fls
+manuscript/*.fdb_latexmk
+tmp/
+manuscript/

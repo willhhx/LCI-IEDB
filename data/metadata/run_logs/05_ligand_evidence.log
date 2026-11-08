@@ -1,0 +1,8 @@
+01:06:32 INFO 05_ligand_evidence: ligand records: 1307258
+01:06:49 INFO 05_ligand_evidence: ligand pairs: 700892
+T-cell pairs by status x independent MHC evidence:
+mhc_evidence_class  binder  nonbinder  none  strong_binder
+status                                                    
+conflict               401        129   399            174
+negative               824        281  4371            229
+positive              2263        534  3154            724

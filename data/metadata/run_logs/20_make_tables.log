@@ -1,0 +1,7 @@
+11:54:27 INFO 20_make_tables: table1_dataset_statistics: 36 rows
+11:54:27 INFO 20_make_tables: table2_hla_allele_distribution: 26 rows
+11:54:27 INFO 20_make_tables: table3_source_organism_distribution: 21 rows
+11:54:27 INFO 20_make_tables: table4_composition: 26 rows
+11:54:27 INFO 20_make_tables: table5_split_statistics: 20 rows
+11:54:27 INFO 20_make_tables: table6_model_performance: 10 rows
+11:54:27 INFO 20_make_tables: table7_leakage_gap: 27 rows
